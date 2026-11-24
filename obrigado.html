@@ -62,7 +62,7 @@ var LINK_BASICO  = '#link-entregavel-basico';
   var p = (new URLSearchParams(location.search).get('plano') || '').toLowerCase();
   var a = document.getElementById('acesso');
   var t = document.querySelector('[data-plano-texto]');
-  if (p === 'basico') { a.href = LINK_BASICO; t.textContent = 'Seus 20 modelos com ficha completa e as 15 técnicas-base estão liberados. Toque no botão abaixo pra abrir.'; }
+  if (p === 'basico') { a.href = LINK_BASICO; t.textContent = 'Seus 45 modelos com ficha completa estão liberados. Toque no botão abaixo pra abrir.'; }
   else if (p === 'premium') { a.href = LINK_PREMIUM; t.textContent = 'Seus 45 modelos, a tabela de 3 tamanhos e os 4 bônus estão liberados. Toque no botão abaixo pra abrir.'; }
   if (a.getAttribute('href').charAt(0) === '#') { a.setAttribute('aria-disabled','true'); }
 })();
