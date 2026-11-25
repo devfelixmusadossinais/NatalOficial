@@ -1,0 +1,983 @@
+{
+  "guirlandas": [
+    {
+      "page": 1,
+      "title": ""
+    },
+    {
+      "page": 2,
+      "title": "Vermelho assimétrico com sino central"
+    },
+    {
+      "page": 3,
+      "title": "Flores marfim e lanterna central"
+    },
+    {
+      "page": 4,
+      "title": "Champagne com folhas ouro abertas"
+    },
+    {
+      "page": 5,
+      "title": "Dourado e bronze com laço lateral"
+    },
+    {
+      "page": 6,
+      "title": "Prata e marfim com lanterna"
+    },
+    {
+      "page": 7,
+      "title": "Verde com pontos dourados e laço de juta"
+    },
+    {
+      "page": 8,
+      "title": "Minimalista com laço vermelho no alto"
+    },
+    {
+      "page": 9,
+      "title": "Nevada com laço marfim e pinhas"
+    },
+    {
+      "page": 10,
+      "title": "Frutos vermelhos e fita estreita lateral"
+    },
+    {
+      "page": 11,
+      "title": "Vermelho canelado com bolas champagne"
+    },
+    {
+      "page": 12,
+      "title": "Bordô com flores claras sem laço"
+    },
+    {
+      "page": 13,
+      "title": "Clássica com laço misto inferior"
+    },
+    {
+      "page": 14,
+      "title": "Eucalipto e pinhas com laço branco"
+    },
+    {
+      "page": 15,
+      "title": "Lanterna branca e laço xadrez champagne"
+    },
+    {
+      "page": 16,
+      "title": "Pinhas naturais e laço vermelho contornado"
+    },
+    {
+      "page": 17,
+      "title": "Verde e bordô com poinsétias de borda ouro"
+    },
+    {
+      "page": 18,
+      "title": "Sagrada Família em pinheiro prateado"
+    },
+    {
+      "page": 19,
+      "title": "Presépio com grande laço vermelho"
+    },
+    {
+      "page": 20,
+      "title": "Duende inferior e laço vermelho"
+    },
+    {
+      "page": 21,
+      "title": "Casinha da Natividade em aro rústico"
+    },
+    {
+      "page": 22,
+      "title": "Bordô, branco e rena dourada"
+    },
+    {
+      "page": 23,
+      "title": "Flores natalinas vermelhas e ouro—"
+    },
+    {
+      "page": 24,
+      "title": "Papai Noel de pernas listradas"
+    },
+    {
+      "page": 25,
+      "title": "Champagne com laço superior"
+    },
+    {
+      "page": 26,
+      "title": "Tartã lateral e bolas com fios"
+    },
+    {
+      "page": 27,
+      "title": "Anel inteiro de frutos vermelhos"
+    },
+    {
+      "page": 28,
+      "title": "Papai e Mamãe Noel com flores ouro"
+    },
+    {
+      "page": 29,
+      "title": "Laço principal e minilaços vermelhos"
+    },
+    {
+      "page": 30,
+      "title": "Nevada com laço bordô e bolas vermelhas"
+    },
+    {
+      "page": 31,
+      "title": "Anel natural sem laço"
+    },
+    {
+      "page": 32,
+      "title": "Dourado com poinsétia na base"
+    },
+    {
+      "page": 33,
+      "title": "Cipó com placa JOY e laço tartã"
+    },
+    {
+      "page": 34,
+      "title": "Nevada com cardeais e bagas brancas"
+    },
+    {
+      "page": 35,
+      "title": "Tartã com bolas vermelhas e prata"
+    },
+    {
+      "page": 36,
+      "title": "Xadrez preto e branco em folhagem verde"
+    },
+    {
+      "page": 37,
+      "title": "Vermelho iluminado com estrelas"
+    },
+    {
+      "page": 38,
+      "title": "Ursinho com flores vermelhas"
+    },
+    {
+      "page": 39,
+      "title": "Juta em babados e pinheiro lateral"
+    },
+    {
+      "page": 40,
+      "title": "Aro revestido de xadrez com arranjo inferior"
+    },
+    {
+      "page": 41,
+      "title": "Guirlanda natalina rústica com presépio"
+    },
+    {
+      "page": 42,
+      "title": "Cipó com bolas e fita de juta"
+    },
+    {
+      "page": 43,
+      "title": "Três gnomos na base de cipó"
+    },
+    {
+      "page": 44,
+      "title": "Cipó com poinsétias vermelhas à esquerda"
+    },
+    {
+      "page": 45,
+      "title": "Cipó com pinhas e azevinho"
+    },
+    {
+      "page": 46,
+      "title": "Cipó com buquê branco e champagne"
+    },
+    {
+      "page": 47,
+      "title": "Aro de cordão com laço vermelho.—"
+    },
+    {
+      "page": 48,
+      "title": "Poinsétias vermelhas com laço ouro"
+    },
+    {
+      "page": 49,
+      "title": "Flores grandes vermelhas e douradas sem laço"
+    },
+    {
+      "page": 50,
+      "title": "Flores vermelhas e laço translúcido"
+    },
+    {
+      "page": 51,
+      "title": "Noel cinza no aro rústico"
+    },
+    {
+      "page": 52,
+      "title": "Flores marfim e vermelhas com bolas grandes"
+    },
+    {
+      "page": 53,
+      "title": "Três sinos dourados"
+    },
+    {
+      "page": 54,
+      "title": "Verde-petróleo com flores ouro"
+    },
+    {
+      "page": 55,
+      "title": "Branca com rena e bolas claras"
+    },
+    {
+      "page": 56,
+      "title": "Azul metálico e flores champagne"
+    },
+    {
+      "page": 57,
+      "title": "Verde e bronze com laço listrado"
+    },
+    {
+      "page": 58,
+      "title": "Rosas rosé e laço de veludo"
+    },
+    {
+      "page": 59,
+      "title": "Verde, azul e ouro sem laço"
+    },
+    {
+      "page": 60,
+      "title": "Roxo com flores e laço translúcido"
+    },
+    {
+      "page": 61,
+      "title": "Meia-lua clara com poinsétia rosa"
+    },
+    {
+      "page": 62,
+      "title": "Rosé e prata com folhas longas"
+    },
+    {
+      "page": 63,
+      "title": "Eucalipto e bolas verde-sálvia"
+    }
+  ],
+  "lacos": [
+    {
+      "page": 1,
+      "title": ""
+    },
+    {
+      "page": 2,
+      "title": ""
+    },
+    {
+      "page": 3,
+      "title": ""
+    },
+    {
+      "page": 4,
+      "title": "Vermelho com trama dourada"
+    },
+    {
+      "page": 5,
+      "title": "Xadrez tartã tradicional"
+    },
+    {
+      "page": 6,
+      "title": "Vermelho liso de pontas longas"
+    },
+    {
+      "page": 7,
+      "title": "Prata com centro largo"
+    },
+    {
+      "page": 8,
+      "title": "Dourado de trama rústica"
+    },
+    {
+      "page": 9,
+      "title": "Dourado luminoso em camadas"
+    },
+    {
+      "page": 10,
+      "title": "Veludo vermelho com estrela"
+    },
+    {
+      "page": 11,
+      "title": "Vermelho com borboleta brilhante"
+    },
+    {
+      "page": 12,
+      "title": "Marfim com organza rosé"
+    },
+    {
+      "page": 13,
+      "title": "Tartã com base vermelha"
+    },
+    {
+      "page": 14,
+      "title": "Xadrez em três camadas"
+    },
+    {
+      "page": 15,
+      "title": "Vermelho acetinado com fundo ouro"
+    },
+    {
+      "page": 16,
+      "title": "Xadrez com organza dourada"
+    },
+    {
+      "page": 17,
+      "title": "Veludo bordô e arabescos dourados"
+    },
+    {
+      "page": 18,
+      "title": "Tartã com borboleta dourada"
+    },
+    {
+      "page": 19,
+      "title": "Linho com geométrico vermelho"
+    },
+    {
+      "page": 20,
+      "title": "Xadrez preto e branco com frutos"
+    },
+    {
+      "page": 21,
+      "title": "Verde rústico de centro largo"
+    },
+    {
+      "page": 22,
+      "title": "Azul-marinho com xadrez creme"
+    },
+    {
+      "page": 23,
+      "title": "Vermelho e Vichy com cascata"
+    },
+    {
+      "page": 24,
+      "title": "Juta natural com folhagem"
+    },
+    {
+      "page": 25,
+      "title": "Juta e organza marrom"
+    },
+    {
+      "page": 26,
+      "title": "Linho natural com pontas curvas"
+    },
+    {
+      "page": 27,
+      "title": "Juta com xadrez vermelho e preto"
+    },
+    {
+      "page": 28,
+      "title": "Linho estampado de flocos vermelhos"
+    },
+    {
+      "page": 29,
+      "title": "Laço natalino de linho com flocos vermelhos"
+    },
+    {
+      "page": 30,
+      "title": "Dourado com flores bordô"
+    },
+    {
+      "page": 31,
+      "title": "Creme com estrelas douradas"
+    },
+    {
+      "page": 32,
+      "title": "Vermelho com flocos brancos"
+    },
+    {
+      "page": 33,
+      "title": "Verde-oliva de bordas claras"
+    },
+    {
+      "page": 34,
+      "title": "Xadrez, listras e linho"
+    },
+    {
+      "page": 35,
+      "title": "Xadrez vermelho e verde-claro"
+    },
+    {
+      "page": 36,
+      "title": "Xadrez com motivos de caminhonete"
+    },
+    {
+      "page": 37,
+      "title": "Linho minimalista"
+    },
+    {
+      "page": 38,
+      "title": "Linho com fios metálicos"
+    },
+    {
+      "page": 39,
+      "title": "Juta com renda branca"
+    },
+    {
+      "page": 40,
+      "title": "Marfim e dourado com folhagem"
+    },
+    {
+      "page": 41,
+      "title": "Marrom metálico"
+    },
+    {
+      "page": 42,
+      "title": "Prata com centro de borboleta"
+    },
+    {
+      "page": 43,
+      "title": "Vermelho glitter para árvore"
+    },
+    {
+      "page": 44,
+      "title": "Verde-esmeralda brilhante"
+    },
+    {
+      "page": 45,
+      "title": "Organza branca com cascata"
+    },
+    {
+      "page": 46,
+      "title": "Vermelho clássico para cortina"
+    },
+    {
+      "page": 47,
+      "title": "Marrom e champanhe com flor"
+    },
+    {
+      "page": 48,
+      "title": "Rena natalina vermelha"
+    },
+    {
+      "page": 49,
+      "title": "Verde-escuro com pinha pendente"
+    },
+    {
+      "page": 50,
+      "title": "Vermelho com arranjo floral"
+    },
+    {
+      "page": 51,
+      "title": "Vermelho com punhos brancos"
+    },
+    {
+      "page": 52,
+      "title": "Champanhe com pinha pendente"
+    },
+    {
+      "page": 53,
+      "title": "Juta com pinha e frutos"
+    },
+    {
+      "page": 54,
+      "title": "Xadrez com Papai Noel"
+    },
+    {
+      "page": 55,
+      "title": "Branco e ouro com poás"
+    },
+    {
+      "page": 56,
+      "title": "Verde e ouro com pontas em leque"
+    },
+    {
+      "page": 57,
+      "title": "Creme e ouro com flor central"
+    },
+    {
+      "page": 58,
+      "title": "Rosé com rosa central"
+    },
+    {
+      "page": 59,
+      "title": "Bordô e prata em cascata"
+    },
+    {
+      "page": 60,
+      "title": "Vermelho com organza dourada"
+    },
+    {
+      "page": 61,
+      "title": "Azul-claro e prata volumoso"
+    },
+    {
+      "page": 62,
+      "title": "Azul-real com ramos prateados"
+    },
+    {
+      "page": 63,
+      "title": "Árvores verdes com acabamento preto"
+    },
+    {
+      "page": 64,
+      "title": "Xadrez vermelho e dourado com branco"
+    },
+    {
+      "page": 65,
+      "title": "Veludo rosé delicado"
+    },
+    {
+      "page": 66,
+      "title": "Dourado de arabescos"
+    },
+    {
+      "page": 67,
+      "title": "Organza branca com poás dourados"
+    },
+    {
+      "page": 68,
+      "title": "Verde glitter clássico"
+    },
+    {
+      "page": 69,
+      "title": "Azul-marinho com flocos e prata"
+    },
+    {
+      "page": 70,
+      "title": "Prata de centro franzido"
+    },
+    {
+      "page": 71,
+      "title": "Prata com centro encapado"
+    },
+    {
+      "page": 72,
+      "title": "Prata metalizada volumosa"
+    },
+    {
+      "page": 73,
+      "title": "Prata com centro arredondado"
+    },
+    {
+      "page": 74,
+      "title": "Ouro envelhecido com brilho"
+    },
+    {
+      "page": 75,
+      "title": "Rosé em três camadas"
+    },
+    {
+      "page": 76,
+      "title": "Rosa de camadas e pontas curvas"
+    },
+    {
+      "page": 77,
+      "title": "Rosa fosco de centro largo"
+    },
+    {
+      "page": 78,
+      "title": "Rosa com flocos e bordas nevadas"
+    },
+    {
+      "page": 79,
+      "title": "Veludo rosa com borda dourada"
+    },
+    {
+      "page": 80,
+      "title": "Dourado e creme com ramos"
+    },
+    {
+      "page": 81,
+      "title": "Juta dourada com brilho"
+    },
+    {
+      "page": 82,
+      "title": "Branco de textura felpuda"
+    },
+    {
+      "page": 83,
+      "title": "Linho e prata com renda"
+    },
+    {
+      "page": 84,
+      "title": "Branco com broche e cascata"
+    },
+    {
+      "page": 85,
+      "title": "Dourado estreito de quatro alças"
+    },
+    {
+      "page": 86,
+      "title": "Verde-escuro com listras douradas"
+    },
+    {
+      "page": 87,
+      "title": "Verde com listras finas"
+    },
+    {
+      "page": 88,
+      "title": "Verde e dourado em três níveis"
+    },
+    {
+      "page": 89,
+      "title": "Verde e juta de bordas verdes"
+    },
+    {
+      "page": 90,
+      "title": "Xadrez para guirlanda com frutos"
+    },
+    {
+      "page": 91,
+      "title": "Juta e xadrez em três níveis com seis caudas — Variação"
+    },
+    {
+      "page": 92,
+      "title": "Pendente rendado com pinha e laço duplo — Variação"
+    },
+    {
+      "page": 93,
+      "title": "Papai Noel de quatro alças com cinto — Variação"
+    },
+    {
+      "page": 94,
+      "title": "Pendente duplo de pinhas com laço de juta — Variação"
+    },
+    {
+      "page": 95,
+      "title": "Azul-real com leque de três pontas prateadas — Variação"
+    },
+    {
+      "page": 96,
+      "title": "Rosa perolado de quatro alças em camadas — Variação"
+    },
+    {
+      "page": 97,
+      "title": "Vermelho com ramos de frutos"
+    },
+    {
+      "page": 98,
+      "title": "Topo natalino vermelho e creme"
+    },
+    {
+      "page": 99,
+      "title": "Laço azul-gelo com borboleta"
+    },
+    {
+      "page": 100,
+      "title": "Rosé com esferas decorativas"
+    },
+    {
+      "page": 101,
+      "title": "Vermelho com flor de Natal"
+    },
+    {
+      "page": 102,
+      "title": "Juta para cadeira natalina"
+    },
+    {
+      "page": 103,
+      "title": "Marfim com cascata longa"
+    },
+    {
+      "page": 104,
+      "title": "Prata clássico de nó central"
+    },
+    {
+      "page": 105,
+      "title": "Rosa com pérolas"
+    },
+    {
+      "page": 106,
+      "title": "Dourado acetinado de pontas longas"
+    },
+    {
+      "page": 107,
+      "title": "Esmeralda com cascata espiral — Variação"
+    }
+  ],
+  "modelos": [
+    {
+      "page": 1,
+      "title": "",
+      "segment": ""
+    },
+    {
+      "page": 2,
+      "title": "Relicário verde-petróleo com arabescos dourados",
+      "segment": "Verdes"
+    },
+    {
+      "page": 3,
+      "title": "Flor dourada sobre verde-esmeralda",
+      "segment": "Verdes"
+    },
+    {
+      "page": 4,
+      "title": "Poinsétia vermelha e laço de veludo",
+      "segment": "Vermelhos"
+    },
+    {
+      "page": 5,
+      "title": "Relicário natalino champagne com pinhas e bagas ouro",
+      "segment": "Champagne e Prata"
+    },
+    {
+      "page": 6,
+      "title": "Vermelho profundo com espigas",
+      "segment": "Vermelhos"
+    },
+    {
+      "page": 7,
+      "title": "Vermelho vivo com laço em camadas",
+      "segment": "Vermelhos"
+    },
+    {
+      "page": 8,
+      "title": "Verde e ouro com folhagem erguida",
+      "segment": "Verdes"
+    },
+    {
+      "page": 9,
+      "title": "Linho claro com bagas brancas",
+      "segment": "Rústico e Juta"
+    },
+    {
+      "page": 10,
+      "title": "Tartã com eucalipto e bola telada",
+      "segment": "Tartã e Xadrez"
+    },
+    {
+      "page": 11,
+      "title": "Laço vermelho com cascata de pinheiro",
+      "segment": "Vermelhos"
+    },
+    {
+      "page": 12,
+      "title": "Rosé listrado com bola vinho",
+      "segment": "Rosê e Marfim"
+    },
+    {
+      "page": 13,
+      "title": "Faixa vermelha com centro tartã",
+      "segment": "Tartã e Xadrez"
+    },
+    {
+      "page": 14,
+      "title": "Noel estampado e frutos em cascata",
+      "segment": "Com Papai Noel/Ursinho"
+    },
+    {
+      "page": 15,
+      "title": "Listras largas e juta natural",
+      "segment": "Rústico e Juta"
+    },
+    {
+      "page": 16,
+      "title": "Vermelho liso com buquê compacto",
+      "segment": "Vermelhos"
+    },
+    {
+      "page": 17,
+      "title": "Vermelho e creme com pinhas nevadas",
+      "segment": "Vermelhos"
+    },
+    {
+      "page": 18,
+      "title": "Poinsétia vermelha e arabescos dourados",
+      "segment": "Vermelhos"
+    },
+    {
+      "page": 19,
+      "title": "Flor dourada e cachos vermelhos",
+      "segment": "Dourados"
+    },
+    {
+      "page": 20,
+      "title": "Flor marfim com pérolas e bolas ouro",
+      "segment": "Rosê e Marfim"
+    },
+    {
+      "page": 21,
+      "title": "Vermelho de borda ouro e frutos pendentes",
+      "segment": "Vermelhos"
+    },
+    {
+      "page": 22,
+      "title": "Linho rústico com hastes prateadas",
+      "segment": "Rústico e Juta"
+    },
+    {
+      "page": 23,
+      "title": "Prata com bolas vermelhas e raiz pendente",
+      "segment": "Champagne e Prata"
+    },
+    {
+      "page": 24,
+      "title": "Dourado vazado minimalista",
+      "segment": "Dourados"
+    },
+    {
+      "page": 25,
+      "title": "Champagne com dois laços e bolas",
+      "segment": "Champagne e Prata"
+    },
+    {
+      "page": 26,
+      "title": "Laço ouro e poinsétia vermelha",
+      "segment": "Dourados"
+    },
+    {
+      "page": 27,
+      "title": "Dourado integral com pinha central",
+      "segment": "Dourados"
+    },
+    {
+      "page": 28,
+      "title": "Ursinho no laço tartã",
+      "segment": "Com Papai Noel/Ursinho"
+    },
+    {
+      "page": 29,
+      "title": "Flor branca com sinos prateados",
+      "segment": "Vermelhos"
+    },
+    {
+      "page": 30,
+      "title": "Marfim com flor vazada e ramos soltos",
+      "segment": "Rosê e Marfim"
+    },
+    {
+      "page": 31,
+      "title": "Marrom listrado com folhagem cobre",
+      "segment": "Rústico e Juta"
+    },
+    {
+      "page": 32,
+      "title": "Floco na faixa e três bolas vermelhas",
+      "segment": "Rústico e Juta"
+    },
+    {
+      "page": 33,
+      "title": "Relicário taupe com rosas claras e bagas",
+      "segment": "Rosê e Marfim"
+    },
+    {
+      "page": 34,
+      "title": "Champagne com cascata de bolas",
+      "segment": "Champagne e Prata"
+    },
+    {
+      "page": 35,
+      "title": "Papai Noel sobre faixa xadrez",
+      "segment": "Com Papai Noel/Ursinho"
+    },
+    {
+      "page": 36,
+      "title": "Poinsétia vermelha sem laço",
+      "segment": "Vermelhos"
+    },
+    {
+      "page": 37,
+      "title": "Dois laços vermelho e branco",
+      "segment": "Vermelhos"
+    },
+    {
+      "page": 38,
+      "title": "Listrado vermelho com laço glitter",
+      "segment": "Vermelhos"
+    },
+    {
+      "page": 39,
+      "title": "Verde-água com bagas brancas",
+      "segment": "Verdes"
+    },
+    {
+      "page": 40,
+      "title": "Leque listrado com frutos",
+      "segment": "Vermelhos"
+    },
+    {
+      "page": 41,
+      "title": "Relicário natalino: amarelo manteiga",
+      "segment": "Dourados"
+    },
+    {
+      "page": 42,
+      "title": "Relicário natalino: Bordô sobre xadrez claro",
+      "segment": "Tartã e Xadrez"
+    },
+    {
+      "page": 43,
+      "title": "Vermelho tartã com leque dourado",
+      "segment": "Tartã e Xadrez"
+    },
+    {
+      "page": 44,
+      "title": "Ouro fino com ramos alongados",
+      "segment": "Dourados"
+    },
+    {
+      "page": 45,
+      "title": "Relicário natalino — Anjinho com dois laços vermelhos",
+      "segment": "Natal cristão"
+    },
+    {
+      "page": 46,
+      "title": "Champagne brocado e cascata verde",
+      "segment": "Champagne e Prata"
+    },
+    {
+      "page": 47,
+      "title": "Poinsétia bordô com fita de folhagens",
+      "segment": "Vermelhos"
+    },
+    {
+      "page": 48,
+      "title": "Xadrez branco com placa de festas",
+      "segment": "Tartã e Xadrez"
+    },
+    {
+      "page": 49,
+      "title": "Relicário natalino — Tartã amplo com folhagem densa",
+      "segment": "Tartã e Xadrez"
+    },
+    {
+      "page": 50,
+      "title": "Tartã e rosa com folha dourada",
+      "segment": "Tartã e Xadrez"
+    },
+    {
+      "page": 51,
+      "title": "Bordô e dourado com flor de veludo",
+      "segment": "Vermelhos"
+    },
+    {
+      "page": 52,
+      "title": "Preto e prata com folhagem nevada",
+      "segment": "Champagne e Prata"
+    },
+    {
+      "page": 53,
+      "title": "Rosé luminoso com folhas douradas",
+      "segment": "Rosê e Marfim"
+    },
+    {
+      "page": 54,
+      "title": "Rosé de flocos com bola central ouro",
+      "segment": "Rosê e Marfim"
+    },
+    {
+      "page": 55,
+      "title": "Marrom de folhas com poinsétia ouro",
+      "segment": "Rústico e Juta"
+    },
+    {
+      "page": 56,
+      "title": "Prata e champagne com duas bolas",
+      "segment": "Champagne e Prata"
+    },
+    {
+      "page": 57,
+      "title": "Ouro vazado com laço translúcido",
+      "segment": "Dourados"
+    },
+    {
+      "page": 58,
+      "title": "Amarelo e ouro com flor pendente",
+      "segment": "Dourados"
+    },
+    {
+      "page": 59,
+      "title": "Champagne com sino e arabescos",
+      "segment": "Champagne e Prata"
+    }
+  ]
+}

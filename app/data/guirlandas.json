@@ -1,0 +1,822 @@
+{
+  "items": [
+    {
+      "n": 1,
+      "page": 2,
+      "title": "Vermelho assimétrico com sino central",
+      "image": "img/guirlandas/002.webp",
+      "thumb": "img/guirlandas/002-thumb.webp",
+      "segment": "",
+      "sample": "img/guirlandas/002-sample.webp"
+    },
+    {
+      "n": 2,
+      "page": 3,
+      "title": "Flores marfim e lanterna central",
+      "image": "img/guirlandas/003.webp",
+      "thumb": "img/guirlandas/003-thumb.webp",
+      "segment": "",
+      "sample": "img/guirlandas/003-sample.webp"
+    },
+    {
+      "n": 3,
+      "page": 4,
+      "title": "Champagne com folhas ouro abertas",
+      "image": "img/guirlandas/004.webp",
+      "thumb": "img/guirlandas/004-thumb.webp",
+      "segment": "",
+      "sample": "img/guirlandas/004-sample.webp"
+    },
+    {
+      "n": 4,
+      "page": 5,
+      "title": "Dourado e bronze com laço lateral",
+      "image": "img/guirlandas/005.webp",
+      "thumb": "img/guirlandas/005-thumb.webp",
+      "segment": ""
+    },
+    {
+      "n": 5,
+      "page": 6,
+      "title": "Prata e marfim com lanterna",
+      "image": "img/guirlandas/006.webp",
+      "thumb": "img/guirlandas/006-thumb.webp",
+      "segment": ""
+    },
+    {
+      "n": 6,
+      "page": 7,
+      "title": "Verde com pontos dourados e laço de juta",
+      "image": "img/guirlandas/007.webp",
+      "thumb": "img/guirlandas/007-thumb.webp",
+      "segment": ""
+    },
+    {
+      "n": 7,
+      "page": 8,
+      "title": "Minimalista com laço vermelho no alto",
+      "image": "img/guirlandas/008.webp",
+      "thumb": "img/guirlandas/008-thumb.webp",
+      "segment": ""
+    },
+    {
+      "n": 8,
+      "page": 9,
+      "title": "Nevada com laço marfim e pinhas",
+      "image": "img/guirlandas/009.webp",
+      "thumb": "img/guirlandas/009-thumb.webp",
+      "segment": ""
+    },
+    {
+      "n": 9,
+      "page": 10,
+      "title": "Frutos vermelhos e fita estreita lateral",
+      "image": "img/guirlandas/010.webp",
+      "thumb": "img/guirlandas/010-thumb.webp",
+      "segment": ""
+    },
+    {
+      "n": 10,
+      "page": 11,
+      "title": "Vermelho canelado com bolas champagne",
+      "image": "img/guirlandas/011.webp",
+      "thumb": "img/guirlandas/011-thumb.webp",
+      "segment": ""
+    },
+    {
+      "n": 11,
+      "page": 12,
+      "title": "Bordô com flores claras sem laço",
+      "image": "img/guirlandas/012.webp",
+      "thumb": "img/guirlandas/012-thumb.webp",
+      "segment": ""
+    },
+    {
+      "n": 12,
+      "page": 13,
+      "title": "Clássica com laço misto inferior",
+      "image": "img/guirlandas/013.webp",
+      "thumb": "img/guirlandas/013-thumb.webp",
+      "segment": ""
+    },
+    {
+      "n": 13,
+      "page": 14,
+      "title": "Eucalipto e pinhas com laço branco",
+      "image": "img/guirlandas/014.webp",
+      "thumb": "img/guirlandas/014-thumb.webp",
+      "segment": ""
+    },
+    {
+      "n": 14,
+      "page": 15,
+      "title": "Lanterna branca e laço xadrez champagne",
+      "image": "img/guirlandas/015.webp",
+      "thumb": "img/guirlandas/015-thumb.webp",
+      "segment": ""
+    },
+    {
+      "n": 15,
+      "page": 16,
+      "title": "Pinhas naturais e laço vermelho contornado",
+      "image": "img/guirlandas/016.webp",
+      "thumb": "img/guirlandas/016-thumb.webp",
+      "segment": ""
+    },
+    {
+      "n": 16,
+      "page": 17,
+      "title": "Verde e bordô com poinsétias de borda ouro",
+      "image": "img/guirlandas/017.webp",
+      "thumb": "img/guirlandas/017-thumb.webp",
+      "segment": ""
+    },
+    {
+      "n": 17,
+      "page": 18,
+      "title": "Sagrada Família em pinheiro prateado",
+      "image": "img/guirlandas/018.webp",
+      "thumb": "img/guirlandas/018-thumb.webp",
+      "segment": ""
+    },
+    {
+      "n": 18,
+      "page": 19,
+      "title": "Presépio com grande laço vermelho",
+      "image": "img/guirlandas/019.webp",
+      "thumb": "img/guirlandas/019-thumb.webp",
+      "segment": ""
+    },
+    {
+      "n": 19,
+      "page": 20,
+      "title": "Duende inferior e laço vermelho",
+      "image": "img/guirlandas/020.webp",
+      "thumb": "img/guirlandas/020-thumb.webp",
+      "segment": ""
+    },
+    {
+      "n": 20,
+      "page": 21,
+      "title": "Casinha da Natividade em aro rústico",
+      "image": "img/guirlandas/021.webp",
+      "thumb": "img/guirlandas/021-thumb.webp",
+      "segment": ""
+    },
+    {
+      "n": 21,
+      "page": 22,
+      "title": "Bordô, branco e rena dourada",
+      "image": "img/guirlandas/022.webp",
+      "thumb": "img/guirlandas/022-thumb.webp",
+      "segment": ""
+    },
+    {
+      "n": 22,
+      "page": 23,
+      "title": "Flores natalinas vermelhas e ouro—",
+      "image": "img/guirlandas/023.webp",
+      "thumb": "img/guirlandas/023-thumb.webp",
+      "segment": ""
+    },
+    {
+      "n": 23,
+      "page": 24,
+      "title": "Papai Noel de pernas listradas",
+      "image": "img/guirlandas/024.webp",
+      "thumb": "img/guirlandas/024-thumb.webp",
+      "segment": ""
+    },
+    {
+      "n": 24,
+      "page": 25,
+      "title": "Champagne com laço superior",
+      "image": "img/guirlandas/025.webp",
+      "thumb": "img/guirlandas/025-thumb.webp",
+      "segment": ""
+    },
+    {
+      "n": 25,
+      "page": 26,
+      "title": "Tartã lateral e bolas com fios",
+      "image": "img/guirlandas/026.webp",
+      "thumb": "img/guirlandas/026-thumb.webp",
+      "segment": ""
+    },
+    {
+      "n": 26,
+      "page": 27,
+      "title": "Anel inteiro de frutos vermelhos",
+      "image": "img/guirlandas/027.webp",
+      "thumb": "img/guirlandas/027-thumb.webp",
+      "segment": ""
+    },
+    {
+      "n": 27,
+      "page": 28,
+      "title": "Papai e Mamãe Noel com flores ouro",
+      "image": "img/guirlandas/028.webp",
+      "thumb": "img/guirlandas/028-thumb.webp",
+      "segment": ""
+    },
+    {
+      "n": 28,
+      "page": 29,
+      "title": "Laço principal e minilaços vermelhos",
+      "image": "img/guirlandas/029.webp",
+      "thumb": "img/guirlandas/029-thumb.webp",
+      "segment": ""
+    },
+    {
+      "n": 29,
+      "page": 30,
+      "title": "Nevada com laço bordô e bolas vermelhas",
+      "image": "img/guirlandas/030.webp",
+      "thumb": "img/guirlandas/030-thumb.webp",
+      "segment": ""
+    },
+    {
+      "n": 30,
+      "page": 31,
+      "title": "Anel natural sem laço",
+      "image": "img/guirlandas/031.webp",
+      "thumb": "img/guirlandas/031-thumb.webp",
+      "segment": ""
+    },
+    {
+      "n": 31,
+      "page": 32,
+      "title": "Dourado com poinsétia na base",
+      "image": "img/guirlandas/032.webp",
+      "thumb": "img/guirlandas/032-thumb.webp",
+      "segment": ""
+    },
+    {
+      "n": 32,
+      "page": 33,
+      "title": "Cipó com placa JOY e laço tartã",
+      "image": "img/guirlandas/033.webp",
+      "thumb": "img/guirlandas/033-thumb.webp",
+      "segment": ""
+    },
+    {
+      "n": 33,
+      "page": 34,
+      "title": "Nevada com cardeais e bagas brancas",
+      "image": "img/guirlandas/034.webp",
+      "thumb": "img/guirlandas/034-thumb.webp",
+      "segment": ""
+    },
+    {
+      "n": 34,
+      "page": 35,
+      "title": "Tartã com bolas vermelhas e prata",
+      "image": "img/guirlandas/035.webp",
+      "thumb": "img/guirlandas/035-thumb.webp",
+      "segment": ""
+    },
+    {
+      "n": 35,
+      "page": 36,
+      "title": "Xadrez preto e branco em folhagem verde",
+      "image": "img/guirlandas/036.webp",
+      "thumb": "img/guirlandas/036-thumb.webp",
+      "segment": ""
+    },
+    {
+      "n": 36,
+      "page": 37,
+      "title": "Vermelho iluminado com estrelas",
+      "image": "img/guirlandas/037.webp",
+      "thumb": "img/guirlandas/037-thumb.webp",
+      "segment": ""
+    },
+    {
+      "n": 37,
+      "page": 38,
+      "title": "Ursinho com flores vermelhas",
+      "image": "img/guirlandas/038.webp",
+      "thumb": "img/guirlandas/038-thumb.webp",
+      "segment": ""
+    },
+    {
+      "n": 38,
+      "page": 39,
+      "title": "Juta em babados e pinheiro lateral",
+      "image": "img/guirlandas/039.webp",
+      "thumb": "img/guirlandas/039-thumb.webp",
+      "segment": ""
+    },
+    {
+      "n": 39,
+      "page": 40,
+      "title": "Aro revestido de xadrez com arranjo inferior",
+      "image": "img/guirlandas/040.webp",
+      "thumb": "img/guirlandas/040-thumb.webp",
+      "segment": ""
+    },
+    {
+      "n": 40,
+      "page": 41,
+      "title": "Guirlanda natalina rústica com presépio",
+      "image": "img/guirlandas/041.webp",
+      "thumb": "img/guirlandas/041-thumb.webp",
+      "segment": ""
+    },
+    {
+      "n": 41,
+      "page": 42,
+      "title": "Cipó com bolas e fita de juta",
+      "image": "img/guirlandas/042.webp",
+      "thumb": "img/guirlandas/042-thumb.webp",
+      "segment": ""
+    },
+    {
+      "n": 42,
+      "page": 43,
+      "title": "Três gnomos na base de cipó",
+      "image": "img/guirlandas/043.webp",
+      "thumb": "img/guirlandas/043-thumb.webp",
+      "segment": ""
+    },
+    {
+      "n": 43,
+      "page": 44,
+      "title": "Cipó com poinsétias vermelhas à esquerda",
+      "image": "img/guirlandas/044.webp",
+      "thumb": "img/guirlandas/044-thumb.webp",
+      "segment": ""
+    },
+    {
+      "n": 44,
+      "page": 45,
+      "title": "Cipó com pinhas e azevinho",
+      "image": "img/guirlandas/045.webp",
+      "thumb": "img/guirlandas/045-thumb.webp",
+      "segment": ""
+    },
+    {
+      "n": 45,
+      "page": 46,
+      "title": "Cipó com buquê branco e champagne",
+      "image": "img/guirlandas/046.webp",
+      "thumb": "img/guirlandas/046-thumb.webp",
+      "segment": ""
+    },
+    {
+      "n": 46,
+      "page": 47,
+      "title": "Aro de cordão com laço vermelho.—",
+      "image": "img/guirlandas/047.webp",
+      "thumb": "img/guirlandas/047-thumb.webp",
+      "segment": ""
+    },
+    {
+      "n": 47,
+      "page": 48,
+      "title": "Poinsétias vermelhas com laço ouro",
+      "image": "img/guirlandas/048.webp",
+      "thumb": "img/guirlandas/048-thumb.webp",
+      "segment": ""
+    },
+    {
+      "n": 48,
+      "page": 49,
+      "title": "Flores grandes vermelhas e douradas sem laço",
+      "image": "img/guirlandas/049.webp",
+      "thumb": "img/guirlandas/049-thumb.webp",
+      "segment": ""
+    },
+    {
+      "n": 49,
+      "page": 50,
+      "title": "Flores vermelhas e laço translúcido",
+      "image": "img/guirlandas/050.webp",
+      "thumb": "img/guirlandas/050-thumb.webp",
+      "segment": ""
+    },
+    {
+      "n": 50,
+      "page": 51,
+      "title": "Noel cinza no aro rústico",
+      "image": "img/guirlandas/051.webp",
+      "thumb": "img/guirlandas/051-thumb.webp",
+      "segment": ""
+    },
+    {
+      "n": 51,
+      "page": 52,
+      "title": "Flores marfim e vermelhas com bolas grandes",
+      "image": "img/guirlandas/052.webp",
+      "thumb": "img/guirlandas/052-thumb.webp",
+      "segment": ""
+    },
+    {
+      "n": 52,
+      "page": 53,
+      "title": "Três sinos dourados",
+      "image": "img/guirlandas/053.webp",
+      "thumb": "img/guirlandas/053-thumb.webp",
+      "segment": ""
+    },
+    {
+      "n": 53,
+      "page": 54,
+      "title": "Verde-petróleo com flores ouro",
+      "image": "img/guirlandas/054.webp",
+      "thumb": "img/guirlandas/054-thumb.webp",
+      "segment": ""
+    },
+    {
+      "n": 54,
+      "page": 55,
+      "title": "Branca com rena e bolas claras",
+      "image": "img/guirlandas/055.webp",
+      "thumb": "img/guirlandas/055-thumb.webp",
+      "segment": ""
+    },
+    {
+      "n": 55,
+      "page": 56,
+      "title": "Azul metálico e flores champagne",
+      "image": "img/guirlandas/056.webp",
+      "thumb": "img/guirlandas/056-thumb.webp",
+      "segment": ""
+    },
+    {
+      "n": 56,
+      "page": 57,
+      "title": "Verde e bronze com laço listrado",
+      "image": "img/guirlandas/057.webp",
+      "thumb": "img/guirlandas/057-thumb.webp",
+      "segment": ""
+    },
+    {
+      "n": 57,
+      "page": 58,
+      "title": "Rosas rosé e laço de veludo",
+      "image": "img/guirlandas/058.webp",
+      "thumb": "img/guirlandas/058-thumb.webp",
+      "segment": ""
+    },
+    {
+      "n": 58,
+      "page": 59,
+      "title": "Verde, azul e ouro sem laço",
+      "image": "img/guirlandas/059.webp",
+      "thumb": "img/guirlandas/059-thumb.webp",
+      "segment": ""
+    },
+    {
+      "n": 59,
+      "page": 60,
+      "title": "Roxo com flores e laço translúcido",
+      "image": "img/guirlandas/060.webp",
+      "thumb": "img/guirlandas/060-thumb.webp",
+      "segment": ""
+    },
+    {
+      "n": 60,
+      "page": 61,
+      "title": "Meia-lua clara com poinsétia rosa",
+      "image": "img/guirlandas/061.webp",
+      "thumb": "img/guirlandas/061-thumb.webp",
+      "segment": ""
+    },
+    {
+      "n": 61,
+      "page": 62,
+      "title": "Rosé e prata com folhas longas",
+      "image": "img/guirlandas/062.webp",
+      "thumb": "img/guirlandas/062-thumb.webp",
+      "segment": ""
+    },
+    {
+      "n": 62,
+      "page": 63,
+      "title": "Eucalipto e bolas verde-sálvia",
+      "image": "img/guirlandas/063.webp",
+      "thumb": "img/guirlandas/063-thumb.webp",
+      "segment": ""
+    }
+  ],
+  "pages": [
+    {
+      "n": 1,
+      "image": "img/guirlandas/001.webp",
+      "title": "Página 1"
+    },
+    {
+      "n": 2,
+      "image": "img/guirlandas/002.webp",
+      "title": "Vermelho assimétrico com sino central"
+    },
+    {
+      "n": 3,
+      "image": "img/guirlandas/003.webp",
+      "title": "Flores marfim e lanterna central"
+    },
+    {
+      "n": 4,
+      "image": "img/guirlandas/004.webp",
+      "title": "Champagne com folhas ouro abertas"
+    },
+    {
+      "n": 5,
+      "image": "img/guirlandas/005.webp",
+      "title": "Dourado e bronze com laço lateral"
+    },
+    {
+      "n": 6,
+      "image": "img/guirlandas/006.webp",
+      "title": "Prata e marfim com lanterna"
+    },
+    {
+      "n": 7,
+      "image": "img/guirlandas/007.webp",
+      "title": "Verde com pontos dourados e laço de juta"
+    },
+    {
+      "n": 8,
+      "image": "img/guirlandas/008.webp",
+      "title": "Minimalista com laço vermelho no alto"
+    },
+    {
+      "n": 9,
+      "image": "img/guirlandas/009.webp",
+      "title": "Nevada com laço marfim e pinhas"
+    },
+    {
+      "n": 10,
+      "image": "img/guirlandas/010.webp",
+      "title": "Frutos vermelhos e fita estreita lateral"
+    },
+    {
+      "n": 11,
+      "image": "img/guirlandas/011.webp",
+      "title": "Vermelho canelado com bolas champagne"
+    },
+    {
+      "n": 12,
+      "image": "img/guirlandas/012.webp",
+      "title": "Bordô com flores claras sem laço"
+    },
+    {
+      "n": 13,
+      "image": "img/guirlandas/013.webp",
+      "title": "Clássica com laço misto inferior"
+    },
+    {
+      "n": 14,
+      "image": "img/guirlandas/014.webp",
+      "title": "Eucalipto e pinhas com laço branco"
+    },
+    {
+      "n": 15,
+      "image": "img/guirlandas/015.webp",
+      "title": "Lanterna branca e laço xadrez champagne"
+    },
+    {
+      "n": 16,
+      "image": "img/guirlandas/016.webp",
+      "title": "Pinhas naturais e laço vermelho contornado"
+    },
+    {
+      "n": 17,
+      "image": "img/guirlandas/017.webp",
+      "title": "Verde e bordô com poinsétias de borda ouro"
+    },
+    {
+      "n": 18,
+      "image": "img/guirlandas/018.webp",
+      "title": "Sagrada Família em pinheiro prateado"
+    },
+    {
+      "n": 19,
+      "image": "img/guirlandas/019.webp",
+      "title": "Presépio com grande laço vermelho"
+    },
+    {
+      "n": 20,
+      "image": "img/guirlandas/020.webp",
+      "title": "Duende inferior e laço vermelho"
+    },
+    {
+      "n": 21,
+      "image": "img/guirlandas/021.webp",
+      "title": "Casinha da Natividade em aro rústico"
+    },
+    {
+      "n": 22,
+      "image": "img/guirlandas/022.webp",
+      "title": "Bordô, branco e rena dourada"
+    },
+    {
+      "n": 23,
+      "image": "img/guirlandas/023.webp",
+      "title": "Flores natalinas vermelhas e ouro—"
+    },
+    {
+      "n": 24,
+      "image": "img/guirlandas/024.webp",
+      "title": "Papai Noel de pernas listradas"
+    },
+    {
+      "n": 25,
+      "image": "img/guirlandas/025.webp",
+      "title": "Champagne com laço superior"
+    },
+    {
+      "n": 26,
+      "image": "img/guirlandas/026.webp",
+      "title": "Tartã lateral e bolas com fios"
+    },
+    {
+      "n": 27,
+      "image": "img/guirlandas/027.webp",
+      "title": "Anel inteiro de frutos vermelhos"
+    },
+    {
+      "n": 28,
+      "image": "img/guirlandas/028.webp",
+      "title": "Papai e Mamãe Noel com flores ouro"
+    },
+    {
+      "n": 29,
+      "image": "img/guirlandas/029.webp",
+      "title": "Laço principal e minilaços vermelhos"
+    },
+    {
+      "n": 30,
+      "image": "img/guirlandas/030.webp",
+      "title": "Nevada com laço bordô e bolas vermelhas"
+    },
+    {
+      "n": 31,
+      "image": "img/guirlandas/031.webp",
+      "title": "Anel natural sem laço"
+    },
+    {
+      "n": 32,
+      "image": "img/guirlandas/032.webp",
+      "title": "Dourado com poinsétia na base"
+    },
+    {
+      "n": 33,
+      "image": "img/guirlandas/033.webp",
+      "title": "Cipó com placa JOY e laço tartã"
+    },
+    {
+      "n": 34,
+      "image": "img/guirlandas/034.webp",
+      "title": "Nevada com cardeais e bagas brancas"
+    },
+    {
+      "n": 35,
+      "image": "img/guirlandas/035.webp",
+      "title": "Tartã com bolas vermelhas e prata"
+    },
+    {
+      "n": 36,
+      "image": "img/guirlandas/036.webp",
+      "title": "Xadrez preto e branco em folhagem verde"
+    },
+    {
+      "n": 37,
+      "image": "img/guirlandas/037.webp",
+      "title": "Vermelho iluminado com estrelas"
+    },
+    {
+      "n": 38,
+      "image": "img/guirlandas/038.webp",
+      "title": "Ursinho com flores vermelhas"
+    },
+    {
+      "n": 39,
+      "image": "img/guirlandas/039.webp",
+      "title": "Juta em babados e pinheiro lateral"
+    },
+    {
+      "n": 40,
+      "image": "img/guirlandas/040.webp",
+      "title": "Aro revestido de xadrez com arranjo inferior"
+    },
+    {
+      "n": 41,
+      "image": "img/guirlandas/041.webp",
+      "title": "Guirlanda natalina rústica com presépio"
+    },
+    {
+      "n": 42,
+      "image": "img/guirlandas/042.webp",
+      "title": "Cipó com bolas e fita de juta"
+    },
+    {
+      "n": 43,
+      "image": "img/guirlandas/043.webp",
+      "title": "Três gnomos na base de cipó"
+    },
+    {
+      "n": 44,
+      "image": "img/guirlandas/044.webp",
+      "title": "Cipó com poinsétias vermelhas à esquerda"
+    },
+    {
+      "n": 45,
+      "image": "img/guirlandas/045.webp",
+      "title": "Cipó com pinhas e azevinho"
+    },
+    {
+      "n": 46,
+      "image": "img/guirlandas/046.webp",
+      "title": "Cipó com buquê branco e champagne"
+    },
+    {
+      "n": 47,
+      "image": "img/guirlandas/047.webp",
+      "title": "Aro de cordão com laço vermelho.—"
+    },
+    {
+      "n": 48,
+      "image": "img/guirlandas/048.webp",
+      "title": "Poinsétias vermelhas com laço ouro"
+    },
+    {
+      "n": 49,
+      "image": "img/guirlandas/049.webp",
+      "title": "Flores grandes vermelhas e douradas sem laço"
+    },
+    {
+      "n": 50,
+      "image": "img/guirlandas/050.webp",
+      "title": "Flores vermelhas e laço translúcido"
+    },
+    {
+      "n": 51,
+      "image": "img/guirlandas/051.webp",
+      "title": "Noel cinza no aro rústico"
+    },
+    {
+      "n": 52,
+      "image": "img/guirlandas/052.webp",
+      "title": "Flores marfim e vermelhas com bolas grandes"
+    },
+    {
+      "n": 53,
+      "image": "img/guirlandas/053.webp",
+      "title": "Três sinos dourados"
+    },
+    {
+      "n": 54,
+      "image": "img/guirlandas/054.webp",
+      "title": "Verde-petróleo com flores ouro"
+    },
+    {
+      "n": 55,
+      "image": "img/guirlandas/055.webp",
+      "title": "Branca com rena e bolas claras"
+    },
+    {
+      "n": 56,
+      "image": "img/guirlandas/056.webp",
+      "title": "Azul metálico e flores champagne"
+    },
+    {
+      "n": 57,
+      "image": "img/guirlandas/057.webp",
+      "title": "Verde e bronze com laço listrado"
+    },
+    {
+      "n": 58,
+      "image": "img/guirlandas/058.webp",
+      "title": "Rosas rosé e laço de veludo"
+    },
+    {
+      "n": 59,
+      "image": "img/guirlandas/059.webp",
+      "title": "Verde, azul e ouro sem laço"
+    },
+    {
+      "n": 60,
+      "image": "img/guirlandas/060.webp",
+      "title": "Roxo com flores e laço translúcido"
+    },
+    {
+      "n": 61,
+      "image": "img/guirlandas/061.webp",
+      "title": "Meia-lua clara com poinsétia rosa"
+    },
+    {
+      "n": 62,
+      "image": "img/guirlandas/062.webp",
+      "title": "Rosé e prata com folhas longas"
+    },
+    {
+      "n": 63,
+      "image": "img/guirlandas/063.webp",
+      "title": "Eucalipto e bolas verde-sálvia"
+    }
+  ],
+  "cover": "img/guirlandas/001.webp",
+  "segments": []
+}

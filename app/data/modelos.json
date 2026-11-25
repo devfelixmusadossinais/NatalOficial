@@ -1,0 +1,804 @@
+{
+  "items": [
+    {
+      "n": 1,
+      "page": 2,
+      "title": "Relicário verde-petróleo com arabescos dourados",
+      "image": "img/modelos/002.webp",
+      "thumb": "img/modelos/002-thumb.webp",
+      "segment": "Verdes"
+    },
+    {
+      "n": 2,
+      "page": 3,
+      "title": "Flor dourada sobre verde-esmeralda",
+      "image": "img/modelos/003.webp",
+      "thumb": "img/modelos/003-thumb.webp",
+      "segment": "Verdes"
+    },
+    {
+      "n": 3,
+      "page": 4,
+      "title": "Poinsétia vermelha e laço de veludo",
+      "image": "img/modelos/004.webp",
+      "thumb": "img/modelos/004-thumb.webp",
+      "segment": "Vermelhos"
+    },
+    {
+      "n": 4,
+      "page": 5,
+      "title": "Relicário natalino champagne com pinhas e bagas ouro",
+      "image": "img/modelos/005.webp",
+      "thumb": "img/modelos/005-thumb.webp",
+      "segment": "Champagne e Prata"
+    },
+    {
+      "n": 5,
+      "page": 6,
+      "title": "Vermelho profundo com espigas",
+      "image": "img/modelos/006.webp",
+      "thumb": "img/modelos/006-thumb.webp",
+      "segment": "Vermelhos"
+    },
+    {
+      "n": 6,
+      "page": 7,
+      "title": "Vermelho vivo com laço em camadas",
+      "image": "img/modelos/007.webp",
+      "thumb": "img/modelos/007-thumb.webp",
+      "segment": "Vermelhos"
+    },
+    {
+      "n": 7,
+      "page": 8,
+      "title": "Verde e ouro com folhagem erguida",
+      "image": "img/modelos/008.webp",
+      "thumb": "img/modelos/008-thumb.webp",
+      "segment": "Verdes"
+    },
+    {
+      "n": 8,
+      "page": 9,
+      "title": "Linho claro com bagas brancas",
+      "image": "img/modelos/009.webp",
+      "thumb": "img/modelos/009-thumb.webp",
+      "segment": "Rústico e Juta"
+    },
+    {
+      "n": 9,
+      "page": 10,
+      "title": "Tartã com eucalipto e bola telada",
+      "image": "img/modelos/010.webp",
+      "thumb": "img/modelos/010-thumb.webp",
+      "segment": "Tartã e Xadrez"
+    },
+    {
+      "n": 10,
+      "page": 11,
+      "title": "Laço vermelho com cascata de pinheiro",
+      "image": "img/modelos/011.webp",
+      "thumb": "img/modelos/011-thumb.webp",
+      "segment": "Vermelhos"
+    },
+    {
+      "n": 11,
+      "page": 12,
+      "title": "Rosé listrado com bola vinho",
+      "image": "img/modelos/012.webp",
+      "thumb": "img/modelos/012-thumb.webp",
+      "segment": "Rosê e Marfim"
+    },
+    {
+      "n": 12,
+      "page": 13,
+      "title": "Faixa vermelha com centro tartã",
+      "image": "img/modelos/013.webp",
+      "thumb": "img/modelos/013-thumb.webp",
+      "segment": "Tartã e Xadrez"
+    },
+    {
+      "n": 13,
+      "page": 14,
+      "title": "Noel estampado e frutos em cascata",
+      "image": "img/modelos/014.webp",
+      "thumb": "img/modelos/014-thumb.webp",
+      "segment": "Com Papai Noel/Ursinho"
+    },
+    {
+      "n": 14,
+      "page": 15,
+      "title": "Listras largas e juta natural",
+      "image": "img/modelos/015.webp",
+      "thumb": "img/modelos/015-thumb.webp",
+      "segment": "Rústico e Juta"
+    },
+    {
+      "n": 15,
+      "page": 16,
+      "title": "Vermelho liso com buquê compacto",
+      "image": "img/modelos/016.webp",
+      "thumb": "img/modelos/016-thumb.webp",
+      "segment": "Vermelhos"
+    },
+    {
+      "n": 16,
+      "page": 17,
+      "title": "Vermelho e creme com pinhas nevadas",
+      "image": "img/modelos/017.webp",
+      "thumb": "img/modelos/017-thumb.webp",
+      "segment": "Vermelhos"
+    },
+    {
+      "n": 17,
+      "page": 18,
+      "title": "Poinsétia vermelha e arabescos dourados",
+      "image": "img/modelos/018.webp",
+      "thumb": "img/modelos/018-thumb.webp",
+      "segment": "Vermelhos"
+    },
+    {
+      "n": 18,
+      "page": 19,
+      "title": "Flor dourada e cachos vermelhos",
+      "image": "img/modelos/019.webp",
+      "thumb": "img/modelos/019-thumb.webp",
+      "segment": "Dourados"
+    },
+    {
+      "n": 19,
+      "page": 20,
+      "title": "Flor marfim com pérolas e bolas ouro",
+      "image": "img/modelos/020.webp",
+      "thumb": "img/modelos/020-thumb.webp",
+      "segment": "Rosê e Marfim"
+    },
+    {
+      "n": 20,
+      "page": 21,
+      "title": "Vermelho de borda ouro e frutos pendentes",
+      "image": "img/modelos/021.webp",
+      "thumb": "img/modelos/021-thumb.webp",
+      "segment": "Vermelhos"
+    },
+    {
+      "n": 21,
+      "page": 22,
+      "title": "Linho rústico com hastes prateadas",
+      "image": "img/modelos/022.webp",
+      "thumb": "img/modelos/022-thumb.webp",
+      "segment": "Rústico e Juta"
+    },
+    {
+      "n": 22,
+      "page": 23,
+      "title": "Prata com bolas vermelhas e raiz pendente",
+      "image": "img/modelos/023.webp",
+      "thumb": "img/modelos/023-thumb.webp",
+      "segment": "Champagne e Prata"
+    },
+    {
+      "n": 23,
+      "page": 24,
+      "title": "Dourado vazado minimalista",
+      "image": "img/modelos/024.webp",
+      "thumb": "img/modelos/024-thumb.webp",
+      "segment": "Dourados"
+    },
+    {
+      "n": 24,
+      "page": 25,
+      "title": "Champagne com dois laços e bolas",
+      "image": "img/modelos/025.webp",
+      "thumb": "img/modelos/025-thumb.webp",
+      "segment": "Champagne e Prata"
+    },
+    {
+      "n": 25,
+      "page": 26,
+      "title": "Laço ouro e poinsétia vermelha",
+      "image": "img/modelos/026.webp",
+      "thumb": "img/modelos/026-thumb.webp",
+      "segment": "Dourados"
+    },
+    {
+      "n": 26,
+      "page": 27,
+      "title": "Dourado integral com pinha central",
+      "image": "img/modelos/027.webp",
+      "thumb": "img/modelos/027-thumb.webp",
+      "segment": "Dourados"
+    },
+    {
+      "n": 27,
+      "page": 28,
+      "title": "Ursinho no laço tartã",
+      "image": "img/modelos/028.webp",
+      "thumb": "img/modelos/028-thumb.webp",
+      "segment": "Com Papai Noel/Ursinho"
+    },
+    {
+      "n": 28,
+      "page": 29,
+      "title": "Flor branca com sinos prateados",
+      "image": "img/modelos/029.webp",
+      "thumb": "img/modelos/029-thumb.webp",
+      "segment": "Vermelhos"
+    },
+    {
+      "n": 29,
+      "page": 30,
+      "title": "Marfim com flor vazada e ramos soltos",
+      "image": "img/modelos/030.webp",
+      "thumb": "img/modelos/030-thumb.webp",
+      "segment": "Rosê e Marfim"
+    },
+    {
+      "n": 30,
+      "page": 31,
+      "title": "Marrom listrado com folhagem cobre",
+      "image": "img/modelos/031.webp",
+      "thumb": "img/modelos/031-thumb.webp",
+      "segment": "Rústico e Juta"
+    },
+    {
+      "n": 31,
+      "page": 32,
+      "title": "Floco na faixa e três bolas vermelhas",
+      "image": "img/modelos/032.webp",
+      "thumb": "img/modelos/032-thumb.webp",
+      "segment": "Rústico e Juta"
+    },
+    {
+      "n": 32,
+      "page": 33,
+      "title": "Relicário taupe com rosas claras e bagas",
+      "image": "img/modelos/033.webp",
+      "thumb": "img/modelos/033-thumb.webp",
+      "segment": "Rosê e Marfim"
+    },
+    {
+      "n": 33,
+      "page": 34,
+      "title": "Champagne com cascata de bolas",
+      "image": "img/modelos/034.webp",
+      "thumb": "img/modelos/034-thumb.webp",
+      "segment": "Champagne e Prata"
+    },
+    {
+      "n": 34,
+      "page": 35,
+      "title": "Papai Noel sobre faixa xadrez",
+      "image": "img/modelos/035.webp",
+      "thumb": "img/modelos/035-thumb.webp",
+      "segment": "Com Papai Noel/Ursinho"
+    },
+    {
+      "n": 35,
+      "page": 36,
+      "title": "Poinsétia vermelha sem laço",
+      "image": "img/modelos/036.webp",
+      "thumb": "img/modelos/036-thumb.webp",
+      "segment": "Vermelhos"
+    },
+    {
+      "n": 36,
+      "page": 37,
+      "title": "Dois laços vermelho e branco",
+      "image": "img/modelos/037.webp",
+      "thumb": "img/modelos/037-thumb.webp",
+      "segment": "Vermelhos"
+    },
+    {
+      "n": 37,
+      "page": 38,
+      "title": "Listrado vermelho com laço glitter",
+      "image": "img/modelos/038.webp",
+      "thumb": "img/modelos/038-thumb.webp",
+      "segment": "Vermelhos"
+    },
+    {
+      "n": 38,
+      "page": 39,
+      "title": "Verde-água com bagas brancas",
+      "image": "img/modelos/039.webp",
+      "thumb": "img/modelos/039-thumb.webp",
+      "segment": "Verdes"
+    },
+    {
+      "n": 39,
+      "page": 40,
+      "title": "Leque listrado com frutos",
+      "image": "img/modelos/040.webp",
+      "thumb": "img/modelos/040-thumb.webp",
+      "segment": "Vermelhos"
+    },
+    {
+      "n": 40,
+      "page": 41,
+      "title": "Relicário natalino: amarelo manteiga",
+      "image": "img/modelos/041.webp",
+      "thumb": "img/modelos/041-thumb.webp",
+      "segment": "Dourados"
+    },
+    {
+      "n": 41,
+      "page": 42,
+      "title": "Relicário natalino: Bordô sobre xadrez claro",
+      "image": "img/modelos/042.webp",
+      "thumb": "img/modelos/042-thumb.webp",
+      "segment": "Tartã e Xadrez"
+    },
+    {
+      "n": 42,
+      "page": 43,
+      "title": "Vermelho tartã com leque dourado",
+      "image": "img/modelos/043.webp",
+      "thumb": "img/modelos/043-thumb.webp",
+      "segment": "Tartã e Xadrez"
+    },
+    {
+      "n": 43,
+      "page": 44,
+      "title": "Ouro fino com ramos alongados",
+      "image": "img/modelos/044.webp",
+      "thumb": "img/modelos/044-thumb.webp",
+      "segment": "Dourados"
+    },
+    {
+      "n": 44,
+      "page": 45,
+      "title": "Relicário natalino — Anjinho com dois laços vermelhos",
+      "image": "img/modelos/045.webp",
+      "thumb": "img/modelos/045-thumb.webp",
+      "segment": "Natal cristão"
+    },
+    {
+      "n": 45,
+      "page": 46,
+      "title": "Champagne brocado e cascata verde",
+      "image": "img/modelos/046.webp",
+      "thumb": "img/modelos/046-thumb.webp",
+      "segment": "Champagne e Prata"
+    },
+    {
+      "n": 46,
+      "page": 47,
+      "title": "Poinsétia bordô com fita de folhagens",
+      "image": "img/modelos/047.webp",
+      "thumb": "img/modelos/047-thumb.webp",
+      "segment": "Vermelhos"
+    },
+    {
+      "n": 47,
+      "page": 48,
+      "title": "Xadrez branco com placa de festas",
+      "image": "img/modelos/048.webp",
+      "thumb": "img/modelos/048-thumb.webp",
+      "segment": "Tartã e Xadrez"
+    },
+    {
+      "n": 48,
+      "page": 49,
+      "title": "Relicário natalino — Tartã amplo com folhagem densa",
+      "image": "img/modelos/049.webp",
+      "thumb": "img/modelos/049-thumb.webp",
+      "segment": "Tartã e Xadrez"
+    },
+    {
+      "n": 49,
+      "page": 50,
+      "title": "Tartã e rosa com folha dourada",
+      "image": "img/modelos/050.webp",
+      "thumb": "img/modelos/050-thumb.webp",
+      "segment": "Tartã e Xadrez"
+    },
+    {
+      "n": 50,
+      "page": 51,
+      "title": "Bordô e dourado com flor de veludo",
+      "image": "img/modelos/051.webp",
+      "thumb": "img/modelos/051-thumb.webp",
+      "segment": "Vermelhos"
+    },
+    {
+      "n": 51,
+      "page": 52,
+      "title": "Preto e prata com folhagem nevada",
+      "image": "img/modelos/052.webp",
+      "thumb": "img/modelos/052-thumb.webp",
+      "segment": "Champagne e Prata"
+    },
+    {
+      "n": 52,
+      "page": 53,
+      "title": "Rosé luminoso com folhas douradas",
+      "image": "img/modelos/053.webp",
+      "thumb": "img/modelos/053-thumb.webp",
+      "segment": "Rosê e Marfim"
+    },
+    {
+      "n": 53,
+      "page": 54,
+      "title": "Rosé de flocos com bola central ouro",
+      "image": "img/modelos/054.webp",
+      "thumb": "img/modelos/054-thumb.webp",
+      "segment": "Rosê e Marfim"
+    },
+    {
+      "n": 54,
+      "page": 55,
+      "title": "Marrom de folhas com poinsétia ouro",
+      "image": "img/modelos/055.webp",
+      "thumb": "img/modelos/055-thumb.webp",
+      "segment": "Rústico e Juta"
+    },
+    {
+      "n": 55,
+      "page": 56,
+      "title": "Prata e champagne com duas bolas",
+      "image": "img/modelos/056.webp",
+      "thumb": "img/modelos/056-thumb.webp",
+      "segment": "Champagne e Prata"
+    },
+    {
+      "n": 56,
+      "page": 57,
+      "title": "Ouro vazado com laço translúcido",
+      "image": "img/modelos/057.webp",
+      "thumb": "img/modelos/057-thumb.webp",
+      "segment": "Dourados"
+    },
+    {
+      "n": 57,
+      "page": 58,
+      "title": "Amarelo e ouro com flor pendente",
+      "image": "img/modelos/058.webp",
+      "thumb": "img/modelos/058-thumb.webp",
+      "segment": "Dourados"
+    },
+    {
+      "n": 58,
+      "page": 59,
+      "title": "Champagne com sino e arabescos",
+      "image": "img/modelos/059.webp",
+      "thumb": "img/modelos/059-thumb.webp",
+      "segment": "Champagne e Prata"
+    }
+  ],
+  "pages": [
+    {
+      "n": 1,
+      "image": "img/modelos/001.webp",
+      "title": "Página 1"
+    },
+    {
+      "n": 2,
+      "image": "img/modelos/002.webp",
+      "title": "Relicário verde-petróleo com arabescos dourados"
+    },
+    {
+      "n": 3,
+      "image": "img/modelos/003.webp",
+      "title": "Flor dourada sobre verde-esmeralda"
+    },
+    {
+      "n": 4,
+      "image": "img/modelos/004.webp",
+      "title": "Poinsétia vermelha e laço de veludo"
+    },
+    {
+      "n": 5,
+      "image": "img/modelos/005.webp",
+      "title": "Relicário natalino champagne com pinhas e bagas ouro"
+    },
+    {
+      "n": 6,
+      "image": "img/modelos/006.webp",
+      "title": "Vermelho profundo com espigas"
+    },
+    {
+      "n": 7,
+      "image": "img/modelos/007.webp",
+      "title": "Vermelho vivo com laço em camadas"
+    },
+    {
+      "n": 8,
+      "image": "img/modelos/008.webp",
+      "title": "Verde e ouro com folhagem erguida"
+    },
+    {
+      "n": 9,
+      "image": "img/modelos/009.webp",
+      "title": "Linho claro com bagas brancas"
+    },
+    {
+      "n": 10,
+      "image": "img/modelos/010.webp",
+      "title": "Tartã com eucalipto e bola telada"
+    },
+    {
+      "n": 11,
+      "image": "img/modelos/011.webp",
+      "title": "Laço vermelho com cascata de pinheiro"
+    },
+    {
+      "n": 12,
+      "image": "img/modelos/012.webp",
+      "title": "Rosé listrado com bola vinho"
+    },
+    {
+      "n": 13,
+      "image": "img/modelos/013.webp",
+      "title": "Faixa vermelha com centro tartã"
+    },
+    {
+      "n": 14,
+      "image": "img/modelos/014.webp",
+      "title": "Noel estampado e frutos em cascata"
+    },
+    {
+      "n": 15,
+      "image": "img/modelos/015.webp",
+      "title": "Listras largas e juta natural"
+    },
+    {
+      "n": 16,
+      "image": "img/modelos/016.webp",
+      "title": "Vermelho liso com buquê compacto"
+    },
+    {
+      "n": 17,
+      "image": "img/modelos/017.webp",
+      "title": "Vermelho e creme com pinhas nevadas"
+    },
+    {
+      "n": 18,
+      "image": "img/modelos/018.webp",
+      "title": "Poinsétia vermelha e arabescos dourados"
+    },
+    {
+      "n": 19,
+      "image": "img/modelos/019.webp",
+      "title": "Flor dourada e cachos vermelhos"
+    },
+    {
+      "n": 20,
+      "image": "img/modelos/020.webp",
+      "title": "Flor marfim com pérolas e bolas ouro"
+    },
+    {
+      "n": 21,
+      "image": "img/modelos/021.webp",
+      "title": "Vermelho de borda ouro e frutos pendentes"
+    },
+    {
+      "n": 22,
+      "image": "img/modelos/022.webp",
+      "title": "Linho rústico com hastes prateadas"
+    },
+    {
+      "n": 23,
+      "image": "img/modelos/023.webp",
+      "title": "Prata com bolas vermelhas e raiz pendente"
+    },
+    {
+      "n": 24,
+      "image": "img/modelos/024.webp",
+      "title": "Dourado vazado minimalista"
+    },
+    {
+      "n": 25,
+      "image": "img/modelos/025.webp",
+      "title": "Champagne com dois laços e bolas"
+    },
+    {
+      "n": 26,
+      "image": "img/modelos/026.webp",
+      "title": "Laço ouro e poinsétia vermelha"
+    },
+    {
+      "n": 27,
+      "image": "img/modelos/027.webp",
+      "title": "Dourado integral com pinha central"
+    },
+    {
+      "n": 28,
+      "image": "img/modelos/028.webp",
+      "title": "Ursinho no laço tartã"
+    },
+    {
+      "n": 29,
+      "image": "img/modelos/029.webp",
+      "title": "Flor branca com sinos prateados"
+    },
+    {
+      "n": 30,
+      "image": "img/modelos/030.webp",
+      "title": "Marfim com flor vazada e ramos soltos"
+    },
+    {
+      "n": 31,
+      "image": "img/modelos/031.webp",
+      "title": "Marrom listrado com folhagem cobre"
+    },
+    {
+      "n": 32,
+      "image": "img/modelos/032.webp",
+      "title": "Floco na faixa e três bolas vermelhas"
+    },
+    {
+      "n": 33,
+      "image": "img/modelos/033.webp",
+      "title": "Relicário taupe com rosas claras e bagas"
+    },
+    {
+      "n": 34,
+      "image": "img/modelos/034.webp",
+      "title": "Champagne com cascata de bolas"
+    },
+    {
+      "n": 35,
+      "image": "img/modelos/035.webp",
+      "title": "Papai Noel sobre faixa xadrez"
+    },
+    {
+      "n": 36,
+      "image": "img/modelos/036.webp",
+      "title": "Poinsétia vermelha sem laço"
+    },
+    {
+      "n": 37,
+      "image": "img/modelos/037.webp",
+      "title": "Dois laços vermelho e branco"
+    },
+    {
+      "n": 38,
+      "image": "img/modelos/038.webp",
+      "title": "Listrado vermelho com laço glitter"
+    },
+    {
+      "n": 39,
+      "image": "img/modelos/039.webp",
+      "title": "Verde-água com bagas brancas"
+    },
+    {
+      "n": 40,
+      "image": "img/modelos/040.webp",
+      "title": "Leque listrado com frutos"
+    },
+    {
+      "n": 41,
+      "image": "img/modelos/041.webp",
+      "title": "Relicário natalino: amarelo manteiga"
+    },
+    {
+      "n": 42,
+      "image": "img/modelos/042.webp",
+      "title": "Relicário natalino: Bordô sobre xadrez claro"
+    },
+    {
+      "n": 43,
+      "image": "img/modelos/043.webp",
+      "title": "Vermelho tartã com leque dourado"
+    },
+    {
+      "n": 44,
+      "image": "img/modelos/044.webp",
+      "title": "Ouro fino com ramos alongados"
+    },
+    {
+      "n": 45,
+      "image": "img/modelos/045.webp",
+      "title": "Relicário natalino — Anjinho com dois laços vermelhos"
+    },
+    {
+      "n": 46,
+      "image": "img/modelos/046.webp",
+      "title": "Champagne brocado e cascata verde"
+    },
+    {
+      "n": 47,
+      "image": "img/modelos/047.webp",
+      "title": "Poinsétia bordô com fita de folhagens"
+    },
+    {
+      "n": 48,
+      "image": "img/modelos/048.webp",
+      "title": "Xadrez branco com placa de festas"
+    },
+    {
+      "n": 49,
+      "image": "img/modelos/049.webp",
+      "title": "Relicário natalino — Tartã amplo com folhagem densa"
+    },
+    {
+      "n": 50,
+      "image": "img/modelos/050.webp",
+      "title": "Tartã e rosa com folha dourada"
+    },
+    {
+      "n": 51,
+      "image": "img/modelos/051.webp",
+      "title": "Bordô e dourado com flor de veludo"
+    },
+    {
+      "n": 52,
+      "image": "img/modelos/052.webp",
+      "title": "Preto e prata com folhagem nevada"
+    },
+    {
+      "n": 53,
+      "image": "img/modelos/053.webp",
+      "title": "Rosé luminoso com folhas douradas"
+    },
+    {
+      "n": 54,
+      "image": "img/modelos/054.webp",
+      "title": "Rosé de flocos com bola central ouro"
+    },
+    {
+      "n": 55,
+      "image": "img/modelos/055.webp",
+      "title": "Marrom de folhas com poinsétia ouro"
+    },
+    {
+      "n": 56,
+      "image": "img/modelos/056.webp",
+      "title": "Prata e champagne com duas bolas"
+    },
+    {
+      "n": 57,
+      "image": "img/modelos/057.webp",
+      "title": "Ouro vazado com laço translúcido"
+    },
+    {
+      "n": 58,
+      "image": "img/modelos/058.webp",
+      "title": "Amarelo e ouro com flor pendente"
+    },
+    {
+      "n": 59,
+      "image": "img/modelos/059.webp",
+      "title": "Champagne com sino e arabescos"
+    }
+  ],
+  "cover": "img/modelos/001.webp",
+  "segments": [
+    {
+      "name": "Verdes",
+      "count": 4
+    },
+    {
+      "name": "Vermelhos",
+      "count": 15
+    },
+    {
+      "name": "Champagne e Prata",
+      "count": 8
+    },
+    {
+      "name": "Rústico e Juta",
+      "count": 6
+    },
+    {
+      "name": "Tartã e Xadrez",
+      "count": 7
+    },
+    {
+      "name": "Rosê e Marfim",
+      "count": 6
+    },
+    {
+      "name": "Com Papai Noel/Ursinho",
+      "count": 3
+    },
+    {
+      "name": "Dourados",
+      "count": 8
+    },
+    {
+      "name": "Natal cristão",
+      "count": 1
+    }
+  ]
+}
