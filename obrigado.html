@@ -43,7 +43,7 @@ h1{font-family:'DM Serif Display',Georgia,serif;font-weight:400;font-size:clamp(
     <div class="ok" aria-hidden="true"><svg viewBox="0 0 24 24"><path d="M20 6 9 17l-5-5"/></svg></div>
     <h1>Seus escapulários já são seus!</h1>
     <p class="sub" data-plano-texto>O acesso aos seus modelos está liberado. Toque no botão abaixo pra abrir.</p>
-    <a class="btn" id="acesso" href="entregavel/relicarios-natalinos.pdf" target="_blank" rel="noopener">ACESSAR MEUS MODELOS <span aria-hidden="true">→</span></a>
+    <a class="btn" id="acesso" href="app/">ACESSAR MEUS MODELOS <span aria-hidden="true">→</span></a>
     <p class="micro">Você também recebe o acesso no e-mail usado na compra. Confira a caixa de spam e promoções.</p>
     <ul class="steps">
       <li><b class="n">1</b><span>Abra o catálogo e escolha o primeiro modelo.</span></li>
@@ -56,8 +56,8 @@ h1{font-family:'DM Serif Display',Georgia,serif;font-weight:400;font-size:clamp(
 <script>
 /* Links de acesso: trocar pelos links reais do entregável quando estiverem prontos.
    A Cakto redireciona pra obrigado.html?plano=premium (Pack Completo) ou ?plano=basico (Pack Básico). */
-var LINK_PREMIUM = 'entregavel/relicarios-natalinos.pdf';
-var LINK_BASICO  = 'entregavel/relicarios-natalinos.pdf';
+var LINK_PREMIUM = 'app/?plano=premium';
+var LINK_BASICO  = 'app/?plano=basico';
 (function(){
   var p = (new URLSearchParams(location.search).get('plano') || '').toLowerCase();
   var a = document.getElementById('acesso');
