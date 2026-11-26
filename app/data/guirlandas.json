@@ -7,7 +7,26 @@
       "image": "img/guirlandas/002.webp",
       "thumb": "img/guirlandas/002-thumb.webp",
       "segment": "",
-      "sample": "img/guirlandas/002-sample.webp"
+      "sample": "img/guirlandas/002-sample.webp",
+      "detail": {
+        "photo": "img/guirlandas/002-thumb.webp",
+        "materials": "img/guirlandas/002-materials.webp",
+        "measurements": "img/guirlandas/002-measurements.webp",
+        "steps": [
+          "img/guirlandas/002-steps-01.webp",
+          "img/guirlandas/002-steps-02.webp",
+          "img/guirlandas/002-steps-03.webp",
+          "img/guirlandas/002-steps-04.webp",
+          "img/guirlandas/002-steps-05.webp",
+          "img/guirlandas/002-steps-06.webp",
+          "img/guirlandas/002-steps-07.webp",
+          "img/guirlandas/002-steps-08.webp",
+          "img/guirlandas/002-steps-09.webp",
+          "img/guirlandas/002-steps-10.webp",
+          "img/guirlandas/002-steps-11.webp",
+          "img/guirlandas/002-steps-12.webp"
+        ]
+      }
     },
     {
       "n": 2,
@@ -16,7 +35,26 @@
       "image": "img/guirlandas/003.webp",
       "thumb": "img/guirlandas/003-thumb.webp",
       "segment": "",
-      "sample": "img/guirlandas/003-sample.webp"
+      "sample": "img/guirlandas/003-sample.webp",
+      "detail": {
+        "photo": "img/guirlandas/003-thumb.webp",
+        "materials": "img/guirlandas/003-materials.webp",
+        "measurements": "img/guirlandas/003-measurements.webp",
+        "steps": [
+          "img/guirlandas/003-steps-01.webp",
+          "img/guirlandas/003-steps-02.webp",
+          "img/guirlandas/003-steps-03.webp",
+          "img/guirlandas/003-steps-04.webp",
+          "img/guirlandas/003-steps-05.webp",
+          "img/guirlandas/003-steps-06.webp",
+          "img/guirlandas/003-steps-07.webp",
+          "img/guirlandas/003-steps-08.webp",
+          "img/guirlandas/003-steps-09.webp",
+          "img/guirlandas/003-steps-10.webp",
+          "img/guirlandas/003-steps-11.webp",
+          "img/guirlandas/003-steps-12.webp"
+        ]
+      }
     },
     {
       "n": 3,
@@ -25,7 +63,26 @@
       "image": "img/guirlandas/004.webp",
       "thumb": "img/guirlandas/004-thumb.webp",
       "segment": "",
-      "sample": "img/guirlandas/004-sample.webp"
+      "sample": "img/guirlandas/004-sample.webp",
+      "detail": {
+        "photo": "img/guirlandas/004-thumb.webp",
+        "materials": "img/guirlandas/004-materials.webp",
+        "measurements": "img/guirlandas/004-measurements.webp",
+        "steps": [
+          "img/guirlandas/004-steps-01.webp",
+          "img/guirlandas/004-steps-02.webp",
+          "img/guirlandas/004-steps-03.webp",
+          "img/guirlandas/004-steps-04.webp",
+          "img/guirlandas/004-steps-05.webp",
+          "img/guirlandas/004-steps-06.webp",
+          "img/guirlandas/004-steps-07.webp",
+          "img/guirlandas/004-steps-08.webp",
+          "img/guirlandas/004-steps-09.webp",
+          "img/guirlandas/004-steps-10.webp",
+          "img/guirlandas/004-steps-11.webp",
+          "img/guirlandas/004-steps-12.webp"
+        ]
+      }
     },
     {
       "n": 4,
@@ -33,7 +90,26 @@
       "title": "Dourado e bronze com laço lateral",
       "image": "img/guirlandas/005.webp",
       "thumb": "img/guirlandas/005-thumb.webp",
-      "segment": ""
+      "segment": "",
+      "detail": {
+        "photo": "img/guirlandas/005-thumb.webp",
+        "materials": "img/guirlandas/005-materials.webp",
+        "measurements": "img/guirlandas/005-measurements.webp",
+        "steps": [
+          "img/guirlandas/005-steps-01.webp",
+          "img/guirlandas/005-steps-02.webp",
+          "img/guirlandas/005-steps-03.webp",
+          "img/guirlandas/005-steps-04.webp",
+          "img/guirlandas/005-steps-05.webp",
+          "img/guirlandas/005-steps-06.webp",
+          "img/guirlandas/005-steps-07.webp",
+          "img/guirlandas/005-steps-08.webp",
+          "img/guirlandas/005-steps-09.webp",
+          "img/guirlandas/005-steps-10.webp",
+          "img/guirlandas/005-steps-11.webp",
+          "img/guirlandas/005-steps-12.webp"
+        ]
+      }
     },
     {
       "n": 5,
@@ -41,7 +117,10 @@
       "title": "Prata e marfim com lanterna",
       "image": "img/guirlandas/006.webp",
       "thumb": "img/guirlandas/006-thumb.webp",
-      "segment": ""
+      "segment": "",
+      "detail": {
+        "fallback": true
+      }
     },
     {
       "n": 6,
@@ -49,7 +128,26 @@
       "title": "Verde com pontos dourados e laço de juta",
       "image": "img/guirlandas/007.webp",
       "thumb": "img/guirlandas/007-thumb.webp",
-      "segment": ""
+      "segment": "",
+      "detail": {
+        "photo": "img/guirlandas/007-thumb.webp",
+        "materials": "img/guirlandas/007-materials.webp",
+        "measurements": "img/guirlandas/007-measurements.webp",
+        "steps": [
+          "img/guirlandas/007-steps-01.webp",
+          "img/guirlandas/007-steps-02.webp",
+          "img/guirlandas/007-steps-03.webp",
+          "img/guirlandas/007-steps-04.webp",
+          "img/guirlandas/007-steps-05.webp",
+          "img/guirlandas/007-steps-06.webp",
+          "img/guirlandas/007-steps-07.webp",
+          "img/guirlandas/007-steps-08.webp",
+          "img/guirlandas/007-steps-09.webp",
+          "img/guirlandas/007-steps-10.webp",
+          "img/guirlandas/007-steps-11.webp",
+          "img/guirlandas/007-steps-12.webp"
+        ]
+      }
     },
     {
       "n": 7,
@@ -57,7 +155,26 @@
       "title": "Minimalista com laço vermelho no alto",
       "image": "img/guirlandas/008.webp",
       "thumb": "img/guirlandas/008-thumb.webp",
-      "segment": ""
+      "segment": "",
+      "detail": {
+        "photo": "img/guirlandas/008-thumb.webp",
+        "materials": "img/guirlandas/008-materials.webp",
+        "measurements": "img/guirlandas/008-measurements.webp",
+        "steps": [
+          "img/guirlandas/008-steps-01.webp",
+          "img/guirlandas/008-steps-02.webp",
+          "img/guirlandas/008-steps-03.webp",
+          "img/guirlandas/008-steps-04.webp",
+          "img/guirlandas/008-steps-05.webp",
+          "img/guirlandas/008-steps-06.webp",
+          "img/guirlandas/008-steps-07.webp",
+          "img/guirlandas/008-steps-08.webp",
+          "img/guirlandas/008-steps-09.webp",
+          "img/guirlandas/008-steps-10.webp",
+          "img/guirlandas/008-steps-11.webp",
+          "img/guirlandas/008-steps-12.webp"
+        ]
+      }
     },
     {
       "n": 8,
@@ -65,7 +182,26 @@
       "title": "Nevada com laço marfim e pinhas",
       "image": "img/guirlandas/009.webp",
       "thumb": "img/guirlandas/009-thumb.webp",
-      "segment": ""
+      "segment": "",
+      "detail": {
+        "photo": "img/guirlandas/009-thumb.webp",
+        "materials": "img/guirlandas/009-materials.webp",
+        "measurements": "img/guirlandas/009-measurements.webp",
+        "steps": [
+          "img/guirlandas/009-steps-01.webp",
+          "img/guirlandas/009-steps-02.webp",
+          "img/guirlandas/009-steps-03.webp",
+          "img/guirlandas/009-steps-04.webp",
+          "img/guirlandas/009-steps-05.webp",
+          "img/guirlandas/009-steps-06.webp",
+          "img/guirlandas/009-steps-07.webp",
+          "img/guirlandas/009-steps-08.webp",
+          "img/guirlandas/009-steps-09.webp",
+          "img/guirlandas/009-steps-10.webp",
+          "img/guirlandas/009-steps-11.webp",
+          "img/guirlandas/009-steps-12.webp"
+        ]
+      }
     },
     {
       "n": 9,
@@ -73,7 +209,26 @@
       "title": "Frutos vermelhos e fita estreita lateral",
       "image": "img/guirlandas/010.webp",
       "thumb": "img/guirlandas/010-thumb.webp",
-      "segment": ""
+      "segment": "",
+      "detail": {
+        "photo": "img/guirlandas/010-thumb.webp",
+        "materials": "img/guirlandas/010-materials.webp",
+        "measurements": "img/guirlandas/010-measurements.webp",
+        "steps": [
+          "img/guirlandas/010-steps-01.webp",
+          "img/guirlandas/010-steps-02.webp",
+          "img/guirlandas/010-steps-03.webp",
+          "img/guirlandas/010-steps-04.webp",
+          "img/guirlandas/010-steps-05.webp",
+          "img/guirlandas/010-steps-06.webp",
+          "img/guirlandas/010-steps-07.webp",
+          "img/guirlandas/010-steps-08.webp",
+          "img/guirlandas/010-steps-09.webp",
+          "img/guirlandas/010-steps-10.webp",
+          "img/guirlandas/010-steps-11.webp",
+          "img/guirlandas/010-steps-12.webp"
+        ]
+      }
     },
     {
       "n": 10,
@@ -81,7 +236,26 @@
       "title": "Vermelho canelado com bolas champagne",
       "image": "img/guirlandas/011.webp",
       "thumb": "img/guirlandas/011-thumb.webp",
-      "segment": ""
+      "segment": "",
+      "detail": {
+        "photo": "img/guirlandas/011-thumb.webp",
+        "materials": "img/guirlandas/011-materials.webp",
+        "measurements": "img/guirlandas/011-measurements.webp",
+        "steps": [
+          "img/guirlandas/011-steps-01.webp",
+          "img/guirlandas/011-steps-02.webp",
+          "img/guirlandas/011-steps-03.webp",
+          "img/guirlandas/011-steps-04.webp",
+          "img/guirlandas/011-steps-05.webp",
+          "img/guirlandas/011-steps-06.webp",
+          "img/guirlandas/011-steps-07.webp",
+          "img/guirlandas/011-steps-08.webp",
+          "img/guirlandas/011-steps-09.webp",
+          "img/guirlandas/011-steps-10.webp",
+          "img/guirlandas/011-steps-11.webp",
+          "img/guirlandas/011-steps-12.webp"
+        ]
+      }
     },
     {
       "n": 11,
@@ -89,7 +263,26 @@
       "title": "Bordô com flores claras sem laço",
       "image": "img/guirlandas/012.webp",
       "thumb": "img/guirlandas/012-thumb.webp",
-      "segment": ""
+      "segment": "",
+      "detail": {
+        "photo": "img/guirlandas/012-thumb.webp",
+        "materials": "img/guirlandas/012-materials.webp",
+        "measurements": "img/guirlandas/012-measurements.webp",
+        "steps": [
+          "img/guirlandas/012-steps-01.webp",
+          "img/guirlandas/012-steps-02.webp",
+          "img/guirlandas/012-steps-03.webp",
+          "img/guirlandas/012-steps-04.webp",
+          "img/guirlandas/012-steps-05.webp",
+          "img/guirlandas/012-steps-06.webp",
+          "img/guirlandas/012-steps-07.webp",
+          "img/guirlandas/012-steps-08.webp",
+          "img/guirlandas/012-steps-09.webp",
+          "img/guirlandas/012-steps-10.webp",
+          "img/guirlandas/012-steps-11.webp",
+          "img/guirlandas/012-steps-12.webp"
+        ]
+      }
     },
     {
       "n": 12,
@@ -97,7 +290,26 @@
       "title": "Clássica com laço misto inferior",
       "image": "img/guirlandas/013.webp",
       "thumb": "img/guirlandas/013-thumb.webp",
-      "segment": ""
+      "segment": "",
+      "detail": {
+        "photo": "img/guirlandas/013-thumb.webp",
+        "materials": "img/guirlandas/013-materials.webp",
+        "measurements": "img/guirlandas/013-measurements.webp",
+        "steps": [
+          "img/guirlandas/013-steps-01.webp",
+          "img/guirlandas/013-steps-02.webp",
+          "img/guirlandas/013-steps-03.webp",
+          "img/guirlandas/013-steps-04.webp",
+          "img/guirlandas/013-steps-05.webp",
+          "img/guirlandas/013-steps-06.webp",
+          "img/guirlandas/013-steps-07.webp",
+          "img/guirlandas/013-steps-08.webp",
+          "img/guirlandas/013-steps-09.webp",
+          "img/guirlandas/013-steps-10.webp",
+          "img/guirlandas/013-steps-11.webp",
+          "img/guirlandas/013-steps-12.webp"
+        ]
+      }
     },
     {
       "n": 13,
@@ -105,7 +317,26 @@
       "title": "Eucalipto e pinhas com laço branco",
       "image": "img/guirlandas/014.webp",
       "thumb": "img/guirlandas/014-thumb.webp",
-      "segment": ""
+      "segment": "",
+      "detail": {
+        "photo": "img/guirlandas/014-thumb.webp",
+        "materials": "img/guirlandas/014-materials.webp",
+        "measurements": "img/guirlandas/014-measurements.webp",
+        "steps": [
+          "img/guirlandas/014-steps-01.webp",
+          "img/guirlandas/014-steps-02.webp",
+          "img/guirlandas/014-steps-03.webp",
+          "img/guirlandas/014-steps-04.webp",
+          "img/guirlandas/014-steps-05.webp",
+          "img/guirlandas/014-steps-06.webp",
+          "img/guirlandas/014-steps-07.webp",
+          "img/guirlandas/014-steps-08.webp",
+          "img/guirlandas/014-steps-09.webp",
+          "img/guirlandas/014-steps-10.webp",
+          "img/guirlandas/014-steps-11.webp",
+          "img/guirlandas/014-steps-12.webp"
+        ]
+      }
     },
     {
       "n": 14,
@@ -113,7 +344,26 @@
       "title": "Lanterna branca e laço xadrez champagne",
       "image": "img/guirlandas/015.webp",
       "thumb": "img/guirlandas/015-thumb.webp",
-      "segment": ""
+      "segment": "",
+      "detail": {
+        "photo": "img/guirlandas/015-thumb.webp",
+        "materials": "img/guirlandas/015-materials.webp",
+        "measurements": "img/guirlandas/015-measurements.webp",
+        "steps": [
+          "img/guirlandas/015-steps-01.webp",
+          "img/guirlandas/015-steps-02.webp",
+          "img/guirlandas/015-steps-03.webp",
+          "img/guirlandas/015-steps-04.webp",
+          "img/guirlandas/015-steps-05.webp",
+          "img/guirlandas/015-steps-06.webp",
+          "img/guirlandas/015-steps-07.webp",
+          "img/guirlandas/015-steps-08.webp",
+          "img/guirlandas/015-steps-09.webp",
+          "img/guirlandas/015-steps-10.webp",
+          "img/guirlandas/015-steps-11.webp",
+          "img/guirlandas/015-steps-12.webp"
+        ]
+      }
     },
     {
       "n": 15,
@@ -121,7 +371,26 @@
       "title": "Pinhas naturais e laço vermelho contornado",
       "image": "img/guirlandas/016.webp",
       "thumb": "img/guirlandas/016-thumb.webp",
-      "segment": ""
+      "segment": "",
+      "detail": {
+        "photo": "img/guirlandas/016-thumb.webp",
+        "materials": "img/guirlandas/016-materials.webp",
+        "measurements": "img/guirlandas/016-measurements.webp",
+        "steps": [
+          "img/guirlandas/016-steps-01.webp",
+          "img/guirlandas/016-steps-02.webp",
+          "img/guirlandas/016-steps-03.webp",
+          "img/guirlandas/016-steps-04.webp",
+          "img/guirlandas/016-steps-05.webp",
+          "img/guirlandas/016-steps-06.webp",
+          "img/guirlandas/016-steps-07.webp",
+          "img/guirlandas/016-steps-08.webp",
+          "img/guirlandas/016-steps-09.webp",
+          "img/guirlandas/016-steps-10.webp",
+          "img/guirlandas/016-steps-11.webp",
+          "img/guirlandas/016-steps-12.webp"
+        ]
+      }
     },
     {
       "n": 16,
@@ -129,7 +398,26 @@
       "title": "Verde e bordô com poinsétias de borda ouro",
       "image": "img/guirlandas/017.webp",
       "thumb": "img/guirlandas/017-thumb.webp",
-      "segment": ""
+      "segment": "",
+      "detail": {
+        "photo": "img/guirlandas/017-thumb.webp",
+        "materials": "img/guirlandas/017-materials.webp",
+        "measurements": "img/guirlandas/017-measurements.webp",
+        "steps": [
+          "img/guirlandas/017-steps-01.webp",
+          "img/guirlandas/017-steps-02.webp",
+          "img/guirlandas/017-steps-03.webp",
+          "img/guirlandas/017-steps-04.webp",
+          "img/guirlandas/017-steps-05.webp",
+          "img/guirlandas/017-steps-06.webp",
+          "img/guirlandas/017-steps-07.webp",
+          "img/guirlandas/017-steps-08.webp",
+          "img/guirlandas/017-steps-09.webp",
+          "img/guirlandas/017-steps-10.webp",
+          "img/guirlandas/017-steps-11.webp",
+          "img/guirlandas/017-steps-12.webp"
+        ]
+      }
     },
     {
       "n": 17,
@@ -137,7 +425,26 @@
       "title": "Sagrada Família em pinheiro prateado",
       "image": "img/guirlandas/018.webp",
       "thumb": "img/guirlandas/018-thumb.webp",
-      "segment": ""
+      "segment": "",
+      "detail": {
+        "photo": "img/guirlandas/018-thumb.webp",
+        "materials": "img/guirlandas/018-materials.webp",
+        "measurements": "img/guirlandas/018-measurements.webp",
+        "steps": [
+          "img/guirlandas/018-steps-01.webp",
+          "img/guirlandas/018-steps-02.webp",
+          "img/guirlandas/018-steps-03.webp",
+          "img/guirlandas/018-steps-04.webp",
+          "img/guirlandas/018-steps-05.webp",
+          "img/guirlandas/018-steps-06.webp",
+          "img/guirlandas/018-steps-07.webp",
+          "img/guirlandas/018-steps-08.webp",
+          "img/guirlandas/018-steps-09.webp",
+          "img/guirlandas/018-steps-10.webp",
+          "img/guirlandas/018-steps-11.webp",
+          "img/guirlandas/018-steps-12.webp"
+        ]
+      }
     },
     {
       "n": 18,
@@ -145,7 +452,26 @@
       "title": "Presépio com grande laço vermelho",
       "image": "img/guirlandas/019.webp",
       "thumb": "img/guirlandas/019-thumb.webp",
-      "segment": ""
+      "segment": "",
+      "detail": {
+        "photo": "img/guirlandas/019-thumb.webp",
+        "materials": "img/guirlandas/019-materials.webp",
+        "measurements": "img/guirlandas/019-measurements.webp",
+        "steps": [
+          "img/guirlandas/019-steps-01.webp",
+          "img/guirlandas/019-steps-02.webp",
+          "img/guirlandas/019-steps-03.webp",
+          "img/guirlandas/019-steps-04.webp",
+          "img/guirlandas/019-steps-05.webp",
+          "img/guirlandas/019-steps-06.webp",
+          "img/guirlandas/019-steps-07.webp",
+          "img/guirlandas/019-steps-08.webp",
+          "img/guirlandas/019-steps-09.webp",
+          "img/guirlandas/019-steps-10.webp",
+          "img/guirlandas/019-steps-11.webp",
+          "img/guirlandas/019-steps-12.webp"
+        ]
+      }
     },
     {
       "n": 19,
@@ -153,7 +479,26 @@
       "title": "Duende inferior e laço vermelho",
       "image": "img/guirlandas/020.webp",
       "thumb": "img/guirlandas/020-thumb.webp",
-      "segment": ""
+      "segment": "",
+      "detail": {
+        "photo": "img/guirlandas/020-thumb.webp",
+        "materials": "img/guirlandas/020-materials.webp",
+        "measurements": "img/guirlandas/020-measurements.webp",
+        "steps": [
+          "img/guirlandas/020-steps-01.webp",
+          "img/guirlandas/020-steps-02.webp",
+          "img/guirlandas/020-steps-03.webp",
+          "img/guirlandas/020-steps-04.webp",
+          "img/guirlandas/020-steps-05.webp",
+          "img/guirlandas/020-steps-06.webp",
+          "img/guirlandas/020-steps-07.webp",
+          "img/guirlandas/020-steps-08.webp",
+          "img/guirlandas/020-steps-09.webp",
+          "img/guirlandas/020-steps-10.webp",
+          "img/guirlandas/020-steps-11.webp",
+          "img/guirlandas/020-steps-12.webp"
+        ]
+      }
     },
     {
       "n": 20,
@@ -161,7 +506,10 @@
       "title": "Casinha da Natividade em aro rústico",
       "image": "img/guirlandas/021.webp",
       "thumb": "img/guirlandas/021-thumb.webp",
-      "segment": ""
+      "segment": "",
+      "detail": {
+        "fallback": true
+      }
     },
     {
       "n": 21,
@@ -169,7 +517,26 @@
       "title": "Bordô, branco e rena dourada",
       "image": "img/guirlandas/022.webp",
       "thumb": "img/guirlandas/022-thumb.webp",
-      "segment": ""
+      "segment": "",
+      "detail": {
+        "photo": "img/guirlandas/022-thumb.webp",
+        "materials": "img/guirlandas/022-materials.webp",
+        "measurements": "img/guirlandas/022-measurements.webp",
+        "steps": [
+          "img/guirlandas/022-steps-01.webp",
+          "img/guirlandas/022-steps-02.webp",
+          "img/guirlandas/022-steps-03.webp",
+          "img/guirlandas/022-steps-04.webp",
+          "img/guirlandas/022-steps-05.webp",
+          "img/guirlandas/022-steps-06.webp",
+          "img/guirlandas/022-steps-07.webp",
+          "img/guirlandas/022-steps-08.webp",
+          "img/guirlandas/022-steps-09.webp",
+          "img/guirlandas/022-steps-10.webp",
+          "img/guirlandas/022-steps-11.webp",
+          "img/guirlandas/022-steps-12.webp"
+        ]
+      }
     },
     {
       "n": 22,
@@ -177,7 +544,26 @@
       "title": "Flores natalinas vermelhas e ouro—",
       "image": "img/guirlandas/023.webp",
       "thumb": "img/guirlandas/023-thumb.webp",
-      "segment": ""
+      "segment": "",
+      "detail": {
+        "photo": "img/guirlandas/023-thumb.webp",
+        "materials": "img/guirlandas/023-materials.webp",
+        "measurements": "img/guirlandas/023-measurements.webp",
+        "steps": [
+          "img/guirlandas/023-steps-01.webp",
+          "img/guirlandas/023-steps-02.webp",
+          "img/guirlandas/023-steps-03.webp",
+          "img/guirlandas/023-steps-04.webp",
+          "img/guirlandas/023-steps-05.webp",
+          "img/guirlandas/023-steps-06.webp",
+          "img/guirlandas/023-steps-07.webp",
+          "img/guirlandas/023-steps-08.webp",
+          "img/guirlandas/023-steps-09.webp",
+          "img/guirlandas/023-steps-10.webp",
+          "img/guirlandas/023-steps-11.webp",
+          "img/guirlandas/023-steps-12.webp"
+        ]
+      }
     },
     {
       "n": 23,
@@ -185,7 +571,26 @@
       "title": "Papai Noel de pernas listradas",
       "image": "img/guirlandas/024.webp",
       "thumb": "img/guirlandas/024-thumb.webp",
-      "segment": ""
+      "segment": "",
+      "detail": {
+        "photo": "img/guirlandas/024-thumb.webp",
+        "materials": "img/guirlandas/024-materials.webp",
+        "measurements": "img/guirlandas/024-measurements.webp",
+        "steps": [
+          "img/guirlandas/024-steps-01.webp",
+          "img/guirlandas/024-steps-02.webp",
+          "img/guirlandas/024-steps-03.webp",
+          "img/guirlandas/024-steps-04.webp",
+          "img/guirlandas/024-steps-05.webp",
+          "img/guirlandas/024-steps-06.webp",
+          "img/guirlandas/024-steps-07.webp",
+          "img/guirlandas/024-steps-08.webp",
+          "img/guirlandas/024-steps-09.webp",
+          "img/guirlandas/024-steps-10.webp",
+          "img/guirlandas/024-steps-11.webp",
+          "img/guirlandas/024-steps-12.webp"
+        ]
+      }
     },
     {
       "n": 24,
@@ -193,7 +598,26 @@
       "title": "Champagne com laço superior",
       "image": "img/guirlandas/025.webp",
       "thumb": "img/guirlandas/025-thumb.webp",
-      "segment": ""
+      "segment": "",
+      "detail": {
+        "photo": "img/guirlandas/025-thumb.webp",
+        "materials": "img/guirlandas/025-materials.webp",
+        "measurements": "img/guirlandas/025-measurements.webp",
+        "steps": [
+          "img/guirlandas/025-steps-01.webp",
+          "img/guirlandas/025-steps-02.webp",
+          "img/guirlandas/025-steps-03.webp",
+          "img/guirlandas/025-steps-04.webp",
+          "img/guirlandas/025-steps-05.webp",
+          "img/guirlandas/025-steps-06.webp",
+          "img/guirlandas/025-steps-07.webp",
+          "img/guirlandas/025-steps-08.webp",
+          "img/guirlandas/025-steps-09.webp",
+          "img/guirlandas/025-steps-10.webp",
+          "img/guirlandas/025-steps-11.webp",
+          "img/guirlandas/025-steps-12.webp"
+        ]
+      }
     },
     {
       "n": 25,
@@ -201,7 +625,26 @@
       "title": "Tartã lateral e bolas com fios",
       "image": "img/guirlandas/026.webp",
       "thumb": "img/guirlandas/026-thumb.webp",
-      "segment": ""
+      "segment": "",
+      "detail": {
+        "photo": "img/guirlandas/026-thumb.webp",
+        "materials": "img/guirlandas/026-materials.webp",
+        "measurements": "img/guirlandas/026-measurements.webp",
+        "steps": [
+          "img/guirlandas/026-steps-01.webp",
+          "img/guirlandas/026-steps-02.webp",
+          "img/guirlandas/026-steps-03.webp",
+          "img/guirlandas/026-steps-04.webp",
+          "img/guirlandas/026-steps-05.webp",
+          "img/guirlandas/026-steps-06.webp",
+          "img/guirlandas/026-steps-07.webp",
+          "img/guirlandas/026-steps-08.webp",
+          "img/guirlandas/026-steps-09.webp",
+          "img/guirlandas/026-steps-10.webp",
+          "img/guirlandas/026-steps-11.webp",
+          "img/guirlandas/026-steps-12.webp"
+        ]
+      }
     },
     {
       "n": 26,
@@ -209,7 +652,26 @@
       "title": "Anel inteiro de frutos vermelhos",
       "image": "img/guirlandas/027.webp",
       "thumb": "img/guirlandas/027-thumb.webp",
-      "segment": ""
+      "segment": "",
+      "detail": {
+        "photo": "img/guirlandas/027-thumb.webp",
+        "materials": "img/guirlandas/027-materials.webp",
+        "measurements": "img/guirlandas/027-measurements.webp",
+        "steps": [
+          "img/guirlandas/027-steps-01.webp",
+          "img/guirlandas/027-steps-02.webp",
+          "img/guirlandas/027-steps-03.webp",
+          "img/guirlandas/027-steps-04.webp",
+          "img/guirlandas/027-steps-05.webp",
+          "img/guirlandas/027-steps-06.webp",
+          "img/guirlandas/027-steps-07.webp",
+          "img/guirlandas/027-steps-08.webp",
+          "img/guirlandas/027-steps-09.webp",
+          "img/guirlandas/027-steps-10.webp",
+          "img/guirlandas/027-steps-11.webp",
+          "img/guirlandas/027-steps-12.webp"
+        ]
+      }
     },
     {
       "n": 27,
@@ -217,7 +679,26 @@
       "title": "Papai e Mamãe Noel com flores ouro",
       "image": "img/guirlandas/028.webp",
       "thumb": "img/guirlandas/028-thumb.webp",
-      "segment": ""
+      "segment": "",
+      "detail": {
+        "photo": "img/guirlandas/028-thumb.webp",
+        "materials": "img/guirlandas/028-materials.webp",
+        "measurements": "img/guirlandas/028-measurements.webp",
+        "steps": [
+          "img/guirlandas/028-steps-01.webp",
+          "img/guirlandas/028-steps-02.webp",
+          "img/guirlandas/028-steps-03.webp",
+          "img/guirlandas/028-steps-04.webp",
+          "img/guirlandas/028-steps-05.webp",
+          "img/guirlandas/028-steps-06.webp",
+          "img/guirlandas/028-steps-07.webp",
+          "img/guirlandas/028-steps-08.webp",
+          "img/guirlandas/028-steps-09.webp",
+          "img/guirlandas/028-steps-10.webp",
+          "img/guirlandas/028-steps-11.webp",
+          "img/guirlandas/028-steps-12.webp"
+        ]
+      }
     },
     {
       "n": 28,
@@ -225,7 +706,26 @@
       "title": "Laço principal e minilaços vermelhos",
       "image": "img/guirlandas/029.webp",
       "thumb": "img/guirlandas/029-thumb.webp",
-      "segment": ""
+      "segment": "",
+      "detail": {
+        "photo": "img/guirlandas/029-thumb.webp",
+        "materials": "img/guirlandas/029-materials.webp",
+        "measurements": "img/guirlandas/029-measurements.webp",
+        "steps": [
+          "img/guirlandas/029-steps-01.webp",
+          "img/guirlandas/029-steps-02.webp",
+          "img/guirlandas/029-steps-03.webp",
+          "img/guirlandas/029-steps-04.webp",
+          "img/guirlandas/029-steps-05.webp",
+          "img/guirlandas/029-steps-06.webp",
+          "img/guirlandas/029-steps-07.webp",
+          "img/guirlandas/029-steps-08.webp",
+          "img/guirlandas/029-steps-09.webp",
+          "img/guirlandas/029-steps-10.webp",
+          "img/guirlandas/029-steps-11.webp",
+          "img/guirlandas/029-steps-12.webp"
+        ]
+      }
     },
     {
       "n": 29,
@@ -233,7 +733,26 @@
       "title": "Nevada com laço bordô e bolas vermelhas",
       "image": "img/guirlandas/030.webp",
       "thumb": "img/guirlandas/030-thumb.webp",
-      "segment": ""
+      "segment": "",
+      "detail": {
+        "photo": "img/guirlandas/030-thumb.webp",
+        "materials": "img/guirlandas/030-materials.webp",
+        "measurements": "img/guirlandas/030-measurements.webp",
+        "steps": [
+          "img/guirlandas/030-steps-01.webp",
+          "img/guirlandas/030-steps-02.webp",
+          "img/guirlandas/030-steps-03.webp",
+          "img/guirlandas/030-steps-04.webp",
+          "img/guirlandas/030-steps-05.webp",
+          "img/guirlandas/030-steps-06.webp",
+          "img/guirlandas/030-steps-07.webp",
+          "img/guirlandas/030-steps-08.webp",
+          "img/guirlandas/030-steps-09.webp",
+          "img/guirlandas/030-steps-10.webp",
+          "img/guirlandas/030-steps-11.webp",
+          "img/guirlandas/030-steps-12.webp"
+        ]
+      }
     },
     {
       "n": 30,
@@ -241,7 +760,26 @@
       "title": "Anel natural sem laço",
       "image": "img/guirlandas/031.webp",
       "thumb": "img/guirlandas/031-thumb.webp",
-      "segment": ""
+      "segment": "",
+      "detail": {
+        "photo": "img/guirlandas/031-thumb.webp",
+        "materials": "img/guirlandas/031-materials.webp",
+        "measurements": "img/guirlandas/031-measurements.webp",
+        "steps": [
+          "img/guirlandas/031-steps-01.webp",
+          "img/guirlandas/031-steps-02.webp",
+          "img/guirlandas/031-steps-03.webp",
+          "img/guirlandas/031-steps-04.webp",
+          "img/guirlandas/031-steps-05.webp",
+          "img/guirlandas/031-steps-06.webp",
+          "img/guirlandas/031-steps-07.webp",
+          "img/guirlandas/031-steps-08.webp",
+          "img/guirlandas/031-steps-09.webp",
+          "img/guirlandas/031-steps-10.webp",
+          "img/guirlandas/031-steps-11.webp",
+          "img/guirlandas/031-steps-12.webp"
+        ]
+      }
     },
     {
       "n": 31,
@@ -249,7 +787,26 @@
       "title": "Dourado com poinsétia na base",
       "image": "img/guirlandas/032.webp",
       "thumb": "img/guirlandas/032-thumb.webp",
-      "segment": ""
+      "segment": "",
+      "detail": {
+        "photo": "img/guirlandas/032-thumb.webp",
+        "materials": "img/guirlandas/032-materials.webp",
+        "measurements": "img/guirlandas/032-measurements.webp",
+        "steps": [
+          "img/guirlandas/032-steps-01.webp",
+          "img/guirlandas/032-steps-02.webp",
+          "img/guirlandas/032-steps-03.webp",
+          "img/guirlandas/032-steps-04.webp",
+          "img/guirlandas/032-steps-05.webp",
+          "img/guirlandas/032-steps-06.webp",
+          "img/guirlandas/032-steps-07.webp",
+          "img/guirlandas/032-steps-08.webp",
+          "img/guirlandas/032-steps-09.webp",
+          "img/guirlandas/032-steps-10.webp",
+          "img/guirlandas/032-steps-11.webp",
+          "img/guirlandas/032-steps-12.webp"
+        ]
+      }
     },
     {
       "n": 32,
@@ -257,7 +814,26 @@
       "title": "Cipó com placa JOY e laço tartã",
       "image": "img/guirlandas/033.webp",
       "thumb": "img/guirlandas/033-thumb.webp",
-      "segment": ""
+      "segment": "",
+      "detail": {
+        "photo": "img/guirlandas/033-thumb.webp",
+        "materials": "img/guirlandas/033-materials.webp",
+        "measurements": "img/guirlandas/033-measurements.webp",
+        "steps": [
+          "img/guirlandas/033-steps-01.webp",
+          "img/guirlandas/033-steps-02.webp",
+          "img/guirlandas/033-steps-03.webp",
+          "img/guirlandas/033-steps-04.webp",
+          "img/guirlandas/033-steps-05.webp",
+          "img/guirlandas/033-steps-06.webp",
+          "img/guirlandas/033-steps-07.webp",
+          "img/guirlandas/033-steps-08.webp",
+          "img/guirlandas/033-steps-09.webp",
+          "img/guirlandas/033-steps-10.webp",
+          "img/guirlandas/033-steps-11.webp",
+          "img/guirlandas/033-steps-12.webp"
+        ]
+      }
     },
     {
       "n": 33,
@@ -265,7 +841,26 @@
       "title": "Nevada com cardeais e bagas brancas",
       "image": "img/guirlandas/034.webp",
       "thumb": "img/guirlandas/034-thumb.webp",
-      "segment": ""
+      "segment": "",
+      "detail": {
+        "photo": "img/guirlandas/034-thumb.webp",
+        "materials": "img/guirlandas/034-materials.webp",
+        "measurements": "img/guirlandas/034-measurements.webp",
+        "steps": [
+          "img/guirlandas/034-steps-01.webp",
+          "img/guirlandas/034-steps-02.webp",
+          "img/guirlandas/034-steps-03.webp",
+          "img/guirlandas/034-steps-04.webp",
+          "img/guirlandas/034-steps-05.webp",
+          "img/guirlandas/034-steps-06.webp",
+          "img/guirlandas/034-steps-07.webp",
+          "img/guirlandas/034-steps-08.webp",
+          "img/guirlandas/034-steps-09.webp",
+          "img/guirlandas/034-steps-10.webp",
+          "img/guirlandas/034-steps-11.webp",
+          "img/guirlandas/034-steps-12.webp"
+        ]
+      }
     },
     {
       "n": 34,
@@ -273,7 +868,26 @@
       "title": "Tartã com bolas vermelhas e prata",
       "image": "img/guirlandas/035.webp",
       "thumb": "img/guirlandas/035-thumb.webp",
-      "segment": ""
+      "segment": "",
+      "detail": {
+        "photo": "img/guirlandas/035-thumb.webp",
+        "materials": "img/guirlandas/035-materials.webp",
+        "measurements": "img/guirlandas/035-measurements.webp",
+        "steps": [
+          "img/guirlandas/035-steps-01.webp",
+          "img/guirlandas/035-steps-02.webp",
+          "img/guirlandas/035-steps-03.webp",
+          "img/guirlandas/035-steps-04.webp",
+          "img/guirlandas/035-steps-05.webp",
+          "img/guirlandas/035-steps-06.webp",
+          "img/guirlandas/035-steps-07.webp",
+          "img/guirlandas/035-steps-08.webp",
+          "img/guirlandas/035-steps-09.webp",
+          "img/guirlandas/035-steps-10.webp",
+          "img/guirlandas/035-steps-11.webp",
+          "img/guirlandas/035-steps-12.webp"
+        ]
+      }
     },
     {
       "n": 35,
@@ -281,7 +895,26 @@
       "title": "Xadrez preto e branco em folhagem verde",
       "image": "img/guirlandas/036.webp",
       "thumb": "img/guirlandas/036-thumb.webp",
-      "segment": ""
+      "segment": "",
+      "detail": {
+        "photo": "img/guirlandas/036-thumb.webp",
+        "materials": "img/guirlandas/036-materials.webp",
+        "measurements": "img/guirlandas/036-measurements.webp",
+        "steps": [
+          "img/guirlandas/036-steps-01.webp",
+          "img/guirlandas/036-steps-02.webp",
+          "img/guirlandas/036-steps-03.webp",
+          "img/guirlandas/036-steps-04.webp",
+          "img/guirlandas/036-steps-05.webp",
+          "img/guirlandas/036-steps-06.webp",
+          "img/guirlandas/036-steps-07.webp",
+          "img/guirlandas/036-steps-08.webp",
+          "img/guirlandas/036-steps-09.webp",
+          "img/guirlandas/036-steps-10.webp",
+          "img/guirlandas/036-steps-11.webp",
+          "img/guirlandas/036-steps-12.webp"
+        ]
+      }
     },
     {
       "n": 36,
@@ -289,7 +922,26 @@
       "title": "Vermelho iluminado com estrelas",
       "image": "img/guirlandas/037.webp",
       "thumb": "img/guirlandas/037-thumb.webp",
-      "segment": ""
+      "segment": "",
+      "detail": {
+        "photo": "img/guirlandas/037-thumb.webp",
+        "materials": "img/guirlandas/037-materials.webp",
+        "measurements": "img/guirlandas/037-measurements.webp",
+        "steps": [
+          "img/guirlandas/037-steps-01.webp",
+          "img/guirlandas/037-steps-02.webp",
+          "img/guirlandas/037-steps-03.webp",
+          "img/guirlandas/037-steps-04.webp",
+          "img/guirlandas/037-steps-05.webp",
+          "img/guirlandas/037-steps-06.webp",
+          "img/guirlandas/037-steps-07.webp",
+          "img/guirlandas/037-steps-08.webp",
+          "img/guirlandas/037-steps-09.webp",
+          "img/guirlandas/037-steps-10.webp",
+          "img/guirlandas/037-steps-11.webp",
+          "img/guirlandas/037-steps-12.webp"
+        ]
+      }
     },
     {
       "n": 37,
@@ -297,7 +949,26 @@
       "title": "Ursinho com flores vermelhas",
       "image": "img/guirlandas/038.webp",
       "thumb": "img/guirlandas/038-thumb.webp",
-      "segment": ""
+      "segment": "",
+      "detail": {
+        "photo": "img/guirlandas/038-thumb.webp",
+        "materials": "img/guirlandas/038-materials.webp",
+        "measurements": "img/guirlandas/038-measurements.webp",
+        "steps": [
+          "img/guirlandas/038-steps-01.webp",
+          "img/guirlandas/038-steps-02.webp",
+          "img/guirlandas/038-steps-03.webp",
+          "img/guirlandas/038-steps-04.webp",
+          "img/guirlandas/038-steps-05.webp",
+          "img/guirlandas/038-steps-06.webp",
+          "img/guirlandas/038-steps-07.webp",
+          "img/guirlandas/038-steps-08.webp",
+          "img/guirlandas/038-steps-09.webp",
+          "img/guirlandas/038-steps-10.webp",
+          "img/guirlandas/038-steps-11.webp",
+          "img/guirlandas/038-steps-12.webp"
+        ]
+      }
     },
     {
       "n": 38,
@@ -305,7 +976,26 @@
       "title": "Juta em babados e pinheiro lateral",
       "image": "img/guirlandas/039.webp",
       "thumb": "img/guirlandas/039-thumb.webp",
-      "segment": ""
+      "segment": "",
+      "detail": {
+        "photo": "img/guirlandas/039-thumb.webp",
+        "materials": "img/guirlandas/039-materials.webp",
+        "measurements": "img/guirlandas/039-measurements.webp",
+        "steps": [
+          "img/guirlandas/039-steps-01.webp",
+          "img/guirlandas/039-steps-02.webp",
+          "img/guirlandas/039-steps-03.webp",
+          "img/guirlandas/039-steps-04.webp",
+          "img/guirlandas/039-steps-05.webp",
+          "img/guirlandas/039-steps-06.webp",
+          "img/guirlandas/039-steps-07.webp",
+          "img/guirlandas/039-steps-08.webp",
+          "img/guirlandas/039-steps-09.webp",
+          "img/guirlandas/039-steps-10.webp",
+          "img/guirlandas/039-steps-11.webp",
+          "img/guirlandas/039-steps-12.webp"
+        ]
+      }
     },
     {
       "n": 39,
@@ -313,7 +1003,26 @@
       "title": "Aro revestido de xadrez com arranjo inferior",
       "image": "img/guirlandas/040.webp",
       "thumb": "img/guirlandas/040-thumb.webp",
-      "segment": ""
+      "segment": "",
+      "detail": {
+        "photo": "img/guirlandas/040-thumb.webp",
+        "materials": "img/guirlandas/040-materials.webp",
+        "measurements": "img/guirlandas/040-measurements.webp",
+        "steps": [
+          "img/guirlandas/040-steps-01.webp",
+          "img/guirlandas/040-steps-02.webp",
+          "img/guirlandas/040-steps-03.webp",
+          "img/guirlandas/040-steps-04.webp",
+          "img/guirlandas/040-steps-05.webp",
+          "img/guirlandas/040-steps-06.webp",
+          "img/guirlandas/040-steps-07.webp",
+          "img/guirlandas/040-steps-08.webp",
+          "img/guirlandas/040-steps-09.webp",
+          "img/guirlandas/040-steps-10.webp",
+          "img/guirlandas/040-steps-11.webp",
+          "img/guirlandas/040-steps-12.webp"
+        ]
+      }
     },
     {
       "n": 40,
@@ -321,7 +1030,26 @@
       "title": "Guirlanda natalina rústica com presépio",
       "image": "img/guirlandas/041.webp",
       "thumb": "img/guirlandas/041-thumb.webp",
-      "segment": ""
+      "segment": "",
+      "detail": {
+        "photo": "img/guirlandas/041-thumb.webp",
+        "materials": "img/guirlandas/041-materials.webp",
+        "measurements": "img/guirlandas/041-measurements.webp",
+        "steps": [
+          "img/guirlandas/041-steps-01.webp",
+          "img/guirlandas/041-steps-02.webp",
+          "img/guirlandas/041-steps-03.webp",
+          "img/guirlandas/041-steps-04.webp",
+          "img/guirlandas/041-steps-05.webp",
+          "img/guirlandas/041-steps-06.webp",
+          "img/guirlandas/041-steps-07.webp",
+          "img/guirlandas/041-steps-08.webp",
+          "img/guirlandas/041-steps-09.webp",
+          "img/guirlandas/041-steps-10.webp",
+          "img/guirlandas/041-steps-11.webp",
+          "img/guirlandas/041-steps-12.webp"
+        ]
+      }
     },
     {
       "n": 41,
@@ -329,7 +1057,26 @@
       "title": "Cipó com bolas e fita de juta",
       "image": "img/guirlandas/042.webp",
       "thumb": "img/guirlandas/042-thumb.webp",
-      "segment": ""
+      "segment": "",
+      "detail": {
+        "photo": "img/guirlandas/042-thumb.webp",
+        "materials": "img/guirlandas/042-materials.webp",
+        "measurements": "img/guirlandas/042-measurements.webp",
+        "steps": [
+          "img/guirlandas/042-steps-01.webp",
+          "img/guirlandas/042-steps-02.webp",
+          "img/guirlandas/042-steps-03.webp",
+          "img/guirlandas/042-steps-04.webp",
+          "img/guirlandas/042-steps-05.webp",
+          "img/guirlandas/042-steps-06.webp",
+          "img/guirlandas/042-steps-07.webp",
+          "img/guirlandas/042-steps-08.webp",
+          "img/guirlandas/042-steps-09.webp",
+          "img/guirlandas/042-steps-10.webp",
+          "img/guirlandas/042-steps-11.webp",
+          "img/guirlandas/042-steps-12.webp"
+        ]
+      }
     },
     {
       "n": 42,
@@ -337,7 +1084,26 @@
       "title": "Três gnomos na base de cipó",
       "image": "img/guirlandas/043.webp",
       "thumb": "img/guirlandas/043-thumb.webp",
-      "segment": ""
+      "segment": "",
+      "detail": {
+        "photo": "img/guirlandas/043-thumb.webp",
+        "materials": "img/guirlandas/043-materials.webp",
+        "measurements": "img/guirlandas/043-measurements.webp",
+        "steps": [
+          "img/guirlandas/043-steps-01.webp",
+          "img/guirlandas/043-steps-02.webp",
+          "img/guirlandas/043-steps-03.webp",
+          "img/guirlandas/043-steps-04.webp",
+          "img/guirlandas/043-steps-05.webp",
+          "img/guirlandas/043-steps-06.webp",
+          "img/guirlandas/043-steps-07.webp",
+          "img/guirlandas/043-steps-08.webp",
+          "img/guirlandas/043-steps-09.webp",
+          "img/guirlandas/043-steps-10.webp",
+          "img/guirlandas/043-steps-11.webp",
+          "img/guirlandas/043-steps-12.webp"
+        ]
+      }
     },
     {
       "n": 43,
@@ -345,7 +1111,26 @@
       "title": "Cipó com poinsétias vermelhas à esquerda",
       "image": "img/guirlandas/044.webp",
       "thumb": "img/guirlandas/044-thumb.webp",
-      "segment": ""
+      "segment": "",
+      "detail": {
+        "photo": "img/guirlandas/044-thumb.webp",
+        "materials": "img/guirlandas/044-materials.webp",
+        "measurements": "img/guirlandas/044-measurements.webp",
+        "steps": [
+          "img/guirlandas/044-steps-01.webp",
+          "img/guirlandas/044-steps-02.webp",
+          "img/guirlandas/044-steps-03.webp",
+          "img/guirlandas/044-steps-04.webp",
+          "img/guirlandas/044-steps-05.webp",
+          "img/guirlandas/044-steps-06.webp",
+          "img/guirlandas/044-steps-07.webp",
+          "img/guirlandas/044-steps-08.webp",
+          "img/guirlandas/044-steps-09.webp",
+          "img/guirlandas/044-steps-10.webp",
+          "img/guirlandas/044-steps-11.webp",
+          "img/guirlandas/044-steps-12.webp"
+        ]
+      }
     },
     {
       "n": 44,
@@ -353,7 +1138,26 @@
       "title": "Cipó com pinhas e azevinho",
       "image": "img/guirlandas/045.webp",
       "thumb": "img/guirlandas/045-thumb.webp",
-      "segment": ""
+      "segment": "",
+      "detail": {
+        "photo": "img/guirlandas/045-thumb.webp",
+        "materials": "img/guirlandas/045-materials.webp",
+        "measurements": "img/guirlandas/045-measurements.webp",
+        "steps": [
+          "img/guirlandas/045-steps-01.webp",
+          "img/guirlandas/045-steps-02.webp",
+          "img/guirlandas/045-steps-03.webp",
+          "img/guirlandas/045-steps-04.webp",
+          "img/guirlandas/045-steps-05.webp",
+          "img/guirlandas/045-steps-06.webp",
+          "img/guirlandas/045-steps-07.webp",
+          "img/guirlandas/045-steps-08.webp",
+          "img/guirlandas/045-steps-09.webp",
+          "img/guirlandas/045-steps-10.webp",
+          "img/guirlandas/045-steps-11.webp",
+          "img/guirlandas/045-steps-12.webp"
+        ]
+      }
     },
     {
       "n": 45,
@@ -361,7 +1165,10 @@
       "title": "Cipó com buquê branco e champagne",
       "image": "img/guirlandas/046.webp",
       "thumb": "img/guirlandas/046-thumb.webp",
-      "segment": ""
+      "segment": "",
+      "detail": {
+        "fallback": true
+      }
     },
     {
       "n": 46,
@@ -369,7 +1176,26 @@
       "title": "Aro de cordão com laço vermelho.—",
       "image": "img/guirlandas/047.webp",
       "thumb": "img/guirlandas/047-thumb.webp",
-      "segment": ""
+      "segment": "",
+      "detail": {
+        "photo": "img/guirlandas/047-thumb.webp",
+        "materials": "img/guirlandas/047-materials.webp",
+        "measurements": "img/guirlandas/047-measurements.webp",
+        "steps": [
+          "img/guirlandas/047-steps-01.webp",
+          "img/guirlandas/047-steps-02.webp",
+          "img/guirlandas/047-steps-03.webp",
+          "img/guirlandas/047-steps-04.webp",
+          "img/guirlandas/047-steps-05.webp",
+          "img/guirlandas/047-steps-06.webp",
+          "img/guirlandas/047-steps-07.webp",
+          "img/guirlandas/047-steps-08.webp",
+          "img/guirlandas/047-steps-09.webp",
+          "img/guirlandas/047-steps-10.webp",
+          "img/guirlandas/047-steps-11.webp",
+          "img/guirlandas/047-steps-12.webp"
+        ]
+      }
     },
     {
       "n": 47,
@@ -377,7 +1203,26 @@
       "title": "Poinsétias vermelhas com laço ouro",
       "image": "img/guirlandas/048.webp",
       "thumb": "img/guirlandas/048-thumb.webp",
-      "segment": ""
+      "segment": "",
+      "detail": {
+        "photo": "img/guirlandas/048-thumb.webp",
+        "materials": "img/guirlandas/048-materials.webp",
+        "measurements": "img/guirlandas/048-measurements.webp",
+        "steps": [
+          "img/guirlandas/048-steps-01.webp",
+          "img/guirlandas/048-steps-02.webp",
+          "img/guirlandas/048-steps-03.webp",
+          "img/guirlandas/048-steps-04.webp",
+          "img/guirlandas/048-steps-05.webp",
+          "img/guirlandas/048-steps-06.webp",
+          "img/guirlandas/048-steps-07.webp",
+          "img/guirlandas/048-steps-08.webp",
+          "img/guirlandas/048-steps-09.webp",
+          "img/guirlandas/048-steps-10.webp",
+          "img/guirlandas/048-steps-11.webp",
+          "img/guirlandas/048-steps-12.webp"
+        ]
+      }
     },
     {
       "n": 48,
@@ -385,7 +1230,26 @@
       "title": "Flores grandes vermelhas e douradas sem laço",
       "image": "img/guirlandas/049.webp",
       "thumb": "img/guirlandas/049-thumb.webp",
-      "segment": ""
+      "segment": "",
+      "detail": {
+        "photo": "img/guirlandas/049-thumb.webp",
+        "materials": "img/guirlandas/049-materials.webp",
+        "measurements": "img/guirlandas/049-measurements.webp",
+        "steps": [
+          "img/guirlandas/049-steps-01.webp",
+          "img/guirlandas/049-steps-02.webp",
+          "img/guirlandas/049-steps-03.webp",
+          "img/guirlandas/049-steps-04.webp",
+          "img/guirlandas/049-steps-05.webp",
+          "img/guirlandas/049-steps-06.webp",
+          "img/guirlandas/049-steps-07.webp",
+          "img/guirlandas/049-steps-08.webp",
+          "img/guirlandas/049-steps-09.webp",
+          "img/guirlandas/049-steps-10.webp",
+          "img/guirlandas/049-steps-11.webp",
+          "img/guirlandas/049-steps-12.webp"
+        ]
+      }
     },
     {
       "n": 49,
@@ -393,7 +1257,26 @@
       "title": "Flores vermelhas e laço translúcido",
       "image": "img/guirlandas/050.webp",
       "thumb": "img/guirlandas/050-thumb.webp",
-      "segment": ""
+      "segment": "",
+      "detail": {
+        "photo": "img/guirlandas/050-thumb.webp",
+        "materials": "img/guirlandas/050-materials.webp",
+        "measurements": "img/guirlandas/050-measurements.webp",
+        "steps": [
+          "img/guirlandas/050-steps-01.webp",
+          "img/guirlandas/050-steps-02.webp",
+          "img/guirlandas/050-steps-03.webp",
+          "img/guirlandas/050-steps-04.webp",
+          "img/guirlandas/050-steps-05.webp",
+          "img/guirlandas/050-steps-06.webp",
+          "img/guirlandas/050-steps-07.webp",
+          "img/guirlandas/050-steps-08.webp",
+          "img/guirlandas/050-steps-09.webp",
+          "img/guirlandas/050-steps-10.webp",
+          "img/guirlandas/050-steps-11.webp",
+          "img/guirlandas/050-steps-12.webp"
+        ]
+      }
     },
     {
       "n": 50,
@@ -401,7 +1284,26 @@
       "title": "Noel cinza no aro rústico",
       "image": "img/guirlandas/051.webp",
       "thumb": "img/guirlandas/051-thumb.webp",
-      "segment": ""
+      "segment": "",
+      "detail": {
+        "photo": "img/guirlandas/051-thumb.webp",
+        "materials": "img/guirlandas/051-materials.webp",
+        "measurements": "img/guirlandas/051-measurements.webp",
+        "steps": [
+          "img/guirlandas/051-steps-01.webp",
+          "img/guirlandas/051-steps-02.webp",
+          "img/guirlandas/051-steps-03.webp",
+          "img/guirlandas/051-steps-04.webp",
+          "img/guirlandas/051-steps-05.webp",
+          "img/guirlandas/051-steps-06.webp",
+          "img/guirlandas/051-steps-07.webp",
+          "img/guirlandas/051-steps-08.webp",
+          "img/guirlandas/051-steps-09.webp",
+          "img/guirlandas/051-steps-10.webp",
+          "img/guirlandas/051-steps-11.webp",
+          "img/guirlandas/051-steps-12.webp"
+        ]
+      }
     },
     {
       "n": 51,
@@ -409,7 +1311,26 @@
       "title": "Flores marfim e vermelhas com bolas grandes",
       "image": "img/guirlandas/052.webp",
       "thumb": "img/guirlandas/052-thumb.webp",
-      "segment": ""
+      "segment": "",
+      "detail": {
+        "photo": "img/guirlandas/052-thumb.webp",
+        "materials": "img/guirlandas/052-materials.webp",
+        "measurements": "img/guirlandas/052-measurements.webp",
+        "steps": [
+          "img/guirlandas/052-steps-01.webp",
+          "img/guirlandas/052-steps-02.webp",
+          "img/guirlandas/052-steps-03.webp",
+          "img/guirlandas/052-steps-04.webp",
+          "img/guirlandas/052-steps-05.webp",
+          "img/guirlandas/052-steps-06.webp",
+          "img/guirlandas/052-steps-07.webp",
+          "img/guirlandas/052-steps-08.webp",
+          "img/guirlandas/052-steps-09.webp",
+          "img/guirlandas/052-steps-10.webp",
+          "img/guirlandas/052-steps-11.webp",
+          "img/guirlandas/052-steps-12.webp"
+        ]
+      }
     },
     {
       "n": 52,
@@ -417,7 +1338,26 @@
       "title": "Três sinos dourados",
       "image": "img/guirlandas/053.webp",
       "thumb": "img/guirlandas/053-thumb.webp",
-      "segment": ""
+      "segment": "",
+      "detail": {
+        "photo": "img/guirlandas/053-thumb.webp",
+        "materials": "img/guirlandas/053-materials.webp",
+        "measurements": "img/guirlandas/053-measurements.webp",
+        "steps": [
+          "img/guirlandas/053-steps-01.webp",
+          "img/guirlandas/053-steps-02.webp",
+          "img/guirlandas/053-steps-03.webp",
+          "img/guirlandas/053-steps-04.webp",
+          "img/guirlandas/053-steps-05.webp",
+          "img/guirlandas/053-steps-06.webp",
+          "img/guirlandas/053-steps-07.webp",
+          "img/guirlandas/053-steps-08.webp",
+          "img/guirlandas/053-steps-09.webp",
+          "img/guirlandas/053-steps-10.webp",
+          "img/guirlandas/053-steps-11.webp",
+          "img/guirlandas/053-steps-12.webp"
+        ]
+      }
     },
     {
       "n": 53,
@@ -425,7 +1365,26 @@
       "title": "Verde-petróleo com flores ouro",
       "image": "img/guirlandas/054.webp",
       "thumb": "img/guirlandas/054-thumb.webp",
-      "segment": ""
+      "segment": "",
+      "detail": {
+        "photo": "img/guirlandas/054-thumb.webp",
+        "materials": "img/guirlandas/054-materials.webp",
+        "measurements": "img/guirlandas/054-measurements.webp",
+        "steps": [
+          "img/guirlandas/054-steps-01.webp",
+          "img/guirlandas/054-steps-02.webp",
+          "img/guirlandas/054-steps-03.webp",
+          "img/guirlandas/054-steps-04.webp",
+          "img/guirlandas/054-steps-05.webp",
+          "img/guirlandas/054-steps-06.webp",
+          "img/guirlandas/054-steps-07.webp",
+          "img/guirlandas/054-steps-08.webp",
+          "img/guirlandas/054-steps-09.webp",
+          "img/guirlandas/054-steps-10.webp",
+          "img/guirlandas/054-steps-11.webp",
+          "img/guirlandas/054-steps-12.webp"
+        ]
+      }
     },
     {
       "n": 54,
@@ -433,7 +1392,26 @@
       "title": "Branca com rena e bolas claras",
       "image": "img/guirlandas/055.webp",
       "thumb": "img/guirlandas/055-thumb.webp",
-      "segment": ""
+      "segment": "",
+      "detail": {
+        "photo": "img/guirlandas/055-thumb.webp",
+        "materials": "img/guirlandas/055-materials.webp",
+        "measurements": "img/guirlandas/055-measurements.webp",
+        "steps": [
+          "img/guirlandas/055-steps-01.webp",
+          "img/guirlandas/055-steps-02.webp",
+          "img/guirlandas/055-steps-03.webp",
+          "img/guirlandas/055-steps-04.webp",
+          "img/guirlandas/055-steps-05.webp",
+          "img/guirlandas/055-steps-06.webp",
+          "img/guirlandas/055-steps-07.webp",
+          "img/guirlandas/055-steps-08.webp",
+          "img/guirlandas/055-steps-09.webp",
+          "img/guirlandas/055-steps-10.webp",
+          "img/guirlandas/055-steps-11.webp",
+          "img/guirlandas/055-steps-12.webp"
+        ]
+      }
     },
     {
       "n": 55,
@@ -441,7 +1419,26 @@
       "title": "Azul metálico e flores champagne",
       "image": "img/guirlandas/056.webp",
       "thumb": "img/guirlandas/056-thumb.webp",
-      "segment": ""
+      "segment": "",
+      "detail": {
+        "photo": "img/guirlandas/056-thumb.webp",
+        "materials": "img/guirlandas/056-materials.webp",
+        "measurements": "img/guirlandas/056-measurements.webp",
+        "steps": [
+          "img/guirlandas/056-steps-01.webp",
+          "img/guirlandas/056-steps-02.webp",
+          "img/guirlandas/056-steps-03.webp",
+          "img/guirlandas/056-steps-04.webp",
+          "img/guirlandas/056-steps-05.webp",
+          "img/guirlandas/056-steps-06.webp",
+          "img/guirlandas/056-steps-07.webp",
+          "img/guirlandas/056-steps-08.webp",
+          "img/guirlandas/056-steps-09.webp",
+          "img/guirlandas/056-steps-10.webp",
+          "img/guirlandas/056-steps-11.webp",
+          "img/guirlandas/056-steps-12.webp"
+        ]
+      }
     },
     {
       "n": 56,
@@ -449,7 +1446,26 @@
       "title": "Verde e bronze com laço listrado",
       "image": "img/guirlandas/057.webp",
       "thumb": "img/guirlandas/057-thumb.webp",
-      "segment": ""
+      "segment": "",
+      "detail": {
+        "photo": "img/guirlandas/057-thumb.webp",
+        "materials": "img/guirlandas/057-materials.webp",
+        "measurements": "img/guirlandas/057-measurements.webp",
+        "steps": [
+          "img/guirlandas/057-steps-01.webp",
+          "img/guirlandas/057-steps-02.webp",
+          "img/guirlandas/057-steps-03.webp",
+          "img/guirlandas/057-steps-04.webp",
+          "img/guirlandas/057-steps-05.webp",
+          "img/guirlandas/057-steps-06.webp",
+          "img/guirlandas/057-steps-07.webp",
+          "img/guirlandas/057-steps-08.webp",
+          "img/guirlandas/057-steps-09.webp",
+          "img/guirlandas/057-steps-10.webp",
+          "img/guirlandas/057-steps-11.webp",
+          "img/guirlandas/057-steps-12.webp"
+        ]
+      }
     },
     {
       "n": 57,
@@ -457,7 +1473,26 @@
       "title": "Rosas rosé e laço de veludo",
       "image": "img/guirlandas/058.webp",
       "thumb": "img/guirlandas/058-thumb.webp",
-      "segment": ""
+      "segment": "",
+      "detail": {
+        "photo": "img/guirlandas/058-thumb.webp",
+        "materials": "img/guirlandas/058-materials.webp",
+        "measurements": "img/guirlandas/058-measurements.webp",
+        "steps": [
+          "img/guirlandas/058-steps-01.webp",
+          "img/guirlandas/058-steps-02.webp",
+          "img/guirlandas/058-steps-03.webp",
+          "img/guirlandas/058-steps-04.webp",
+          "img/guirlandas/058-steps-05.webp",
+          "img/guirlandas/058-steps-06.webp",
+          "img/guirlandas/058-steps-07.webp",
+          "img/guirlandas/058-steps-08.webp",
+          "img/guirlandas/058-steps-09.webp",
+          "img/guirlandas/058-steps-10.webp",
+          "img/guirlandas/058-steps-11.webp",
+          "img/guirlandas/058-steps-12.webp"
+        ]
+      }
     },
     {
       "n": 58,
@@ -465,7 +1500,10 @@
       "title": "Verde, azul e ouro sem laço",
       "image": "img/guirlandas/059.webp",
       "thumb": "img/guirlandas/059-thumb.webp",
-      "segment": ""
+      "segment": "",
+      "detail": {
+        "fallback": true
+      }
     },
     {
       "n": 59,
@@ -473,7 +1511,26 @@
       "title": "Roxo com flores e laço translúcido",
       "image": "img/guirlandas/060.webp",
       "thumb": "img/guirlandas/060-thumb.webp",
-      "segment": ""
+      "segment": "",
+      "detail": {
+        "photo": "img/guirlandas/060-thumb.webp",
+        "materials": "img/guirlandas/060-materials.webp",
+        "measurements": "img/guirlandas/060-measurements.webp",
+        "steps": [
+          "img/guirlandas/060-steps-01.webp",
+          "img/guirlandas/060-steps-02.webp",
+          "img/guirlandas/060-steps-03.webp",
+          "img/guirlandas/060-steps-04.webp",
+          "img/guirlandas/060-steps-05.webp",
+          "img/guirlandas/060-steps-06.webp",
+          "img/guirlandas/060-steps-07.webp",
+          "img/guirlandas/060-steps-08.webp",
+          "img/guirlandas/060-steps-09.webp",
+          "img/guirlandas/060-steps-10.webp",
+          "img/guirlandas/060-steps-11.webp",
+          "img/guirlandas/060-steps-12.webp"
+        ]
+      }
     },
     {
       "n": 60,
@@ -481,7 +1538,26 @@
       "title": "Meia-lua clara com poinsétia rosa",
       "image": "img/guirlandas/061.webp",
       "thumb": "img/guirlandas/061-thumb.webp",
-      "segment": ""
+      "segment": "",
+      "detail": {
+        "photo": "img/guirlandas/061-thumb.webp",
+        "materials": "img/guirlandas/061-materials.webp",
+        "measurements": "img/guirlandas/061-measurements.webp",
+        "steps": [
+          "img/guirlandas/061-steps-01.webp",
+          "img/guirlandas/061-steps-02.webp",
+          "img/guirlandas/061-steps-03.webp",
+          "img/guirlandas/061-steps-04.webp",
+          "img/guirlandas/061-steps-05.webp",
+          "img/guirlandas/061-steps-06.webp",
+          "img/guirlandas/061-steps-07.webp",
+          "img/guirlandas/061-steps-08.webp",
+          "img/guirlandas/061-steps-09.webp",
+          "img/guirlandas/061-steps-10.webp",
+          "img/guirlandas/061-steps-11.webp",
+          "img/guirlandas/061-steps-12.webp"
+        ]
+      }
     },
     {
       "n": 61,
@@ -489,7 +1565,26 @@
       "title": "Rosé e prata com folhas longas",
       "image": "img/guirlandas/062.webp",
       "thumb": "img/guirlandas/062-thumb.webp",
-      "segment": ""
+      "segment": "",
+      "detail": {
+        "photo": "img/guirlandas/062-thumb.webp",
+        "materials": "img/guirlandas/062-materials.webp",
+        "measurements": "img/guirlandas/062-measurements.webp",
+        "steps": [
+          "img/guirlandas/062-steps-01.webp",
+          "img/guirlandas/062-steps-02.webp",
+          "img/guirlandas/062-steps-03.webp",
+          "img/guirlandas/062-steps-04.webp",
+          "img/guirlandas/062-steps-05.webp",
+          "img/guirlandas/062-steps-06.webp",
+          "img/guirlandas/062-steps-07.webp",
+          "img/guirlandas/062-steps-08.webp",
+          "img/guirlandas/062-steps-09.webp",
+          "img/guirlandas/062-steps-10.webp",
+          "img/guirlandas/062-steps-11.webp",
+          "img/guirlandas/062-steps-12.webp"
+        ]
+      }
     },
     {
       "n": 62,
@@ -497,7 +1592,26 @@
       "title": "Eucalipto e bolas verde-sálvia",
       "image": "img/guirlandas/063.webp",
       "thumb": "img/guirlandas/063-thumb.webp",
-      "segment": ""
+      "segment": "",
+      "detail": {
+        "photo": "img/guirlandas/063-thumb.webp",
+        "materials": "img/guirlandas/063-materials.webp",
+        "measurements": "img/guirlandas/063-measurements.webp",
+        "steps": [
+          "img/guirlandas/063-steps-01.webp",
+          "img/guirlandas/063-steps-02.webp",
+          "img/guirlandas/063-steps-03.webp",
+          "img/guirlandas/063-steps-04.webp",
+          "img/guirlandas/063-steps-05.webp",
+          "img/guirlandas/063-steps-06.webp",
+          "img/guirlandas/063-steps-07.webp",
+          "img/guirlandas/063-steps-08.webp",
+          "img/guirlandas/063-steps-09.webp",
+          "img/guirlandas/063-steps-10.webp",
+          "img/guirlandas/063-steps-11.webp",
+          "img/guirlandas/063-steps-12.webp"
+        ]
+      }
     }
   ],
   "pages": [

@@ -6,7 +6,26 @@
       "title": "Relicário verde-petróleo com arabescos dourados",
       "image": "img/modelos/002.webp",
       "thumb": "img/modelos/002-thumb.webp",
-      "segment": "Verdes"
+      "segment": "Verdes",
+      "detail": {
+        "photo": "img/modelos/002-thumb.webp",
+        "materials": "img/modelos/002-materials.webp",
+        "measurements": "img/modelos/002-measurements.webp",
+        "steps": [
+          "img/modelos/002-steps-01.webp",
+          "img/modelos/002-steps-02.webp",
+          "img/modelos/002-steps-03.webp",
+          "img/modelos/002-steps-04.webp",
+          "img/modelos/002-steps-05.webp",
+          "img/modelos/002-steps-06.webp",
+          "img/modelos/002-steps-07.webp",
+          "img/modelos/002-steps-08.webp",
+          "img/modelos/002-steps-09.webp",
+          "img/modelos/002-steps-10.webp",
+          "img/modelos/002-steps-11.webp",
+          "img/modelos/002-steps-12.webp"
+        ]
+      }
     },
     {
       "n": 2,
@@ -14,7 +33,26 @@
       "title": "Flor dourada sobre verde-esmeralda",
       "image": "img/modelos/003.webp",
       "thumb": "img/modelos/003-thumb.webp",
-      "segment": "Verdes"
+      "segment": "Verdes",
+      "detail": {
+        "photo": "img/modelos/003-thumb.webp",
+        "materials": "img/modelos/003-materials.webp",
+        "measurements": "img/modelos/003-measurements.webp",
+        "steps": [
+          "img/modelos/003-steps-01.webp",
+          "img/modelos/003-steps-02.webp",
+          "img/modelos/003-steps-03.webp",
+          "img/modelos/003-steps-04.webp",
+          "img/modelos/003-steps-05.webp",
+          "img/modelos/003-steps-06.webp",
+          "img/modelos/003-steps-07.webp",
+          "img/modelos/003-steps-08.webp",
+          "img/modelos/003-steps-09.webp",
+          "img/modelos/003-steps-10.webp",
+          "img/modelos/003-steps-11.webp",
+          "img/modelos/003-steps-12.webp"
+        ]
+      }
     },
     {
       "n": 3,
@@ -22,7 +60,26 @@
       "title": "Poinsétia vermelha e laço de veludo",
       "image": "img/modelos/004.webp",
       "thumb": "img/modelos/004-thumb.webp",
-      "segment": "Vermelhos"
+      "segment": "Vermelhos",
+      "detail": {
+        "photo": "img/modelos/004-thumb.webp",
+        "materials": "img/modelos/004-materials.webp",
+        "measurements": "img/modelos/004-measurements.webp",
+        "steps": [
+          "img/modelos/004-steps-01.webp",
+          "img/modelos/004-steps-02.webp",
+          "img/modelos/004-steps-03.webp",
+          "img/modelos/004-steps-04.webp",
+          "img/modelos/004-steps-05.webp",
+          "img/modelos/004-steps-06.webp",
+          "img/modelos/004-steps-07.webp",
+          "img/modelos/004-steps-08.webp",
+          "img/modelos/004-steps-09.webp",
+          "img/modelos/004-steps-10.webp",
+          "img/modelos/004-steps-11.webp",
+          "img/modelos/004-steps-12.webp"
+        ]
+      }
     },
     {
       "n": 4,
@@ -30,7 +87,26 @@
       "title": "Relicário natalino champagne com pinhas e bagas ouro",
       "image": "img/modelos/005.webp",
       "thumb": "img/modelos/005-thumb.webp",
-      "segment": "Champagne e Prata"
+      "segment": "Champagne e Prata",
+      "detail": {
+        "photo": "img/modelos/005-thumb.webp",
+        "materials": "img/modelos/005-materials.webp",
+        "measurements": "img/modelos/005-measurements.webp",
+        "steps": [
+          "img/modelos/005-steps-01.webp",
+          "img/modelos/005-steps-02.webp",
+          "img/modelos/005-steps-03.webp",
+          "img/modelos/005-steps-04.webp",
+          "img/modelos/005-steps-05.webp",
+          "img/modelos/005-steps-06.webp",
+          "img/modelos/005-steps-07.webp",
+          "img/modelos/005-steps-08.webp",
+          "img/modelos/005-steps-09.webp",
+          "img/modelos/005-steps-10.webp",
+          "img/modelos/005-steps-11.webp",
+          "img/modelos/005-steps-12.webp"
+        ]
+      }
     },
     {
       "n": 5,
@@ -38,7 +114,26 @@
       "title": "Vermelho profundo com espigas",
       "image": "img/modelos/006.webp",
       "thumb": "img/modelos/006-thumb.webp",
-      "segment": "Vermelhos"
+      "segment": "Vermelhos",
+      "detail": {
+        "photo": "img/modelos/006-thumb.webp",
+        "materials": "img/modelos/006-materials.webp",
+        "measurements": "img/modelos/006-measurements.webp",
+        "steps": [
+          "img/modelos/006-steps-01.webp",
+          "img/modelos/006-steps-02.webp",
+          "img/modelos/006-steps-03.webp",
+          "img/modelos/006-steps-04.webp",
+          "img/modelos/006-steps-05.webp",
+          "img/modelos/006-steps-06.webp",
+          "img/modelos/006-steps-07.webp",
+          "img/modelos/006-steps-08.webp",
+          "img/modelos/006-steps-09.webp",
+          "img/modelos/006-steps-10.webp",
+          "img/modelos/006-steps-11.webp",
+          "img/modelos/006-steps-12.webp"
+        ]
+      }
     },
     {
       "n": 6,
@@ -46,7 +141,26 @@
       "title": "Vermelho vivo com laço em camadas",
       "image": "img/modelos/007.webp",
       "thumb": "img/modelos/007-thumb.webp",
-      "segment": "Vermelhos"
+      "segment": "Vermelhos",
+      "detail": {
+        "photo": "img/modelos/007-thumb.webp",
+        "materials": "img/modelos/007-materials.webp",
+        "measurements": "img/modelos/007-measurements.webp",
+        "steps": [
+          "img/modelos/007-steps-01.webp",
+          "img/modelos/007-steps-02.webp",
+          "img/modelos/007-steps-03.webp",
+          "img/modelos/007-steps-04.webp",
+          "img/modelos/007-steps-05.webp",
+          "img/modelos/007-steps-06.webp",
+          "img/modelos/007-steps-07.webp",
+          "img/modelos/007-steps-08.webp",
+          "img/modelos/007-steps-09.webp",
+          "img/modelos/007-steps-10.webp",
+          "img/modelos/007-steps-11.webp",
+          "img/modelos/007-steps-12.webp"
+        ]
+      }
     },
     {
       "n": 7,
@@ -54,7 +168,26 @@
       "title": "Verde e ouro com folhagem erguida",
       "image": "img/modelos/008.webp",
       "thumb": "img/modelos/008-thumb.webp",
-      "segment": "Verdes"
+      "segment": "Verdes",
+      "detail": {
+        "photo": "img/modelos/008-thumb.webp",
+        "materials": "img/modelos/008-materials.webp",
+        "measurements": "img/modelos/008-measurements.webp",
+        "steps": [
+          "img/modelos/008-steps-01.webp",
+          "img/modelos/008-steps-02.webp",
+          "img/modelos/008-steps-03.webp",
+          "img/modelos/008-steps-04.webp",
+          "img/modelos/008-steps-05.webp",
+          "img/modelos/008-steps-06.webp",
+          "img/modelos/008-steps-07.webp",
+          "img/modelos/008-steps-08.webp",
+          "img/modelos/008-steps-09.webp",
+          "img/modelos/008-steps-10.webp",
+          "img/modelos/008-steps-11.webp",
+          "img/modelos/008-steps-12.webp"
+        ]
+      }
     },
     {
       "n": 8,
@@ -62,7 +195,26 @@
       "title": "Linho claro com bagas brancas",
       "image": "img/modelos/009.webp",
       "thumb": "img/modelos/009-thumb.webp",
-      "segment": "Rústico e Juta"
+      "segment": "Rústico e Juta",
+      "detail": {
+        "photo": "img/modelos/009-thumb.webp",
+        "materials": "img/modelos/009-materials.webp",
+        "measurements": "img/modelos/009-measurements.webp",
+        "steps": [
+          "img/modelos/009-steps-01.webp",
+          "img/modelos/009-steps-02.webp",
+          "img/modelos/009-steps-03.webp",
+          "img/modelos/009-steps-04.webp",
+          "img/modelos/009-steps-05.webp",
+          "img/modelos/009-steps-06.webp",
+          "img/modelos/009-steps-07.webp",
+          "img/modelos/009-steps-08.webp",
+          "img/modelos/009-steps-09.webp",
+          "img/modelos/009-steps-10.webp",
+          "img/modelos/009-steps-11.webp",
+          "img/modelos/009-steps-12.webp"
+        ]
+      }
     },
     {
       "n": 9,
@@ -70,7 +222,26 @@
       "title": "Tartã com eucalipto e bola telada",
       "image": "img/modelos/010.webp",
       "thumb": "img/modelos/010-thumb.webp",
-      "segment": "Tartã e Xadrez"
+      "segment": "Tartã e Xadrez",
+      "detail": {
+        "photo": "img/modelos/010-thumb.webp",
+        "materials": "img/modelos/010-materials.webp",
+        "measurements": "img/modelos/010-measurements.webp",
+        "steps": [
+          "img/modelos/010-steps-01.webp",
+          "img/modelos/010-steps-02.webp",
+          "img/modelos/010-steps-03.webp",
+          "img/modelos/010-steps-04.webp",
+          "img/modelos/010-steps-05.webp",
+          "img/modelos/010-steps-06.webp",
+          "img/modelos/010-steps-07.webp",
+          "img/modelos/010-steps-08.webp",
+          "img/modelos/010-steps-09.webp",
+          "img/modelos/010-steps-10.webp",
+          "img/modelos/010-steps-11.webp",
+          "img/modelos/010-steps-12.webp"
+        ]
+      }
     },
     {
       "n": 10,
@@ -78,7 +249,26 @@
       "title": "Laço vermelho com cascata de pinheiro",
       "image": "img/modelos/011.webp",
       "thumb": "img/modelos/011-thumb.webp",
-      "segment": "Vermelhos"
+      "segment": "Vermelhos",
+      "detail": {
+        "photo": "img/modelos/011-thumb.webp",
+        "materials": "img/modelos/011-materials.webp",
+        "measurements": "img/modelos/011-measurements.webp",
+        "steps": [
+          "img/modelos/011-steps-01.webp",
+          "img/modelos/011-steps-02.webp",
+          "img/modelos/011-steps-03.webp",
+          "img/modelos/011-steps-04.webp",
+          "img/modelos/011-steps-05.webp",
+          "img/modelos/011-steps-06.webp",
+          "img/modelos/011-steps-07.webp",
+          "img/modelos/011-steps-08.webp",
+          "img/modelos/011-steps-09.webp",
+          "img/modelos/011-steps-10.webp",
+          "img/modelos/011-steps-11.webp",
+          "img/modelos/011-steps-12.webp"
+        ]
+      }
     },
     {
       "n": 11,
@@ -86,7 +276,26 @@
       "title": "Rosé listrado com bola vinho",
       "image": "img/modelos/012.webp",
       "thumb": "img/modelos/012-thumb.webp",
-      "segment": "Rosê e Marfim"
+      "segment": "Rosê e Marfim",
+      "detail": {
+        "photo": "img/modelos/012-thumb.webp",
+        "materials": "img/modelos/012-materials.webp",
+        "measurements": "img/modelos/012-measurements.webp",
+        "steps": [
+          "img/modelos/012-steps-01.webp",
+          "img/modelos/012-steps-02.webp",
+          "img/modelos/012-steps-03.webp",
+          "img/modelos/012-steps-04.webp",
+          "img/modelos/012-steps-05.webp",
+          "img/modelos/012-steps-06.webp",
+          "img/modelos/012-steps-07.webp",
+          "img/modelos/012-steps-08.webp",
+          "img/modelos/012-steps-09.webp",
+          "img/modelos/012-steps-10.webp",
+          "img/modelos/012-steps-11.webp",
+          "img/modelos/012-steps-12.webp"
+        ]
+      }
     },
     {
       "n": 12,
@@ -94,7 +303,26 @@
       "title": "Faixa vermelha com centro tartã",
       "image": "img/modelos/013.webp",
       "thumb": "img/modelos/013-thumb.webp",
-      "segment": "Tartã e Xadrez"
+      "segment": "Tartã e Xadrez",
+      "detail": {
+        "photo": "img/modelos/013-thumb.webp",
+        "materials": "img/modelos/013-materials.webp",
+        "measurements": "img/modelos/013-measurements.webp",
+        "steps": [
+          "img/modelos/013-steps-01.webp",
+          "img/modelos/013-steps-02.webp",
+          "img/modelos/013-steps-03.webp",
+          "img/modelos/013-steps-04.webp",
+          "img/modelos/013-steps-05.webp",
+          "img/modelos/013-steps-06.webp",
+          "img/modelos/013-steps-07.webp",
+          "img/modelos/013-steps-08.webp",
+          "img/modelos/013-steps-09.webp",
+          "img/modelos/013-steps-10.webp",
+          "img/modelos/013-steps-11.webp",
+          "img/modelos/013-steps-12.webp"
+        ]
+      }
     },
     {
       "n": 13,
@@ -102,7 +330,26 @@
       "title": "Noel estampado e frutos em cascata",
       "image": "img/modelos/014.webp",
       "thumb": "img/modelos/014-thumb.webp",
-      "segment": "Com Papai Noel/Ursinho"
+      "segment": "Com Papai Noel/Ursinho",
+      "detail": {
+        "photo": "img/modelos/014-thumb.webp",
+        "materials": "img/modelos/014-materials.webp",
+        "measurements": "img/modelos/014-measurements.webp",
+        "steps": [
+          "img/modelos/014-steps-01.webp",
+          "img/modelos/014-steps-02.webp",
+          "img/modelos/014-steps-03.webp",
+          "img/modelos/014-steps-04.webp",
+          "img/modelos/014-steps-05.webp",
+          "img/modelos/014-steps-06.webp",
+          "img/modelos/014-steps-07.webp",
+          "img/modelos/014-steps-08.webp",
+          "img/modelos/014-steps-09.webp",
+          "img/modelos/014-steps-10.webp",
+          "img/modelos/014-steps-11.webp",
+          "img/modelos/014-steps-12.webp"
+        ]
+      }
     },
     {
       "n": 14,
@@ -110,7 +357,26 @@
       "title": "Listras largas e juta natural",
       "image": "img/modelos/015.webp",
       "thumb": "img/modelos/015-thumb.webp",
-      "segment": "Rústico e Juta"
+      "segment": "Rústico e Juta",
+      "detail": {
+        "photo": "img/modelos/015-thumb.webp",
+        "materials": "img/modelos/015-materials.webp",
+        "measurements": "img/modelos/015-measurements.webp",
+        "steps": [
+          "img/modelos/015-steps-01.webp",
+          "img/modelos/015-steps-02.webp",
+          "img/modelos/015-steps-03.webp",
+          "img/modelos/015-steps-04.webp",
+          "img/modelos/015-steps-05.webp",
+          "img/modelos/015-steps-06.webp",
+          "img/modelos/015-steps-07.webp",
+          "img/modelos/015-steps-08.webp",
+          "img/modelos/015-steps-09.webp",
+          "img/modelos/015-steps-10.webp",
+          "img/modelos/015-steps-11.webp",
+          "img/modelos/015-steps-12.webp"
+        ]
+      }
     },
     {
       "n": 15,
@@ -118,7 +384,26 @@
       "title": "Vermelho liso com buquê compacto",
       "image": "img/modelos/016.webp",
       "thumb": "img/modelos/016-thumb.webp",
-      "segment": "Vermelhos"
+      "segment": "Vermelhos",
+      "detail": {
+        "photo": "img/modelos/016-thumb.webp",
+        "materials": "img/modelos/016-materials.webp",
+        "measurements": "img/modelos/016-measurements.webp",
+        "steps": [
+          "img/modelos/016-steps-01.webp",
+          "img/modelos/016-steps-02.webp",
+          "img/modelos/016-steps-03.webp",
+          "img/modelos/016-steps-04.webp",
+          "img/modelos/016-steps-05.webp",
+          "img/modelos/016-steps-06.webp",
+          "img/modelos/016-steps-07.webp",
+          "img/modelos/016-steps-08.webp",
+          "img/modelos/016-steps-09.webp",
+          "img/modelos/016-steps-10.webp",
+          "img/modelos/016-steps-11.webp",
+          "img/modelos/016-steps-12.webp"
+        ]
+      }
     },
     {
       "n": 16,
@@ -126,7 +411,26 @@
       "title": "Vermelho e creme com pinhas nevadas",
       "image": "img/modelos/017.webp",
       "thumb": "img/modelos/017-thumb.webp",
-      "segment": "Vermelhos"
+      "segment": "Vermelhos",
+      "detail": {
+        "photo": "img/modelos/017-thumb.webp",
+        "materials": "img/modelos/017-materials.webp",
+        "measurements": "img/modelos/017-measurements.webp",
+        "steps": [
+          "img/modelos/017-steps-01.webp",
+          "img/modelos/017-steps-02.webp",
+          "img/modelos/017-steps-03.webp",
+          "img/modelos/017-steps-04.webp",
+          "img/modelos/017-steps-05.webp",
+          "img/modelos/017-steps-06.webp",
+          "img/modelos/017-steps-07.webp",
+          "img/modelos/017-steps-08.webp",
+          "img/modelos/017-steps-09.webp",
+          "img/modelos/017-steps-10.webp",
+          "img/modelos/017-steps-11.webp",
+          "img/modelos/017-steps-12.webp"
+        ]
+      }
     },
     {
       "n": 17,
@@ -134,7 +438,26 @@
       "title": "Poinsétia vermelha e arabescos dourados",
       "image": "img/modelos/018.webp",
       "thumb": "img/modelos/018-thumb.webp",
-      "segment": "Vermelhos"
+      "segment": "Vermelhos",
+      "detail": {
+        "photo": "img/modelos/018-thumb.webp",
+        "materials": "img/modelos/018-materials.webp",
+        "measurements": "img/modelos/018-measurements.webp",
+        "steps": [
+          "img/modelos/018-steps-01.webp",
+          "img/modelos/018-steps-02.webp",
+          "img/modelos/018-steps-03.webp",
+          "img/modelos/018-steps-04.webp",
+          "img/modelos/018-steps-05.webp",
+          "img/modelos/018-steps-06.webp",
+          "img/modelos/018-steps-07.webp",
+          "img/modelos/018-steps-08.webp",
+          "img/modelos/018-steps-09.webp",
+          "img/modelos/018-steps-10.webp",
+          "img/modelos/018-steps-11.webp",
+          "img/modelos/018-steps-12.webp"
+        ]
+      }
     },
     {
       "n": 18,
@@ -142,7 +465,26 @@
       "title": "Flor dourada e cachos vermelhos",
       "image": "img/modelos/019.webp",
       "thumb": "img/modelos/019-thumb.webp",
-      "segment": "Dourados"
+      "segment": "Dourados",
+      "detail": {
+        "photo": "img/modelos/019-thumb.webp",
+        "materials": "img/modelos/019-materials.webp",
+        "measurements": "img/modelos/019-measurements.webp",
+        "steps": [
+          "img/modelos/019-steps-01.webp",
+          "img/modelos/019-steps-02.webp",
+          "img/modelos/019-steps-03.webp",
+          "img/modelos/019-steps-04.webp",
+          "img/modelos/019-steps-05.webp",
+          "img/modelos/019-steps-06.webp",
+          "img/modelos/019-steps-07.webp",
+          "img/modelos/019-steps-08.webp",
+          "img/modelos/019-steps-09.webp",
+          "img/modelos/019-steps-10.webp",
+          "img/modelos/019-steps-11.webp",
+          "img/modelos/019-steps-12.webp"
+        ]
+      }
     },
     {
       "n": 19,
@@ -150,7 +492,26 @@
       "title": "Flor marfim com pérolas e bolas ouro",
       "image": "img/modelos/020.webp",
       "thumb": "img/modelos/020-thumb.webp",
-      "segment": "Rosê e Marfim"
+      "segment": "Rosê e Marfim",
+      "detail": {
+        "photo": "img/modelos/020-thumb.webp",
+        "materials": "img/modelos/020-materials.webp",
+        "measurements": "img/modelos/020-measurements.webp",
+        "steps": [
+          "img/modelos/020-steps-01.webp",
+          "img/modelos/020-steps-02.webp",
+          "img/modelos/020-steps-03.webp",
+          "img/modelos/020-steps-04.webp",
+          "img/modelos/020-steps-05.webp",
+          "img/modelos/020-steps-06.webp",
+          "img/modelos/020-steps-07.webp",
+          "img/modelos/020-steps-08.webp",
+          "img/modelos/020-steps-09.webp",
+          "img/modelos/020-steps-10.webp",
+          "img/modelos/020-steps-11.webp",
+          "img/modelos/020-steps-12.webp"
+        ]
+      }
     },
     {
       "n": 20,
@@ -158,7 +519,26 @@
       "title": "Vermelho de borda ouro e frutos pendentes",
       "image": "img/modelos/021.webp",
       "thumb": "img/modelos/021-thumb.webp",
-      "segment": "Vermelhos"
+      "segment": "Vermelhos",
+      "detail": {
+        "photo": "img/modelos/021-thumb.webp",
+        "materials": "img/modelos/021-materials.webp",
+        "measurements": "img/modelos/021-measurements.webp",
+        "steps": [
+          "img/modelos/021-steps-01.webp",
+          "img/modelos/021-steps-02.webp",
+          "img/modelos/021-steps-03.webp",
+          "img/modelos/021-steps-04.webp",
+          "img/modelos/021-steps-05.webp",
+          "img/modelos/021-steps-06.webp",
+          "img/modelos/021-steps-07.webp",
+          "img/modelos/021-steps-08.webp",
+          "img/modelos/021-steps-09.webp",
+          "img/modelos/021-steps-10.webp",
+          "img/modelos/021-steps-11.webp",
+          "img/modelos/021-steps-12.webp"
+        ]
+      }
     },
     {
       "n": 21,
@@ -166,7 +546,26 @@
       "title": "Linho rústico com hastes prateadas",
       "image": "img/modelos/022.webp",
       "thumb": "img/modelos/022-thumb.webp",
-      "segment": "Rústico e Juta"
+      "segment": "Rústico e Juta",
+      "detail": {
+        "photo": "img/modelos/022-thumb.webp",
+        "materials": "img/modelos/022-materials.webp",
+        "measurements": "img/modelos/022-measurements.webp",
+        "steps": [
+          "img/modelos/022-steps-01.webp",
+          "img/modelos/022-steps-02.webp",
+          "img/modelos/022-steps-03.webp",
+          "img/modelos/022-steps-04.webp",
+          "img/modelos/022-steps-05.webp",
+          "img/modelos/022-steps-06.webp",
+          "img/modelos/022-steps-07.webp",
+          "img/modelos/022-steps-08.webp",
+          "img/modelos/022-steps-09.webp",
+          "img/modelos/022-steps-10.webp",
+          "img/modelos/022-steps-11.webp",
+          "img/modelos/022-steps-12.webp"
+        ]
+      }
     },
     {
       "n": 22,
@@ -174,7 +573,26 @@
       "title": "Prata com bolas vermelhas e raiz pendente",
       "image": "img/modelos/023.webp",
       "thumb": "img/modelos/023-thumb.webp",
-      "segment": "Champagne e Prata"
+      "segment": "Champagne e Prata",
+      "detail": {
+        "photo": "img/modelos/023-thumb.webp",
+        "materials": "img/modelos/023-materials.webp",
+        "measurements": "img/modelos/023-measurements.webp",
+        "steps": [
+          "img/modelos/023-steps-01.webp",
+          "img/modelos/023-steps-02.webp",
+          "img/modelos/023-steps-03.webp",
+          "img/modelos/023-steps-04.webp",
+          "img/modelos/023-steps-05.webp",
+          "img/modelos/023-steps-06.webp",
+          "img/modelos/023-steps-07.webp",
+          "img/modelos/023-steps-08.webp",
+          "img/modelos/023-steps-09.webp",
+          "img/modelos/023-steps-10.webp",
+          "img/modelos/023-steps-11.webp",
+          "img/modelos/023-steps-12.webp"
+        ]
+      }
     },
     {
       "n": 23,
@@ -182,7 +600,26 @@
       "title": "Dourado vazado minimalista",
       "image": "img/modelos/024.webp",
       "thumb": "img/modelos/024-thumb.webp",
-      "segment": "Dourados"
+      "segment": "Dourados",
+      "detail": {
+        "photo": "img/modelos/024-thumb.webp",
+        "materials": "img/modelos/024-materials.webp",
+        "measurements": "img/modelos/024-measurements.webp",
+        "steps": [
+          "img/modelos/024-steps-01.webp",
+          "img/modelos/024-steps-02.webp",
+          "img/modelos/024-steps-03.webp",
+          "img/modelos/024-steps-04.webp",
+          "img/modelos/024-steps-05.webp",
+          "img/modelos/024-steps-06.webp",
+          "img/modelos/024-steps-07.webp",
+          "img/modelos/024-steps-08.webp",
+          "img/modelos/024-steps-09.webp",
+          "img/modelos/024-steps-10.webp",
+          "img/modelos/024-steps-11.webp",
+          "img/modelos/024-steps-12.webp"
+        ]
+      }
     },
     {
       "n": 24,
@@ -190,7 +627,26 @@
       "title": "Champagne com dois laços e bolas",
       "image": "img/modelos/025.webp",
       "thumb": "img/modelos/025-thumb.webp",
-      "segment": "Champagne e Prata"
+      "segment": "Champagne e Prata",
+      "detail": {
+        "photo": "img/modelos/025-thumb.webp",
+        "materials": "img/modelos/025-materials.webp",
+        "measurements": "img/modelos/025-measurements.webp",
+        "steps": [
+          "img/modelos/025-steps-01.webp",
+          "img/modelos/025-steps-02.webp",
+          "img/modelos/025-steps-03.webp",
+          "img/modelos/025-steps-04.webp",
+          "img/modelos/025-steps-05.webp",
+          "img/modelos/025-steps-06.webp",
+          "img/modelos/025-steps-07.webp",
+          "img/modelos/025-steps-08.webp",
+          "img/modelos/025-steps-09.webp",
+          "img/modelos/025-steps-10.webp",
+          "img/modelos/025-steps-11.webp",
+          "img/modelos/025-steps-12.webp"
+        ]
+      }
     },
     {
       "n": 25,
@@ -198,7 +654,26 @@
       "title": "Laço ouro e poinsétia vermelha",
       "image": "img/modelos/026.webp",
       "thumb": "img/modelos/026-thumb.webp",
-      "segment": "Dourados"
+      "segment": "Dourados",
+      "detail": {
+        "photo": "img/modelos/026-thumb.webp",
+        "materials": "img/modelos/026-materials.webp",
+        "measurements": "img/modelos/026-measurements.webp",
+        "steps": [
+          "img/modelos/026-steps-01.webp",
+          "img/modelos/026-steps-02.webp",
+          "img/modelos/026-steps-03.webp",
+          "img/modelos/026-steps-04.webp",
+          "img/modelos/026-steps-05.webp",
+          "img/modelos/026-steps-06.webp",
+          "img/modelos/026-steps-07.webp",
+          "img/modelos/026-steps-08.webp",
+          "img/modelos/026-steps-09.webp",
+          "img/modelos/026-steps-10.webp",
+          "img/modelos/026-steps-11.webp",
+          "img/modelos/026-steps-12.webp"
+        ]
+      }
     },
     {
       "n": 26,
@@ -206,7 +681,26 @@
       "title": "Dourado integral com pinha central",
       "image": "img/modelos/027.webp",
       "thumb": "img/modelos/027-thumb.webp",
-      "segment": "Dourados"
+      "segment": "Dourados",
+      "detail": {
+        "photo": "img/modelos/027-thumb.webp",
+        "materials": "img/modelos/027-materials.webp",
+        "measurements": "img/modelos/027-measurements.webp",
+        "steps": [
+          "img/modelos/027-steps-01.webp",
+          "img/modelos/027-steps-02.webp",
+          "img/modelos/027-steps-03.webp",
+          "img/modelos/027-steps-04.webp",
+          "img/modelos/027-steps-05.webp",
+          "img/modelos/027-steps-06.webp",
+          "img/modelos/027-steps-07.webp",
+          "img/modelos/027-steps-08.webp",
+          "img/modelos/027-steps-09.webp",
+          "img/modelos/027-steps-10.webp",
+          "img/modelos/027-steps-11.webp",
+          "img/modelos/027-steps-12.webp"
+        ]
+      }
     },
     {
       "n": 27,
@@ -214,7 +708,10 @@
       "title": "Ursinho no laço tartã",
       "image": "img/modelos/028.webp",
       "thumb": "img/modelos/028-thumb.webp",
-      "segment": "Com Papai Noel/Ursinho"
+      "segment": "Com Papai Noel/Ursinho",
+      "detail": {
+        "fallback": true
+      }
     },
     {
       "n": 28,
@@ -222,7 +719,26 @@
       "title": "Flor branca com sinos prateados",
       "image": "img/modelos/029.webp",
       "thumb": "img/modelos/029-thumb.webp",
-      "segment": "Vermelhos"
+      "segment": "Vermelhos",
+      "detail": {
+        "photo": "img/modelos/029-thumb.webp",
+        "materials": "img/modelos/029-materials.webp",
+        "measurements": "img/modelos/029-measurements.webp",
+        "steps": [
+          "img/modelos/029-steps-01.webp",
+          "img/modelos/029-steps-02.webp",
+          "img/modelos/029-steps-03.webp",
+          "img/modelos/029-steps-04.webp",
+          "img/modelos/029-steps-05.webp",
+          "img/modelos/029-steps-06.webp",
+          "img/modelos/029-steps-07.webp",
+          "img/modelos/029-steps-08.webp",
+          "img/modelos/029-steps-09.webp",
+          "img/modelos/029-steps-10.webp",
+          "img/modelos/029-steps-11.webp",
+          "img/modelos/029-steps-12.webp"
+        ]
+      }
     },
     {
       "n": 29,
@@ -230,7 +746,26 @@
       "title": "Marfim com flor vazada e ramos soltos",
       "image": "img/modelos/030.webp",
       "thumb": "img/modelos/030-thumb.webp",
-      "segment": "Rosê e Marfim"
+      "segment": "Rosê e Marfim",
+      "detail": {
+        "photo": "img/modelos/030-thumb.webp",
+        "materials": "img/modelos/030-materials.webp",
+        "measurements": "img/modelos/030-measurements.webp",
+        "steps": [
+          "img/modelos/030-steps-01.webp",
+          "img/modelos/030-steps-02.webp",
+          "img/modelos/030-steps-03.webp",
+          "img/modelos/030-steps-04.webp",
+          "img/modelos/030-steps-05.webp",
+          "img/modelos/030-steps-06.webp",
+          "img/modelos/030-steps-07.webp",
+          "img/modelos/030-steps-08.webp",
+          "img/modelos/030-steps-09.webp",
+          "img/modelos/030-steps-10.webp",
+          "img/modelos/030-steps-11.webp",
+          "img/modelos/030-steps-12.webp"
+        ]
+      }
     },
     {
       "n": 30,
@@ -238,7 +773,26 @@
       "title": "Marrom listrado com folhagem cobre",
       "image": "img/modelos/031.webp",
       "thumb": "img/modelos/031-thumb.webp",
-      "segment": "Rústico e Juta"
+      "segment": "Rústico e Juta",
+      "detail": {
+        "photo": "img/modelos/031-thumb.webp",
+        "materials": "img/modelos/031-materials.webp",
+        "measurements": "img/modelos/031-measurements.webp",
+        "steps": [
+          "img/modelos/031-steps-01.webp",
+          "img/modelos/031-steps-02.webp",
+          "img/modelos/031-steps-03.webp",
+          "img/modelos/031-steps-04.webp",
+          "img/modelos/031-steps-05.webp",
+          "img/modelos/031-steps-06.webp",
+          "img/modelos/031-steps-07.webp",
+          "img/modelos/031-steps-08.webp",
+          "img/modelos/031-steps-09.webp",
+          "img/modelos/031-steps-10.webp",
+          "img/modelos/031-steps-11.webp",
+          "img/modelos/031-steps-12.webp"
+        ]
+      }
     },
     {
       "n": 31,
@@ -246,7 +800,26 @@
       "title": "Floco na faixa e três bolas vermelhas",
       "image": "img/modelos/032.webp",
       "thumb": "img/modelos/032-thumb.webp",
-      "segment": "Rústico e Juta"
+      "segment": "Rústico e Juta",
+      "detail": {
+        "photo": "img/modelos/032-thumb.webp",
+        "materials": "img/modelos/032-materials.webp",
+        "measurements": "img/modelos/032-measurements.webp",
+        "steps": [
+          "img/modelos/032-steps-01.webp",
+          "img/modelos/032-steps-02.webp",
+          "img/modelos/032-steps-03.webp",
+          "img/modelos/032-steps-04.webp",
+          "img/modelos/032-steps-05.webp",
+          "img/modelos/032-steps-06.webp",
+          "img/modelos/032-steps-07.webp",
+          "img/modelos/032-steps-08.webp",
+          "img/modelos/032-steps-09.webp",
+          "img/modelos/032-steps-10.webp",
+          "img/modelos/032-steps-11.webp",
+          "img/modelos/032-steps-12.webp"
+        ]
+      }
     },
     {
       "n": 32,
@@ -254,7 +827,26 @@
       "title": "Relicário taupe com rosas claras e bagas",
       "image": "img/modelos/033.webp",
       "thumb": "img/modelos/033-thumb.webp",
-      "segment": "Rosê e Marfim"
+      "segment": "Rosê e Marfim",
+      "detail": {
+        "photo": "img/modelos/033-thumb.webp",
+        "materials": "img/modelos/033-materials.webp",
+        "measurements": "img/modelos/033-measurements.webp",
+        "steps": [
+          "img/modelos/033-steps-01.webp",
+          "img/modelos/033-steps-02.webp",
+          "img/modelos/033-steps-03.webp",
+          "img/modelos/033-steps-04.webp",
+          "img/modelos/033-steps-05.webp",
+          "img/modelos/033-steps-06.webp",
+          "img/modelos/033-steps-07.webp",
+          "img/modelos/033-steps-08.webp",
+          "img/modelos/033-steps-09.webp",
+          "img/modelos/033-steps-10.webp",
+          "img/modelos/033-steps-11.webp",
+          "img/modelos/033-steps-12.webp"
+        ]
+      }
     },
     {
       "n": 33,
@@ -262,7 +854,26 @@
       "title": "Champagne com cascata de bolas",
       "image": "img/modelos/034.webp",
       "thumb": "img/modelos/034-thumb.webp",
-      "segment": "Champagne e Prata"
+      "segment": "Champagne e Prata",
+      "detail": {
+        "photo": "img/modelos/034-thumb.webp",
+        "materials": "img/modelos/034-materials.webp",
+        "measurements": "img/modelos/034-measurements.webp",
+        "steps": [
+          "img/modelos/034-steps-01.webp",
+          "img/modelos/034-steps-02.webp",
+          "img/modelos/034-steps-03.webp",
+          "img/modelos/034-steps-04.webp",
+          "img/modelos/034-steps-05.webp",
+          "img/modelos/034-steps-06.webp",
+          "img/modelos/034-steps-07.webp",
+          "img/modelos/034-steps-08.webp",
+          "img/modelos/034-steps-09.webp",
+          "img/modelos/034-steps-10.webp",
+          "img/modelos/034-steps-11.webp",
+          "img/modelos/034-steps-12.webp"
+        ]
+      }
     },
     {
       "n": 34,
@@ -270,7 +881,26 @@
       "title": "Papai Noel sobre faixa xadrez",
       "image": "img/modelos/035.webp",
       "thumb": "img/modelos/035-thumb.webp",
-      "segment": "Com Papai Noel/Ursinho"
+      "segment": "Com Papai Noel/Ursinho",
+      "detail": {
+        "photo": "img/modelos/035-thumb.webp",
+        "materials": "img/modelos/035-materials.webp",
+        "measurements": "img/modelos/035-measurements.webp",
+        "steps": [
+          "img/modelos/035-steps-01.webp",
+          "img/modelos/035-steps-02.webp",
+          "img/modelos/035-steps-03.webp",
+          "img/modelos/035-steps-04.webp",
+          "img/modelos/035-steps-05.webp",
+          "img/modelos/035-steps-06.webp",
+          "img/modelos/035-steps-07.webp",
+          "img/modelos/035-steps-08.webp",
+          "img/modelos/035-steps-09.webp",
+          "img/modelos/035-steps-10.webp",
+          "img/modelos/035-steps-11.webp",
+          "img/modelos/035-steps-12.webp"
+        ]
+      }
     },
     {
       "n": 35,
@@ -278,7 +908,26 @@
       "title": "Poinsétia vermelha sem laço",
       "image": "img/modelos/036.webp",
       "thumb": "img/modelos/036-thumb.webp",
-      "segment": "Vermelhos"
+      "segment": "Vermelhos",
+      "detail": {
+        "photo": "img/modelos/036-thumb.webp",
+        "materials": "img/modelos/036-materials.webp",
+        "measurements": "img/modelos/036-measurements.webp",
+        "steps": [
+          "img/modelos/036-steps-01.webp",
+          "img/modelos/036-steps-02.webp",
+          "img/modelos/036-steps-03.webp",
+          "img/modelos/036-steps-04.webp",
+          "img/modelos/036-steps-05.webp",
+          "img/modelos/036-steps-06.webp",
+          "img/modelos/036-steps-07.webp",
+          "img/modelos/036-steps-08.webp",
+          "img/modelos/036-steps-09.webp",
+          "img/modelos/036-steps-10.webp",
+          "img/modelos/036-steps-11.webp",
+          "img/modelos/036-steps-12.webp"
+        ]
+      }
     },
     {
       "n": 36,
@@ -286,7 +935,26 @@
       "title": "Dois laços vermelho e branco",
       "image": "img/modelos/037.webp",
       "thumb": "img/modelos/037-thumb.webp",
-      "segment": "Vermelhos"
+      "segment": "Vermelhos",
+      "detail": {
+        "photo": "img/modelos/037-thumb.webp",
+        "materials": "img/modelos/037-materials.webp",
+        "measurements": "img/modelos/037-measurements.webp",
+        "steps": [
+          "img/modelos/037-steps-01.webp",
+          "img/modelos/037-steps-02.webp",
+          "img/modelos/037-steps-03.webp",
+          "img/modelos/037-steps-04.webp",
+          "img/modelos/037-steps-05.webp",
+          "img/modelos/037-steps-06.webp",
+          "img/modelos/037-steps-07.webp",
+          "img/modelos/037-steps-08.webp",
+          "img/modelos/037-steps-09.webp",
+          "img/modelos/037-steps-10.webp",
+          "img/modelos/037-steps-11.webp",
+          "img/modelos/037-steps-12.webp"
+        ]
+      }
     },
     {
       "n": 37,
@@ -294,7 +962,26 @@
       "title": "Listrado vermelho com laço glitter",
       "image": "img/modelos/038.webp",
       "thumb": "img/modelos/038-thumb.webp",
-      "segment": "Vermelhos"
+      "segment": "Vermelhos",
+      "detail": {
+        "photo": "img/modelos/038-thumb.webp",
+        "materials": "img/modelos/038-materials.webp",
+        "measurements": "img/modelos/038-measurements.webp",
+        "steps": [
+          "img/modelos/038-steps-01.webp",
+          "img/modelos/038-steps-02.webp",
+          "img/modelos/038-steps-03.webp",
+          "img/modelos/038-steps-04.webp",
+          "img/modelos/038-steps-05.webp",
+          "img/modelos/038-steps-06.webp",
+          "img/modelos/038-steps-07.webp",
+          "img/modelos/038-steps-08.webp",
+          "img/modelos/038-steps-09.webp",
+          "img/modelos/038-steps-10.webp",
+          "img/modelos/038-steps-11.webp",
+          "img/modelos/038-steps-12.webp"
+        ]
+      }
     },
     {
       "n": 38,
@@ -302,7 +989,26 @@
       "title": "Verde-água com bagas brancas",
       "image": "img/modelos/039.webp",
       "thumb": "img/modelos/039-thumb.webp",
-      "segment": "Verdes"
+      "segment": "Verdes",
+      "detail": {
+        "photo": "img/modelos/039-thumb.webp",
+        "materials": "img/modelos/039-materials.webp",
+        "measurements": "img/modelos/039-measurements.webp",
+        "steps": [
+          "img/modelos/039-steps-01.webp",
+          "img/modelos/039-steps-02.webp",
+          "img/modelos/039-steps-03.webp",
+          "img/modelos/039-steps-04.webp",
+          "img/modelos/039-steps-05.webp",
+          "img/modelos/039-steps-06.webp",
+          "img/modelos/039-steps-07.webp",
+          "img/modelos/039-steps-08.webp",
+          "img/modelos/039-steps-09.webp",
+          "img/modelos/039-steps-10.webp",
+          "img/modelos/039-steps-11.webp",
+          "img/modelos/039-steps-12.webp"
+        ]
+      }
     },
     {
       "n": 39,
@@ -310,7 +1016,26 @@
       "title": "Leque listrado com frutos",
       "image": "img/modelos/040.webp",
       "thumb": "img/modelos/040-thumb.webp",
-      "segment": "Vermelhos"
+      "segment": "Vermelhos",
+      "detail": {
+        "photo": "img/modelos/040-thumb.webp",
+        "materials": "img/modelos/040-materials.webp",
+        "measurements": "img/modelos/040-measurements.webp",
+        "steps": [
+          "img/modelos/040-steps-01.webp",
+          "img/modelos/040-steps-02.webp",
+          "img/modelos/040-steps-03.webp",
+          "img/modelos/040-steps-04.webp",
+          "img/modelos/040-steps-05.webp",
+          "img/modelos/040-steps-06.webp",
+          "img/modelos/040-steps-07.webp",
+          "img/modelos/040-steps-08.webp",
+          "img/modelos/040-steps-09.webp",
+          "img/modelos/040-steps-10.webp",
+          "img/modelos/040-steps-11.webp",
+          "img/modelos/040-steps-12.webp"
+        ]
+      }
     },
     {
       "n": 40,
@@ -318,7 +1043,26 @@
       "title": "Relicário natalino: amarelo manteiga",
       "image": "img/modelos/041.webp",
       "thumb": "img/modelos/041-thumb.webp",
-      "segment": "Dourados"
+      "segment": "Dourados",
+      "detail": {
+        "photo": "img/modelos/041-thumb.webp",
+        "materials": "img/modelos/041-materials.webp",
+        "measurements": "img/modelos/041-measurements.webp",
+        "steps": [
+          "img/modelos/041-steps-01.webp",
+          "img/modelos/041-steps-02.webp",
+          "img/modelos/041-steps-03.webp",
+          "img/modelos/041-steps-04.webp",
+          "img/modelos/041-steps-05.webp",
+          "img/modelos/041-steps-06.webp",
+          "img/modelos/041-steps-07.webp",
+          "img/modelos/041-steps-08.webp",
+          "img/modelos/041-steps-09.webp",
+          "img/modelos/041-steps-10.webp",
+          "img/modelos/041-steps-11.webp",
+          "img/modelos/041-steps-12.webp"
+        ]
+      }
     },
     {
       "n": 41,
@@ -326,7 +1070,26 @@
       "title": "Relicário natalino: Bordô sobre xadrez claro",
       "image": "img/modelos/042.webp",
       "thumb": "img/modelos/042-thumb.webp",
-      "segment": "Tartã e Xadrez"
+      "segment": "Tartã e Xadrez",
+      "detail": {
+        "photo": "img/modelos/042-thumb.webp",
+        "materials": "img/modelos/042-materials.webp",
+        "measurements": "img/modelos/042-measurements.webp",
+        "steps": [
+          "img/modelos/042-steps-01.webp",
+          "img/modelos/042-steps-02.webp",
+          "img/modelos/042-steps-03.webp",
+          "img/modelos/042-steps-04.webp",
+          "img/modelos/042-steps-05.webp",
+          "img/modelos/042-steps-06.webp",
+          "img/modelos/042-steps-07.webp",
+          "img/modelos/042-steps-08.webp",
+          "img/modelos/042-steps-09.webp",
+          "img/modelos/042-steps-10.webp",
+          "img/modelos/042-steps-11.webp",
+          "img/modelos/042-steps-12.webp"
+        ]
+      }
     },
     {
       "n": 42,
@@ -334,7 +1097,26 @@
       "title": "Vermelho tartã com leque dourado",
       "image": "img/modelos/043.webp",
       "thumb": "img/modelos/043-thumb.webp",
-      "segment": "Tartã e Xadrez"
+      "segment": "Tartã e Xadrez",
+      "detail": {
+        "photo": "img/modelos/043-thumb.webp",
+        "materials": "img/modelos/043-materials.webp",
+        "measurements": "img/modelos/043-measurements.webp",
+        "steps": [
+          "img/modelos/043-steps-01.webp",
+          "img/modelos/043-steps-02.webp",
+          "img/modelos/043-steps-03.webp",
+          "img/modelos/043-steps-04.webp",
+          "img/modelos/043-steps-05.webp",
+          "img/modelos/043-steps-06.webp",
+          "img/modelos/043-steps-07.webp",
+          "img/modelos/043-steps-08.webp",
+          "img/modelos/043-steps-09.webp",
+          "img/modelos/043-steps-10.webp",
+          "img/modelos/043-steps-11.webp",
+          "img/modelos/043-steps-12.webp"
+        ]
+      }
     },
     {
       "n": 43,
@@ -342,7 +1124,26 @@
       "title": "Ouro fino com ramos alongados",
       "image": "img/modelos/044.webp",
       "thumb": "img/modelos/044-thumb.webp",
-      "segment": "Dourados"
+      "segment": "Dourados",
+      "detail": {
+        "photo": "img/modelos/044-thumb.webp",
+        "materials": "img/modelos/044-materials.webp",
+        "measurements": "img/modelos/044-measurements.webp",
+        "steps": [
+          "img/modelos/044-steps-01.webp",
+          "img/modelos/044-steps-02.webp",
+          "img/modelos/044-steps-03.webp",
+          "img/modelos/044-steps-04.webp",
+          "img/modelos/044-steps-05.webp",
+          "img/modelos/044-steps-06.webp",
+          "img/modelos/044-steps-07.webp",
+          "img/modelos/044-steps-08.webp",
+          "img/modelos/044-steps-09.webp",
+          "img/modelos/044-steps-10.webp",
+          "img/modelos/044-steps-11.webp",
+          "img/modelos/044-steps-12.webp"
+        ]
+      }
     },
     {
       "n": 44,
@@ -350,7 +1151,26 @@
       "title": "Relicário natalino — Anjinho com dois laços vermelhos",
       "image": "img/modelos/045.webp",
       "thumb": "img/modelos/045-thumb.webp",
-      "segment": "Natal cristão"
+      "segment": "Natal cristão",
+      "detail": {
+        "photo": "img/modelos/045-thumb.webp",
+        "materials": "img/modelos/045-materials.webp",
+        "measurements": "img/modelos/045-measurements.webp",
+        "steps": [
+          "img/modelos/045-steps-01.webp",
+          "img/modelos/045-steps-02.webp",
+          "img/modelos/045-steps-03.webp",
+          "img/modelos/045-steps-04.webp",
+          "img/modelos/045-steps-05.webp",
+          "img/modelos/045-steps-06.webp",
+          "img/modelos/045-steps-07.webp",
+          "img/modelos/045-steps-08.webp",
+          "img/modelos/045-steps-09.webp",
+          "img/modelos/045-steps-10.webp",
+          "img/modelos/045-steps-11.webp",
+          "img/modelos/045-steps-12.webp"
+        ]
+      }
     },
     {
       "n": 45,
@@ -358,7 +1178,26 @@
       "title": "Champagne brocado e cascata verde",
       "image": "img/modelos/046.webp",
       "thumb": "img/modelos/046-thumb.webp",
-      "segment": "Champagne e Prata"
+      "segment": "Champagne e Prata",
+      "detail": {
+        "photo": "img/modelos/046-thumb.webp",
+        "materials": "img/modelos/046-materials.webp",
+        "measurements": "img/modelos/046-measurements.webp",
+        "steps": [
+          "img/modelos/046-steps-01.webp",
+          "img/modelos/046-steps-02.webp",
+          "img/modelos/046-steps-03.webp",
+          "img/modelos/046-steps-04.webp",
+          "img/modelos/046-steps-05.webp",
+          "img/modelos/046-steps-06.webp",
+          "img/modelos/046-steps-07.webp",
+          "img/modelos/046-steps-08.webp",
+          "img/modelos/046-steps-09.webp",
+          "img/modelos/046-steps-10.webp",
+          "img/modelos/046-steps-11.webp",
+          "img/modelos/046-steps-12.webp"
+        ]
+      }
     },
     {
       "n": 46,
@@ -366,7 +1205,26 @@
       "title": "Poinsétia bordô com fita de folhagens",
       "image": "img/modelos/047.webp",
       "thumb": "img/modelos/047-thumb.webp",
-      "segment": "Vermelhos"
+      "segment": "Vermelhos",
+      "detail": {
+        "photo": "img/modelos/047-thumb.webp",
+        "materials": "img/modelos/047-materials.webp",
+        "measurements": "img/modelos/047-measurements.webp",
+        "steps": [
+          "img/modelos/047-steps-01.webp",
+          "img/modelos/047-steps-02.webp",
+          "img/modelos/047-steps-03.webp",
+          "img/modelos/047-steps-04.webp",
+          "img/modelos/047-steps-05.webp",
+          "img/modelos/047-steps-06.webp",
+          "img/modelos/047-steps-07.webp",
+          "img/modelos/047-steps-08.webp",
+          "img/modelos/047-steps-09.webp",
+          "img/modelos/047-steps-10.webp",
+          "img/modelos/047-steps-11.webp",
+          "img/modelos/047-steps-12.webp"
+        ]
+      }
     },
     {
       "n": 47,
@@ -374,7 +1232,26 @@
       "title": "Xadrez branco com placa de festas",
       "image": "img/modelos/048.webp",
       "thumb": "img/modelos/048-thumb.webp",
-      "segment": "Tartã e Xadrez"
+      "segment": "Tartã e Xadrez",
+      "detail": {
+        "photo": "img/modelos/048-thumb.webp",
+        "materials": "img/modelos/048-materials.webp",
+        "measurements": "img/modelos/048-measurements.webp",
+        "steps": [
+          "img/modelos/048-steps-01.webp",
+          "img/modelos/048-steps-02.webp",
+          "img/modelos/048-steps-03.webp",
+          "img/modelos/048-steps-04.webp",
+          "img/modelos/048-steps-05.webp",
+          "img/modelos/048-steps-06.webp",
+          "img/modelos/048-steps-07.webp",
+          "img/modelos/048-steps-08.webp",
+          "img/modelos/048-steps-09.webp",
+          "img/modelos/048-steps-10.webp",
+          "img/modelos/048-steps-11.webp",
+          "img/modelos/048-steps-12.webp"
+        ]
+      }
     },
     {
       "n": 48,
@@ -382,7 +1259,26 @@
       "title": "Relicário natalino — Tartã amplo com folhagem densa",
       "image": "img/modelos/049.webp",
       "thumb": "img/modelos/049-thumb.webp",
-      "segment": "Tartã e Xadrez"
+      "segment": "Tartã e Xadrez",
+      "detail": {
+        "photo": "img/modelos/049-thumb.webp",
+        "materials": "img/modelos/049-materials.webp",
+        "measurements": "img/modelos/049-measurements.webp",
+        "steps": [
+          "img/modelos/049-steps-01.webp",
+          "img/modelos/049-steps-02.webp",
+          "img/modelos/049-steps-03.webp",
+          "img/modelos/049-steps-04.webp",
+          "img/modelos/049-steps-05.webp",
+          "img/modelos/049-steps-06.webp",
+          "img/modelos/049-steps-07.webp",
+          "img/modelos/049-steps-08.webp",
+          "img/modelos/049-steps-09.webp",
+          "img/modelos/049-steps-10.webp",
+          "img/modelos/049-steps-11.webp",
+          "img/modelos/049-steps-12.webp"
+        ]
+      }
     },
     {
       "n": 49,
@@ -390,7 +1286,26 @@
       "title": "Tartã e rosa com folha dourada",
       "image": "img/modelos/050.webp",
       "thumb": "img/modelos/050-thumb.webp",
-      "segment": "Tartã e Xadrez"
+      "segment": "Tartã e Xadrez",
+      "detail": {
+        "photo": "img/modelos/050-thumb.webp",
+        "materials": "img/modelos/050-materials.webp",
+        "measurements": "img/modelos/050-measurements.webp",
+        "steps": [
+          "img/modelos/050-steps-01.webp",
+          "img/modelos/050-steps-02.webp",
+          "img/modelos/050-steps-03.webp",
+          "img/modelos/050-steps-04.webp",
+          "img/modelos/050-steps-05.webp",
+          "img/modelos/050-steps-06.webp",
+          "img/modelos/050-steps-07.webp",
+          "img/modelos/050-steps-08.webp",
+          "img/modelos/050-steps-09.webp",
+          "img/modelos/050-steps-10.webp",
+          "img/modelos/050-steps-11.webp",
+          "img/modelos/050-steps-12.webp"
+        ]
+      }
     },
     {
       "n": 50,
@@ -398,7 +1313,26 @@
       "title": "Bordô e dourado com flor de veludo",
       "image": "img/modelos/051.webp",
       "thumb": "img/modelos/051-thumb.webp",
-      "segment": "Vermelhos"
+      "segment": "Vermelhos",
+      "detail": {
+        "photo": "img/modelos/051-thumb.webp",
+        "materials": "img/modelos/051-materials.webp",
+        "measurements": "img/modelos/051-measurements.webp",
+        "steps": [
+          "img/modelos/051-steps-01.webp",
+          "img/modelos/051-steps-02.webp",
+          "img/modelos/051-steps-03.webp",
+          "img/modelos/051-steps-04.webp",
+          "img/modelos/051-steps-05.webp",
+          "img/modelos/051-steps-06.webp",
+          "img/modelos/051-steps-07.webp",
+          "img/modelos/051-steps-08.webp",
+          "img/modelos/051-steps-09.webp",
+          "img/modelos/051-steps-10.webp",
+          "img/modelos/051-steps-11.webp",
+          "img/modelos/051-steps-12.webp"
+        ]
+      }
     },
     {
       "n": 51,
@@ -406,7 +1340,26 @@
       "title": "Preto e prata com folhagem nevada",
       "image": "img/modelos/052.webp",
       "thumb": "img/modelos/052-thumb.webp",
-      "segment": "Champagne e Prata"
+      "segment": "Champagne e Prata",
+      "detail": {
+        "photo": "img/modelos/052-thumb.webp",
+        "materials": "img/modelos/052-materials.webp",
+        "measurements": "img/modelos/052-measurements.webp",
+        "steps": [
+          "img/modelos/052-steps-01.webp",
+          "img/modelos/052-steps-02.webp",
+          "img/modelos/052-steps-03.webp",
+          "img/modelos/052-steps-04.webp",
+          "img/modelos/052-steps-05.webp",
+          "img/modelos/052-steps-06.webp",
+          "img/modelos/052-steps-07.webp",
+          "img/modelos/052-steps-08.webp",
+          "img/modelos/052-steps-09.webp",
+          "img/modelos/052-steps-10.webp",
+          "img/modelos/052-steps-11.webp",
+          "img/modelos/052-steps-12.webp"
+        ]
+      }
     },
     {
       "n": 52,
@@ -414,7 +1367,26 @@
       "title": "Rosé luminoso com folhas douradas",
       "image": "img/modelos/053.webp",
       "thumb": "img/modelos/053-thumb.webp",
-      "segment": "Rosê e Marfim"
+      "segment": "Rosê e Marfim",
+      "detail": {
+        "photo": "img/modelos/053-thumb.webp",
+        "materials": "img/modelos/053-materials.webp",
+        "measurements": "img/modelos/053-measurements.webp",
+        "steps": [
+          "img/modelos/053-steps-01.webp",
+          "img/modelos/053-steps-02.webp",
+          "img/modelos/053-steps-03.webp",
+          "img/modelos/053-steps-04.webp",
+          "img/modelos/053-steps-05.webp",
+          "img/modelos/053-steps-06.webp",
+          "img/modelos/053-steps-07.webp",
+          "img/modelos/053-steps-08.webp",
+          "img/modelos/053-steps-09.webp",
+          "img/modelos/053-steps-10.webp",
+          "img/modelos/053-steps-11.webp",
+          "img/modelos/053-steps-12.webp"
+        ]
+      }
     },
     {
       "n": 53,
@@ -422,7 +1394,26 @@
       "title": "Rosé de flocos com bola central ouro",
       "image": "img/modelos/054.webp",
       "thumb": "img/modelos/054-thumb.webp",
-      "segment": "Rosê e Marfim"
+      "segment": "Rosê e Marfim",
+      "detail": {
+        "photo": "img/modelos/054-thumb.webp",
+        "materials": "img/modelos/054-materials.webp",
+        "measurements": "img/modelos/054-measurements.webp",
+        "steps": [
+          "img/modelos/054-steps-01.webp",
+          "img/modelos/054-steps-02.webp",
+          "img/modelos/054-steps-03.webp",
+          "img/modelos/054-steps-04.webp",
+          "img/modelos/054-steps-05.webp",
+          "img/modelos/054-steps-06.webp",
+          "img/modelos/054-steps-07.webp",
+          "img/modelos/054-steps-08.webp",
+          "img/modelos/054-steps-09.webp",
+          "img/modelos/054-steps-10.webp",
+          "img/modelos/054-steps-11.webp",
+          "img/modelos/054-steps-12.webp"
+        ]
+      }
     },
     {
       "n": 54,
@@ -430,7 +1421,26 @@
       "title": "Marrom de folhas com poinsétia ouro",
       "image": "img/modelos/055.webp",
       "thumb": "img/modelos/055-thumb.webp",
-      "segment": "Rústico e Juta"
+      "segment": "Rústico e Juta",
+      "detail": {
+        "photo": "img/modelos/055-thumb.webp",
+        "materials": "img/modelos/055-materials.webp",
+        "measurements": "img/modelos/055-measurements.webp",
+        "steps": [
+          "img/modelos/055-steps-01.webp",
+          "img/modelos/055-steps-02.webp",
+          "img/modelos/055-steps-03.webp",
+          "img/modelos/055-steps-04.webp",
+          "img/modelos/055-steps-05.webp",
+          "img/modelos/055-steps-06.webp",
+          "img/modelos/055-steps-07.webp",
+          "img/modelos/055-steps-08.webp",
+          "img/modelos/055-steps-09.webp",
+          "img/modelos/055-steps-10.webp",
+          "img/modelos/055-steps-11.webp",
+          "img/modelos/055-steps-12.webp"
+        ]
+      }
     },
     {
       "n": 55,
@@ -438,7 +1448,26 @@
       "title": "Prata e champagne com duas bolas",
       "image": "img/modelos/056.webp",
       "thumb": "img/modelos/056-thumb.webp",
-      "segment": "Champagne e Prata"
+      "segment": "Champagne e Prata",
+      "detail": {
+        "photo": "img/modelos/056-thumb.webp",
+        "materials": "img/modelos/056-materials.webp",
+        "measurements": "img/modelos/056-measurements.webp",
+        "steps": [
+          "img/modelos/056-steps-01.webp",
+          "img/modelos/056-steps-02.webp",
+          "img/modelos/056-steps-03.webp",
+          "img/modelos/056-steps-04.webp",
+          "img/modelos/056-steps-05.webp",
+          "img/modelos/056-steps-06.webp",
+          "img/modelos/056-steps-07.webp",
+          "img/modelos/056-steps-08.webp",
+          "img/modelos/056-steps-09.webp",
+          "img/modelos/056-steps-10.webp",
+          "img/modelos/056-steps-11.webp",
+          "img/modelos/056-steps-12.webp"
+        ]
+      }
     },
     {
       "n": 56,
@@ -446,7 +1475,26 @@
       "title": "Ouro vazado com laço translúcido",
       "image": "img/modelos/057.webp",
       "thumb": "img/modelos/057-thumb.webp",
-      "segment": "Dourados"
+      "segment": "Dourados",
+      "detail": {
+        "photo": "img/modelos/057-thumb.webp",
+        "materials": "img/modelos/057-materials.webp",
+        "measurements": "img/modelos/057-measurements.webp",
+        "steps": [
+          "img/modelos/057-steps-01.webp",
+          "img/modelos/057-steps-02.webp",
+          "img/modelos/057-steps-03.webp",
+          "img/modelos/057-steps-04.webp",
+          "img/modelos/057-steps-05.webp",
+          "img/modelos/057-steps-06.webp",
+          "img/modelos/057-steps-07.webp",
+          "img/modelos/057-steps-08.webp",
+          "img/modelos/057-steps-09.webp",
+          "img/modelos/057-steps-10.webp",
+          "img/modelos/057-steps-11.webp",
+          "img/modelos/057-steps-12.webp"
+        ]
+      }
     },
     {
       "n": 57,
@@ -454,7 +1502,26 @@
       "title": "Amarelo e ouro com flor pendente",
       "image": "img/modelos/058.webp",
       "thumb": "img/modelos/058-thumb.webp",
-      "segment": "Dourados"
+      "segment": "Dourados",
+      "detail": {
+        "photo": "img/modelos/058-thumb.webp",
+        "materials": "img/modelos/058-materials.webp",
+        "measurements": "img/modelos/058-measurements.webp",
+        "steps": [
+          "img/modelos/058-steps-01.webp",
+          "img/modelos/058-steps-02.webp",
+          "img/modelos/058-steps-03.webp",
+          "img/modelos/058-steps-04.webp",
+          "img/modelos/058-steps-05.webp",
+          "img/modelos/058-steps-06.webp",
+          "img/modelos/058-steps-07.webp",
+          "img/modelos/058-steps-08.webp",
+          "img/modelos/058-steps-09.webp",
+          "img/modelos/058-steps-10.webp",
+          "img/modelos/058-steps-11.webp",
+          "img/modelos/058-steps-12.webp"
+        ]
+      }
     },
     {
       "n": 58,
@@ -462,7 +1529,26 @@
       "title": "Champagne com sino e arabescos",
       "image": "img/modelos/059.webp",
       "thumb": "img/modelos/059-thumb.webp",
-      "segment": "Champagne e Prata"
+      "segment": "Champagne e Prata",
+      "detail": {
+        "photo": "img/modelos/059-thumb.webp",
+        "materials": "img/modelos/059-materials.webp",
+        "measurements": "img/modelos/059-measurements.webp",
+        "steps": [
+          "img/modelos/059-steps-01.webp",
+          "img/modelos/059-steps-02.webp",
+          "img/modelos/059-steps-03.webp",
+          "img/modelos/059-steps-04.webp",
+          "img/modelos/059-steps-05.webp",
+          "img/modelos/059-steps-06.webp",
+          "img/modelos/059-steps-07.webp",
+          "img/modelos/059-steps-08.webp",
+          "img/modelos/059-steps-09.webp",
+          "img/modelos/059-steps-10.webp",
+          "img/modelos/059-steps-11.webp",
+          "img/modelos/059-steps-12.webp"
+        ]
+      }
     }
   ],
   "pages": [

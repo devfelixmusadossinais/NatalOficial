@@ -1,5 +1,6 @@
 window.CONFIG = {
   MODO_PROVISORIO: true,
+  EXTRAS_EMAIL_LIVRE: true,
   ACESSO_URL: '/.netlify/functions/acesso',
   STORAGE: 'escapularios-natal-v1',
   ADDONS: {

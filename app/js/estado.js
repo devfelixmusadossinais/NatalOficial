@@ -5,19 +5,38 @@ window.Estado = (() => {
   const q = new URLSearchParams(location.search);
   if (CONFIG.MODO_PROVISORIO) {
     if (['basico','premium'].includes(q.get('plano'))) state.provisoria=q.get('plano');
-    if(q.has('extras')) state.extras=(q.get('extras')||'').split(',').filter(x=>['guirlandas','lacos'].includes(x));
     save();
   }
-  function direitos(){return [...new Set([...state.direitos,...(CONFIG.MODO_PROVISORIO?[state.provisoria,...state.extras]:[])])];}
-  return { get:()=>state, direitos, tem:x=>direitos().includes(x), premium:()=>direitos().includes('premium'),
+  if(q.get('extras')==='none'){state.extras=[];state.direitos=state.direitos.filter(x=>!['guirlandas','lacos'].includes(x));save();}
+  const normalizarEmail=email=>String(email||'').replace(/\s/g,'').toLowerCase();
+  const emailValido=email=>/^[^\s@]+@[^\s@]+\.[^\s@]+$/.test(normalizarEmail(email));
+  function direitos(){return [...new Set([...state.direitos,...(CONFIG.MODO_PROVISORIO?[state.provisoria]:[]),...(CONFIG.EXTRAS_EMAIL_LIVRE?state.extras:[])])];}
+  return { get:()=>state, normalizarEmail, emailValido, direitos, tem:x=>direitos().includes(x), premium:()=>direitos().includes('premium'),
     acesso:()=>direitos().some(x=>['basico','premium','guirlandas','lacos'].includes(x)),
     async login(email){
-      email=email.trim().toLowerCase();
+      email=normalizarEmail(email);
+      if(!emailValido(email))throw new Error('Confira o e-mail digitado.');
+      if(CONFIG.EXTRAS_EMAIL_LIVRE){
+        state.email=email;state.extras=['guirlandas','lacos'];
+        if(!direitos().some(x=>['basico','premium'].includes(x)))state.direitos.push('basico');
+        save();return direitos();
+      }
       const response=await fetch(CONFIG.ACESSO_URL+'?email='+encodeURIComponent(email),{cache:'no-store'});
       if(!response.ok) throw new Error('Não foi possível consultar o acesso. Tente novamente.');
       const result=await response.json();
       state.email=email;state.direitos=(result.direitos||[]).filter(x=>['basico','premium','guirlandas','lacos'].includes(x));save();
       return state.direitos;
+    },
+    async liberarExtra(key,email){
+      if(!['guirlandas','lacos'].includes(key))return false;
+      email=normalizarEmail(email);
+      if(!emailValido(email))throw new Error('Confira o e-mail digitado.');
+      if(!CONFIG.EXTRAS_EMAIL_LIVRE){
+        const grants=await this.login(email);
+        state.extras=grants.filter(x=>['guirlandas','lacos'].includes(x));save();
+        return grants.includes(key);
+      }
+      state.email=email;state.extras=[...new Set([...state.extras,key])];save();return true;
     },
     toggle(key,id){const a=state[key]; const n=a.indexOf(id); if(n<0)a.push(id);else a.splice(n,1);save();},
     sair(){state.email='';state.direitos=[];state.provisoria=null;state.extras=[];save();},
