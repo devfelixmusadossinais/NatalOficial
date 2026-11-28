@@ -1,0 +1,3306 @@
+{
+  "items": [
+    {
+      "n": 1,
+      "page": 4,
+      "title": "Vermelho com trama dourada",
+      "image": "img/lacos/004.webp",
+      "thumb": "img/lacos/004-thumb.webp",
+      "segment": "",
+      "sample": "img/lacos/004-sample.webp",
+      "detail": {
+        "photo": "img/lacos/004-thumb.webp",
+        "materials": "img/lacos/004-materials.webp",
+        "measurements": "img/lacos/004-measurements.webp",
+        "steps": [
+          "img/lacos/004-steps-01.webp",
+          "img/lacos/004-steps-02.webp",
+          "img/lacos/004-steps-03.webp",
+          "img/lacos/004-steps-04.webp",
+          "img/lacos/004-steps-05.webp",
+          "img/lacos/004-steps-06.webp",
+          "img/lacos/004-steps-07.webp",
+          "img/lacos/004-steps-08.webp",
+          "img/lacos/004-steps-09.webp",
+          "img/lacos/004-steps-10.webp",
+          "img/lacos/004-steps-11.webp",
+          "img/lacos/004-steps-12.webp"
+        ]
+      }
+    },
+    {
+      "n": 2,
+      "page": 5,
+      "title": "Xadrez tartã tradicional",
+      "image": "img/lacos/005.webp",
+      "thumb": "img/lacos/005-thumb.webp",
+      "segment": "",
+      "sample": "img/lacos/005-sample.webp",
+      "detail": {
+        "photo": "img/lacos/005-thumb.webp",
+        "materials": "img/lacos/005-materials.webp",
+        "measurements": "img/lacos/005-measurements.webp",
+        "steps": [
+          "img/lacos/005-steps-01.webp",
+          "img/lacos/005-steps-02.webp",
+          "img/lacos/005-steps-03.webp",
+          "img/lacos/005-steps-04.webp",
+          "img/lacos/005-steps-05.webp",
+          "img/lacos/005-steps-06.webp",
+          "img/lacos/005-steps-07.webp",
+          "img/lacos/005-steps-08.webp",
+          "img/lacos/005-steps-09.webp",
+          "img/lacos/005-steps-10.webp",
+          "img/lacos/005-steps-11.webp",
+          "img/lacos/005-steps-12.webp"
+        ]
+      }
+    },
+    {
+      "n": 3,
+      "page": 6,
+      "title": "Vermelho liso de pontas longas",
+      "image": "img/lacos/006.webp",
+      "thumb": "img/lacos/006-thumb.webp",
+      "segment": "",
+      "sample": "img/lacos/006-sample.webp",
+      "detail": {
+        "photo": "img/lacos/006-thumb.webp",
+        "materials": "img/lacos/006-materials.webp",
+        "measurements": "img/lacos/006-measurements.webp",
+        "steps": [
+          "img/lacos/006-steps-01.webp",
+          "img/lacos/006-steps-02.webp",
+          "img/lacos/006-steps-03.webp",
+          "img/lacos/006-steps-04.webp",
+          "img/lacos/006-steps-05.webp",
+          "img/lacos/006-steps-06.webp",
+          "img/lacos/006-steps-07.webp",
+          "img/lacos/006-steps-08.webp",
+          "img/lacos/006-steps-09.webp",
+          "img/lacos/006-steps-10.webp",
+          "img/lacos/006-steps-11.webp",
+          "img/lacos/006-steps-12.webp"
+        ]
+      }
+    },
+    {
+      "n": 4,
+      "page": 7,
+      "title": "Prata com centro largo",
+      "image": "img/lacos/007.webp",
+      "thumb": "img/lacos/007-thumb.webp",
+      "segment": "",
+      "detail": {
+        "photo": "img/lacos/007-thumb.webp",
+        "materials": "img/lacos/007-materials.webp",
+        "measurements": "img/lacos/007-measurements.webp",
+        "steps": [
+          "img/lacos/007-steps-01.webp",
+          "img/lacos/007-steps-02.webp",
+          "img/lacos/007-steps-03.webp",
+          "img/lacos/007-steps-04.webp",
+          "img/lacos/007-steps-05.webp",
+          "img/lacos/007-steps-06.webp",
+          "img/lacos/007-steps-07.webp",
+          "img/lacos/007-steps-08.webp",
+          "img/lacos/007-steps-09.webp",
+          "img/lacos/007-steps-10.webp",
+          "img/lacos/007-steps-11.webp",
+          "img/lacos/007-steps-12.webp"
+        ]
+      }
+    },
+    {
+      "n": 5,
+      "page": 8,
+      "title": "Dourado de trama rústica",
+      "image": "img/lacos/008.webp",
+      "thumb": "img/lacos/008-thumb.webp",
+      "segment": "",
+      "detail": {
+        "photo": "img/lacos/008-thumb.webp",
+        "materials": "img/lacos/008-materials.webp",
+        "measurements": "img/lacos/008-measurements.webp",
+        "steps": [
+          "img/lacos/008-steps-01.webp",
+          "img/lacos/008-steps-02.webp",
+          "img/lacos/008-steps-03.webp",
+          "img/lacos/008-steps-04.webp",
+          "img/lacos/008-steps-05.webp",
+          "img/lacos/008-steps-06.webp",
+          "img/lacos/008-steps-07.webp",
+          "img/lacos/008-steps-08.webp",
+          "img/lacos/008-steps-09.webp",
+          "img/lacos/008-steps-10.webp",
+          "img/lacos/008-steps-11.webp",
+          "img/lacos/008-steps-12.webp"
+        ]
+      }
+    },
+    {
+      "n": 6,
+      "page": 9,
+      "title": "Dourado luminoso em camadas",
+      "image": "img/lacos/009.webp",
+      "thumb": "img/lacos/009-thumb.webp",
+      "segment": "",
+      "detail": {
+        "photo": "img/lacos/009-thumb.webp",
+        "materials": "img/lacos/009-materials.webp",
+        "measurements": "img/lacos/009-measurements.webp",
+        "steps": [
+          "img/lacos/009-steps-01.webp",
+          "img/lacos/009-steps-02.webp",
+          "img/lacos/009-steps-03.webp",
+          "img/lacos/009-steps-04.webp",
+          "img/lacos/009-steps-05.webp",
+          "img/lacos/009-steps-06.webp",
+          "img/lacos/009-steps-07.webp",
+          "img/lacos/009-steps-08.webp",
+          "img/lacos/009-steps-09.webp",
+          "img/lacos/009-steps-10.webp",
+          "img/lacos/009-steps-11.webp",
+          "img/lacos/009-steps-12.webp"
+        ]
+      }
+    },
+    {
+      "n": 7,
+      "page": 10,
+      "title": "Veludo vermelho com estrela",
+      "image": "img/lacos/010.webp",
+      "thumb": "img/lacos/010-thumb.webp",
+      "segment": "",
+      "detail": {
+        "photo": "img/lacos/010-thumb.webp",
+        "materials": "img/lacos/010-materials.webp",
+        "measurements": "img/lacos/010-measurements.webp",
+        "steps": [
+          "img/lacos/010-steps-01.webp",
+          "img/lacos/010-steps-02.webp",
+          "img/lacos/010-steps-03.webp",
+          "img/lacos/010-steps-04.webp",
+          "img/lacos/010-steps-05.webp",
+          "img/lacos/010-steps-06.webp",
+          "img/lacos/010-steps-07.webp",
+          "img/lacos/010-steps-08.webp",
+          "img/lacos/010-steps-09.webp",
+          "img/lacos/010-steps-10.webp",
+          "img/lacos/010-steps-11.webp",
+          "img/lacos/010-steps-12.webp"
+        ]
+      }
+    },
+    {
+      "n": 8,
+      "page": 11,
+      "title": "Vermelho com borboleta brilhante",
+      "image": "img/lacos/011.webp",
+      "thumb": "img/lacos/011-thumb.webp",
+      "segment": "",
+      "detail": {
+        "photo": "img/lacos/011-thumb.webp",
+        "materials": "img/lacos/011-materials.webp",
+        "measurements": "img/lacos/011-measurements.webp",
+        "steps": [
+          "img/lacos/011-steps-01.webp",
+          "img/lacos/011-steps-02.webp",
+          "img/lacos/011-steps-03.webp",
+          "img/lacos/011-steps-04.webp",
+          "img/lacos/011-steps-05.webp",
+          "img/lacos/011-steps-06.webp",
+          "img/lacos/011-steps-07.webp",
+          "img/lacos/011-steps-08.webp",
+          "img/lacos/011-steps-09.webp",
+          "img/lacos/011-steps-10.webp",
+          "img/lacos/011-steps-11.webp",
+          "img/lacos/011-steps-12.webp"
+        ]
+      }
+    },
+    {
+      "n": 9,
+      "page": 12,
+      "title": "Marfim com organza rosé",
+      "image": "img/lacos/012.webp",
+      "thumb": "img/lacos/012-thumb.webp",
+      "segment": "",
+      "detail": {
+        "photo": "img/lacos/012-thumb.webp",
+        "materials": "img/lacos/012-materials.webp",
+        "measurements": "img/lacos/012-measurements.webp",
+        "steps": [
+          "img/lacos/012-steps-01.webp",
+          "img/lacos/012-steps-02.webp",
+          "img/lacos/012-steps-03.webp",
+          "img/lacos/012-steps-04.webp",
+          "img/lacos/012-steps-05.webp",
+          "img/lacos/012-steps-06.webp",
+          "img/lacos/012-steps-07.webp",
+          "img/lacos/012-steps-08.webp",
+          "img/lacos/012-steps-09.webp",
+          "img/lacos/012-steps-10.webp",
+          "img/lacos/012-steps-11.webp",
+          "img/lacos/012-steps-12.webp"
+        ]
+      }
+    },
+    {
+      "n": 10,
+      "page": 13,
+      "title": "Tartã com base vermelha",
+      "image": "img/lacos/013.webp",
+      "thumb": "img/lacos/013-thumb.webp",
+      "segment": "",
+      "detail": {
+        "photo": "img/lacos/013-thumb.webp",
+        "materials": "img/lacos/013-materials.webp",
+        "measurements": "img/lacos/013-measurements.webp",
+        "steps": [
+          "img/lacos/013-steps-01.webp",
+          "img/lacos/013-steps-02.webp",
+          "img/lacos/013-steps-03.webp",
+          "img/lacos/013-steps-04.webp",
+          "img/lacos/013-steps-05.webp",
+          "img/lacos/013-steps-06.webp",
+          "img/lacos/013-steps-07.webp",
+          "img/lacos/013-steps-08.webp",
+          "img/lacos/013-steps-09.webp",
+          "img/lacos/013-steps-10.webp",
+          "img/lacos/013-steps-11.webp",
+          "img/lacos/013-steps-12.webp"
+        ]
+      }
+    },
+    {
+      "n": 11,
+      "page": 14,
+      "title": "Xadrez em três camadas",
+      "image": "img/lacos/014.webp",
+      "thumb": "img/lacos/014-thumb.webp",
+      "segment": "",
+      "detail": {
+        "photo": "img/lacos/014-thumb.webp",
+        "materials": "img/lacos/014-materials.webp",
+        "measurements": "img/lacos/014-measurements.webp",
+        "steps": [
+          "img/lacos/014-steps-01.webp",
+          "img/lacos/014-steps-02.webp",
+          "img/lacos/014-steps-03.webp",
+          "img/lacos/014-steps-04.webp",
+          "img/lacos/014-steps-05.webp",
+          "img/lacos/014-steps-06.webp",
+          "img/lacos/014-steps-07.webp",
+          "img/lacos/014-steps-08.webp",
+          "img/lacos/014-steps-09.webp",
+          "img/lacos/014-steps-10.webp",
+          "img/lacos/014-steps-11.webp",
+          "img/lacos/014-steps-12.webp"
+        ]
+      }
+    },
+    {
+      "n": 12,
+      "page": 15,
+      "title": "Vermelho acetinado com fundo ouro",
+      "image": "img/lacos/015.webp",
+      "thumb": "img/lacos/015-thumb.webp",
+      "segment": "",
+      "detail": {
+        "photo": "img/lacos/015-thumb.webp",
+        "materials": "img/lacos/015-materials.webp",
+        "measurements": "img/lacos/015-measurements.webp",
+        "steps": [
+          "img/lacos/015-steps-01.webp",
+          "img/lacos/015-steps-02.webp",
+          "img/lacos/015-steps-03.webp",
+          "img/lacos/015-steps-04.webp",
+          "img/lacos/015-steps-05.webp",
+          "img/lacos/015-steps-06.webp",
+          "img/lacos/015-steps-07.webp",
+          "img/lacos/015-steps-08.webp",
+          "img/lacos/015-steps-09.webp",
+          "img/lacos/015-steps-10.webp",
+          "img/lacos/015-steps-11.webp",
+          "img/lacos/015-steps-12.webp"
+        ]
+      }
+    },
+    {
+      "n": 13,
+      "page": 16,
+      "title": "Xadrez com organza dourada",
+      "image": "img/lacos/016.webp",
+      "thumb": "img/lacos/016-thumb.webp",
+      "segment": "",
+      "detail": {
+        "photo": "img/lacos/016-thumb.webp",
+        "materials": "img/lacos/016-materials.webp",
+        "measurements": "img/lacos/016-measurements.webp",
+        "steps": [
+          "img/lacos/016-steps-01.webp",
+          "img/lacos/016-steps-02.webp",
+          "img/lacos/016-steps-03.webp",
+          "img/lacos/016-steps-04.webp",
+          "img/lacos/016-steps-05.webp",
+          "img/lacos/016-steps-06.webp",
+          "img/lacos/016-steps-07.webp",
+          "img/lacos/016-steps-08.webp",
+          "img/lacos/016-steps-09.webp",
+          "img/lacos/016-steps-10.webp",
+          "img/lacos/016-steps-11.webp",
+          "img/lacos/016-steps-12.webp"
+        ]
+      }
+    },
+    {
+      "n": 14,
+      "page": 17,
+      "title": "Veludo bordéus e arabescos dourados",
+      "image": "img/lacos/017.webp",
+      "thumb": "img/lacos/017-thumb.webp",
+      "segment": "",
+      "detail": {
+        "photo": "img/lacos/017-thumb.webp",
+        "materials": "img/lacos/017-materials.webp",
+        "measurements": "img/lacos/017-measurements.webp",
+        "steps": [
+          "img/lacos/017-steps-01.webp",
+          "img/lacos/017-steps-02.webp",
+          "img/lacos/017-steps-03.webp",
+          "img/lacos/017-steps-04.webp",
+          "img/lacos/017-steps-05.webp",
+          "img/lacos/017-steps-06.webp",
+          "img/lacos/017-steps-07.webp",
+          "img/lacos/017-steps-08.webp",
+          "img/lacos/017-steps-09.webp",
+          "img/lacos/017-steps-10.webp",
+          "img/lacos/017-steps-11.webp",
+          "img/lacos/017-steps-12.webp"
+        ]
+      }
+    },
+    {
+      "n": 15,
+      "page": 18,
+      "title": "Tartã com borboleta dourada",
+      "image": "img/lacos/018.webp",
+      "thumb": "img/lacos/018-thumb.webp",
+      "segment": "",
+      "detail": {
+        "photo": "img/lacos/018-thumb.webp",
+        "materials": "img/lacos/018-materials.webp",
+        "measurements": "img/lacos/018-measurements.webp",
+        "steps": [
+          "img/lacos/018-steps-01.webp",
+          "img/lacos/018-steps-02.webp",
+          "img/lacos/018-steps-03.webp",
+          "img/lacos/018-steps-04.webp",
+          "img/lacos/018-steps-05.webp",
+          "img/lacos/018-steps-06.webp",
+          "img/lacos/018-steps-07.webp",
+          "img/lacos/018-steps-08.webp",
+          "img/lacos/018-steps-09.webp",
+          "img/lacos/018-steps-10.webp",
+          "img/lacos/018-steps-11.webp",
+          "img/lacos/018-steps-12.webp"
+        ]
+      }
+    },
+    {
+      "n": 16,
+      "page": 19,
+      "title": "Linho com geométrico vermelho",
+      "image": "img/lacos/019.webp",
+      "thumb": "img/lacos/019-thumb.webp",
+      "segment": "",
+      "detail": {
+        "photo": "img/lacos/019-thumb.webp",
+        "materials": "img/lacos/019-materials.webp",
+        "measurements": "img/lacos/019-measurements.webp",
+        "steps": [
+          "img/lacos/019-steps-01.webp",
+          "img/lacos/019-steps-02.webp",
+          "img/lacos/019-steps-03.webp",
+          "img/lacos/019-steps-04.webp",
+          "img/lacos/019-steps-05.webp",
+          "img/lacos/019-steps-06.webp",
+          "img/lacos/019-steps-07.webp",
+          "img/lacos/019-steps-08.webp",
+          "img/lacos/019-steps-09.webp",
+          "img/lacos/019-steps-10.webp",
+          "img/lacos/019-steps-11.webp",
+          "img/lacos/019-steps-12.webp"
+        ]
+      }
+    },
+    {
+      "n": 17,
+      "page": 20,
+      "title": "Xadrez preto e branco com frutos",
+      "image": "img/lacos/020.webp",
+      "thumb": "img/lacos/020-thumb.webp",
+      "segment": "",
+      "detail": {
+        "photo": "img/lacos/020-thumb.webp",
+        "materials": "img/lacos/020-materials.webp",
+        "measurements": "img/lacos/020-measurements.webp",
+        "steps": [
+          "img/lacos/020-steps-01.webp",
+          "img/lacos/020-steps-02.webp",
+          "img/lacos/020-steps-03.webp",
+          "img/lacos/020-steps-04.webp",
+          "img/lacos/020-steps-05.webp",
+          "img/lacos/020-steps-06.webp",
+          "img/lacos/020-steps-07.webp",
+          "img/lacos/020-steps-08.webp",
+          "img/lacos/020-steps-09.webp",
+          "img/lacos/020-steps-10.webp",
+          "img/lacos/020-steps-11.webp",
+          "img/lacos/020-steps-12.webp"
+        ]
+      }
+    },
+    {
+      "n": 18,
+      "page": 21,
+      "title": "Verde rústico de centro largo",
+      "image": "img/lacos/021.webp",
+      "thumb": "img/lacos/021-thumb.webp",
+      "segment": "",
+      "detail": {
+        "photo": "img/lacos/021-thumb.webp",
+        "materials": "img/lacos/021-materials.webp",
+        "measurements": "img/lacos/021-measurements.webp",
+        "steps": [
+          "img/lacos/021-steps-01.webp",
+          "img/lacos/021-steps-02.webp",
+          "img/lacos/021-steps-03.webp",
+          "img/lacos/021-steps-04.webp",
+          "img/lacos/021-steps-05.webp",
+          "img/lacos/021-steps-06.webp",
+          "img/lacos/021-steps-07.webp",
+          "img/lacos/021-steps-08.webp",
+          "img/lacos/021-steps-09.webp",
+          "img/lacos/021-steps-10.webp",
+          "img/lacos/021-steps-11.webp",
+          "img/lacos/021-steps-12.webp"
+        ]
+      }
+    },
+    {
+      "n": 19,
+      "page": 22,
+      "title": "Azul-marinho com xadrez creme",
+      "image": "img/lacos/022.webp",
+      "thumb": "img/lacos/022-thumb.webp",
+      "segment": "",
+      "detail": {
+        "photo": "img/lacos/022-thumb.webp",
+        "materials": "img/lacos/022-materials.webp",
+        "measurements": "img/lacos/022-measurements.webp",
+        "steps": [
+          "img/lacos/022-steps-01.webp",
+          "img/lacos/022-steps-02.webp",
+          "img/lacos/022-steps-03.webp",
+          "img/lacos/022-steps-04.webp",
+          "img/lacos/022-steps-05.webp",
+          "img/lacos/022-steps-06.webp",
+          "img/lacos/022-steps-07.webp",
+          "img/lacos/022-steps-08.webp",
+          "img/lacos/022-steps-09.webp",
+          "img/lacos/022-steps-10.webp",
+          "img/lacos/022-steps-11.webp",
+          "img/lacos/022-steps-12.webp"
+        ]
+      }
+    },
+    {
+      "n": 20,
+      "page": 23,
+      "title": "Vermelho e Vichy com cascata",
+      "image": "img/lacos/023.webp",
+      "thumb": "img/lacos/023-thumb.webp",
+      "segment": "",
+      "detail": {
+        "photo": "img/lacos/023-thumb.webp",
+        "materials": "img/lacos/023-materials.webp",
+        "measurements": "img/lacos/023-measurements.webp",
+        "steps": [
+          "img/lacos/023-steps-01.webp",
+          "img/lacos/023-steps-02.webp",
+          "img/lacos/023-steps-03.webp",
+          "img/lacos/023-steps-04.webp",
+          "img/lacos/023-steps-05.webp",
+          "img/lacos/023-steps-06.webp",
+          "img/lacos/023-steps-07.webp",
+          "img/lacos/023-steps-08.webp",
+          "img/lacos/023-steps-09.webp",
+          "img/lacos/023-steps-10.webp",
+          "img/lacos/023-steps-11.webp",
+          "img/lacos/023-steps-12.webp"
+        ]
+      }
+    },
+    {
+      "n": 21,
+      "page": 24,
+      "title": "Juta natural com folhagem",
+      "image": "img/lacos/024.webp",
+      "thumb": "img/lacos/024-thumb.webp",
+      "segment": "",
+      "detail": {
+        "photo": "img/lacos/024-thumb.webp",
+        "materials": "img/lacos/024-materials.webp",
+        "measurements": "img/lacos/024-measurements.webp",
+        "steps": [
+          "img/lacos/024-steps-01.webp",
+          "img/lacos/024-steps-02.webp",
+          "img/lacos/024-steps-03.webp",
+          "img/lacos/024-steps-04.webp",
+          "img/lacos/024-steps-05.webp",
+          "img/lacos/024-steps-06.webp",
+          "img/lacos/024-steps-07.webp",
+          "img/lacos/024-steps-08.webp",
+          "img/lacos/024-steps-09.webp",
+          "img/lacos/024-steps-10.webp",
+          "img/lacos/024-steps-11.webp",
+          "img/lacos/024-steps-12.webp"
+        ]
+      }
+    },
+    {
+      "n": 22,
+      "page": 25,
+      "title": "Juta e organza castanho",
+      "image": "img/lacos/025.webp",
+      "thumb": "img/lacos/025-thumb.webp",
+      "segment": "",
+      "detail": {
+        "photo": "img/lacos/025-thumb.webp",
+        "materials": "img/lacos/025-materials.webp",
+        "measurements": "img/lacos/025-measurements.webp",
+        "steps": [
+          "img/lacos/025-steps-01.webp",
+          "img/lacos/025-steps-02.webp",
+          "img/lacos/025-steps-03.webp",
+          "img/lacos/025-steps-04.webp",
+          "img/lacos/025-steps-05.webp",
+          "img/lacos/025-steps-06.webp",
+          "img/lacos/025-steps-07.webp",
+          "img/lacos/025-steps-08.webp",
+          "img/lacos/025-steps-09.webp",
+          "img/lacos/025-steps-10.webp",
+          "img/lacos/025-steps-11.webp",
+          "img/lacos/025-steps-12.webp"
+        ]
+      }
+    },
+    {
+      "n": 23,
+      "page": 26,
+      "title": "Linho natural com pontas curvas",
+      "image": "img/lacos/026.webp",
+      "thumb": "img/lacos/026-thumb.webp",
+      "segment": "",
+      "detail": {
+        "photo": "img/lacos/026-thumb.webp",
+        "materials": "img/lacos/026-materials.webp",
+        "measurements": "img/lacos/026-measurements.webp",
+        "steps": [
+          "img/lacos/026-steps-01.webp",
+          "img/lacos/026-steps-02.webp",
+          "img/lacos/026-steps-03.webp",
+          "img/lacos/026-steps-04.webp",
+          "img/lacos/026-steps-05.webp",
+          "img/lacos/026-steps-06.webp",
+          "img/lacos/026-steps-07.webp",
+          "img/lacos/026-steps-08.webp",
+          "img/lacos/026-steps-09.webp",
+          "img/lacos/026-steps-10.webp",
+          "img/lacos/026-steps-11.webp",
+          "img/lacos/026-steps-12.webp"
+        ]
+      }
+    },
+    {
+      "n": 24,
+      "page": 27,
+      "title": "Juta com xadrez vermelho e preto",
+      "image": "img/lacos/027.webp",
+      "thumb": "img/lacos/027-thumb.webp",
+      "segment": "",
+      "detail": {
+        "photo": "img/lacos/027-thumb.webp",
+        "materials": "img/lacos/027-materials.webp",
+        "measurements": "img/lacos/027-measurements.webp",
+        "steps": [
+          "img/lacos/027-steps-01.webp",
+          "img/lacos/027-steps-02.webp",
+          "img/lacos/027-steps-03.webp",
+          "img/lacos/027-steps-04.webp",
+          "img/lacos/027-steps-05.webp",
+          "img/lacos/027-steps-06.webp",
+          "img/lacos/027-steps-07.webp",
+          "img/lacos/027-steps-08.webp",
+          "img/lacos/027-steps-09.webp",
+          "img/lacos/027-steps-10.webp",
+          "img/lacos/027-steps-11.webp",
+          "img/lacos/027-steps-12.webp"
+        ]
+      }
+    },
+    {
+      "n": 25,
+      "page": 28,
+      "title": "Linho estampado de flocos vermelhos",
+      "image": "img/lacos/028.webp",
+      "thumb": "img/lacos/028-thumb.webp",
+      "segment": "",
+      "detail": {
+        "photo": "img/lacos/028-thumb.webp",
+        "materials": "img/lacos/028-materials.webp",
+        "measurements": "img/lacos/028-measurements.webp",
+        "steps": [
+          "img/lacos/028-steps-01.webp",
+          "img/lacos/028-steps-02.webp",
+          "img/lacos/028-steps-03.webp",
+          "img/lacos/028-steps-04.webp",
+          "img/lacos/028-steps-05.webp",
+          "img/lacos/028-steps-06.webp",
+          "img/lacos/028-steps-07.webp",
+          "img/lacos/028-steps-08.webp",
+          "img/lacos/028-steps-09.webp",
+          "img/lacos/028-steps-10.webp",
+          "img/lacos/028-steps-11.webp",
+          "img/lacos/028-steps-12.webp"
+        ]
+      }
+    },
+    {
+      "n": 26,
+      "page": 29,
+      "title": "Laço de Natal de linho com flocos vermelhos",
+      "image": "img/lacos/029.webp",
+      "thumb": "img/lacos/029-thumb.webp",
+      "segment": "",
+      "detail": {
+        "photo": "img/lacos/029-thumb.webp",
+        "materials": "img/lacos/029-materials.webp",
+        "measurements": "img/lacos/029-measurements.webp",
+        "steps": [
+          "img/lacos/029-steps-01.webp",
+          "img/lacos/029-steps-02.webp",
+          "img/lacos/029-steps-03.webp",
+          "img/lacos/029-steps-04.webp",
+          "img/lacos/029-steps-05.webp",
+          "img/lacos/029-steps-06.webp",
+          "img/lacos/029-steps-07.webp",
+          "img/lacos/029-steps-08.webp",
+          "img/lacos/029-steps-09.webp",
+          "img/lacos/029-steps-10.webp",
+          "img/lacos/029-steps-11.webp",
+          "img/lacos/029-steps-12.webp"
+        ]
+      }
+    },
+    {
+      "n": 27,
+      "page": 30,
+      "title": "Dourado com flores bordéus",
+      "image": "img/lacos/030.webp",
+      "thumb": "img/lacos/030-thumb.webp",
+      "segment": "",
+      "detail": {
+        "photo": "img/lacos/030-thumb.webp",
+        "materials": "img/lacos/030-materials.webp",
+        "measurements": "img/lacos/030-measurements.webp",
+        "steps": [
+          "img/lacos/030-steps-01.webp",
+          "img/lacos/030-steps-02.webp",
+          "img/lacos/030-steps-03.webp",
+          "img/lacos/030-steps-04.webp",
+          "img/lacos/030-steps-05.webp",
+          "img/lacos/030-steps-06.webp",
+          "img/lacos/030-steps-07.webp",
+          "img/lacos/030-steps-08.webp",
+          "img/lacos/030-steps-09.webp",
+          "img/lacos/030-steps-10.webp",
+          "img/lacos/030-steps-11.webp",
+          "img/lacos/030-steps-12.webp"
+        ]
+      }
+    },
+    {
+      "n": 28,
+      "page": 31,
+      "title": "Creme com estrelas douradas",
+      "image": "img/lacos/031.webp",
+      "thumb": "img/lacos/031-thumb.webp",
+      "segment": "",
+      "detail": {
+        "photo": "img/lacos/031-thumb.webp",
+        "materials": "img/lacos/031-materials.webp",
+        "measurements": "img/lacos/031-measurements.webp",
+        "steps": [
+          "img/lacos/031-steps-01.webp",
+          "img/lacos/031-steps-02.webp",
+          "img/lacos/031-steps-03.webp",
+          "img/lacos/031-steps-04.webp",
+          "img/lacos/031-steps-05.webp",
+          "img/lacos/031-steps-06.webp",
+          "img/lacos/031-steps-07.webp",
+          "img/lacos/031-steps-08.webp",
+          "img/lacos/031-steps-09.webp",
+          "img/lacos/031-steps-10.webp",
+          "img/lacos/031-steps-11.webp",
+          "img/lacos/031-steps-12.webp"
+        ]
+      }
+    },
+    {
+      "n": 29,
+      "page": 32,
+      "title": "Vermelho com flocos brancos",
+      "image": "img/lacos/032.webp",
+      "thumb": "img/lacos/032-thumb.webp",
+      "segment": "",
+      "detail": {
+        "photo": "img/lacos/032-thumb.webp",
+        "materials": "img/lacos/032-materials.webp",
+        "measurements": "img/lacos/032-measurements.webp",
+        "steps": [
+          "img/lacos/032-steps-01.webp",
+          "img/lacos/032-steps-02.webp",
+          "img/lacos/032-steps-03.webp",
+          "img/lacos/032-steps-04.webp",
+          "img/lacos/032-steps-05.webp",
+          "img/lacos/032-steps-06.webp",
+          "img/lacos/032-steps-07.webp",
+          "img/lacos/032-steps-08.webp",
+          "img/lacos/032-steps-09.webp",
+          "img/lacos/032-steps-10.webp",
+          "img/lacos/032-steps-11.webp",
+          "img/lacos/032-steps-12.webp"
+        ]
+      }
+    },
+    {
+      "n": 30,
+      "page": 33,
+      "title": "Verde-oliva de bordas claras",
+      "image": "img/lacos/033.webp",
+      "thumb": "img/lacos/033-thumb.webp",
+      "segment": "",
+      "detail": {
+        "photo": "img/lacos/033-thumb.webp",
+        "materials": "img/lacos/033-materials.webp",
+        "measurements": "img/lacos/033-measurements.webp",
+        "steps": [
+          "img/lacos/033-steps-01.webp",
+          "img/lacos/033-steps-02.webp",
+          "img/lacos/033-steps-03.webp",
+          "img/lacos/033-steps-04.webp",
+          "img/lacos/033-steps-05.webp",
+          "img/lacos/033-steps-06.webp",
+          "img/lacos/033-steps-07.webp",
+          "img/lacos/033-steps-08.webp",
+          "img/lacos/033-steps-09.webp",
+          "img/lacos/033-steps-10.webp",
+          "img/lacos/033-steps-11.webp",
+          "img/lacos/033-steps-12.webp"
+        ]
+      }
+    },
+    {
+      "n": 31,
+      "page": 34,
+      "title": "Xadrez, riscas e linho",
+      "image": "img/lacos/034.webp",
+      "thumb": "img/lacos/034-thumb.webp",
+      "segment": "",
+      "detail": {
+        "photo": "img/lacos/034-thumb.webp",
+        "materials": "img/lacos/034-materials.webp",
+        "measurements": "img/lacos/034-measurements.webp",
+        "steps": [
+          "img/lacos/034-steps-01.webp",
+          "img/lacos/034-steps-02.webp",
+          "img/lacos/034-steps-03.webp",
+          "img/lacos/034-steps-04.webp",
+          "img/lacos/034-steps-05.webp",
+          "img/lacos/034-steps-06.webp",
+          "img/lacos/034-steps-07.webp",
+          "img/lacos/034-steps-08.webp",
+          "img/lacos/034-steps-09.webp",
+          "img/lacos/034-steps-10.webp",
+          "img/lacos/034-steps-11.webp",
+          "img/lacos/034-steps-12.webp"
+        ]
+      }
+    },
+    {
+      "n": 32,
+      "page": 35,
+      "title": "Xadrez vermelho e verde-claro",
+      "image": "img/lacos/035.webp",
+      "thumb": "img/lacos/035-thumb.webp",
+      "segment": "",
+      "detail": {
+        "photo": "img/lacos/035-thumb.webp",
+        "materials": "img/lacos/035-materials.webp",
+        "measurements": "img/lacos/035-measurements.webp",
+        "steps": [
+          "img/lacos/035-steps-01.webp",
+          "img/lacos/035-steps-02.webp",
+          "img/lacos/035-steps-03.webp",
+          "img/lacos/035-steps-04.webp",
+          "img/lacos/035-steps-05.webp",
+          "img/lacos/035-steps-06.webp",
+          "img/lacos/035-steps-07.webp",
+          "img/lacos/035-steps-08.webp",
+          "img/lacos/035-steps-09.webp",
+          "img/lacos/035-steps-10.webp",
+          "img/lacos/035-steps-11.webp",
+          "img/lacos/035-steps-12.webp"
+        ]
+      }
+    },
+    {
+      "n": 33,
+      "page": 36,
+      "title": "Xadrez com motivos de carrinha",
+      "image": "img/lacos/036.webp",
+      "thumb": "img/lacos/036-thumb.webp",
+      "segment": "",
+      "detail": {
+        "photo": "img/lacos/036-thumb.webp",
+        "materials": "img/lacos/036-materials.webp",
+        "measurements": "img/lacos/036-measurements.webp",
+        "steps": [
+          "img/lacos/036-steps-01.webp",
+          "img/lacos/036-steps-02.webp",
+          "img/lacos/036-steps-03.webp",
+          "img/lacos/036-steps-04.webp",
+          "img/lacos/036-steps-05.webp",
+          "img/lacos/036-steps-06.webp",
+          "img/lacos/036-steps-07.webp",
+          "img/lacos/036-steps-08.webp",
+          "img/lacos/036-steps-09.webp",
+          "img/lacos/036-steps-10.webp",
+          "img/lacos/036-steps-11.webp",
+          "img/lacos/036-steps-12.webp"
+        ]
+      }
+    },
+    {
+      "n": 34,
+      "page": 37,
+      "title": "Linho minimalista",
+      "image": "img/lacos/037.webp",
+      "thumb": "img/lacos/037-thumb.webp",
+      "segment": "",
+      "detail": {
+        "photo": "img/lacos/037-thumb.webp",
+        "materials": "img/lacos/037-materials.webp",
+        "measurements": "img/lacos/037-measurements.webp",
+        "steps": [
+          "img/lacos/037-steps-01.webp",
+          "img/lacos/037-steps-02.webp",
+          "img/lacos/037-steps-03.webp",
+          "img/lacos/037-steps-04.webp",
+          "img/lacos/037-steps-05.webp",
+          "img/lacos/037-steps-06.webp",
+          "img/lacos/037-steps-07.webp",
+          "img/lacos/037-steps-08.webp",
+          "img/lacos/037-steps-09.webp",
+          "img/lacos/037-steps-10.webp",
+          "img/lacos/037-steps-11.webp",
+          "img/lacos/037-steps-12.webp"
+        ]
+      }
+    },
+    {
+      "n": 35,
+      "page": 38,
+      "title": "Linho com fios metálicos",
+      "image": "img/lacos/038.webp",
+      "thumb": "img/lacos/038-thumb.webp",
+      "segment": "",
+      "detail": {
+        "photo": "img/lacos/038-thumb.webp",
+        "materials": "img/lacos/038-materials.webp",
+        "measurements": "img/lacos/038-measurements.webp",
+        "steps": [
+          "img/lacos/038-steps-01.webp",
+          "img/lacos/038-steps-02.webp",
+          "img/lacos/038-steps-03.webp",
+          "img/lacos/038-steps-04.webp",
+          "img/lacos/038-steps-05.webp",
+          "img/lacos/038-steps-06.webp",
+          "img/lacos/038-steps-07.webp",
+          "img/lacos/038-steps-08.webp",
+          "img/lacos/038-steps-09.webp",
+          "img/lacos/038-steps-10.webp",
+          "img/lacos/038-steps-11.webp",
+          "img/lacos/038-steps-12.webp"
+        ]
+      }
+    },
+    {
+      "n": 36,
+      "page": 39,
+      "title": "Juta com renda branca",
+      "image": "img/lacos/039.webp",
+      "thumb": "img/lacos/039-thumb.webp",
+      "segment": "",
+      "detail": {
+        "photo": "img/lacos/039-thumb.webp",
+        "materials": "img/lacos/039-materials.webp",
+        "measurements": "img/lacos/039-measurements.webp",
+        "steps": [
+          "img/lacos/039-steps-01.webp",
+          "img/lacos/039-steps-02.webp",
+          "img/lacos/039-steps-03.webp",
+          "img/lacos/039-steps-04.webp",
+          "img/lacos/039-steps-05.webp",
+          "img/lacos/039-steps-06.webp",
+          "img/lacos/039-steps-07.webp",
+          "img/lacos/039-steps-08.webp",
+          "img/lacos/039-steps-09.webp",
+          "img/lacos/039-steps-10.webp",
+          "img/lacos/039-steps-11.webp",
+          "img/lacos/039-steps-12.webp"
+        ]
+      }
+    },
+    {
+      "n": 37,
+      "page": 40,
+      "title": "Marfim e dourado com folhagem",
+      "image": "img/lacos/040.webp",
+      "thumb": "img/lacos/040-thumb.webp",
+      "segment": "",
+      "detail": {
+        "photo": "img/lacos/040-thumb.webp",
+        "materials": "img/lacos/040-materials.webp",
+        "measurements": "img/lacos/040-measurements.webp",
+        "steps": [
+          "img/lacos/040-steps-01.webp",
+          "img/lacos/040-steps-02.webp",
+          "img/lacos/040-steps-03.webp",
+          "img/lacos/040-steps-04.webp",
+          "img/lacos/040-steps-05.webp",
+          "img/lacos/040-steps-06.webp",
+          "img/lacos/040-steps-07.webp",
+          "img/lacos/040-steps-08.webp",
+          "img/lacos/040-steps-09.webp",
+          "img/lacos/040-steps-10.webp",
+          "img/lacos/040-steps-11.webp",
+          "img/lacos/040-steps-12.webp"
+        ]
+      }
+    },
+    {
+      "n": 38,
+      "page": 41,
+      "title": "Castanho metálico",
+      "image": "img/lacos/041.webp",
+      "thumb": "img/lacos/041-thumb.webp",
+      "segment": "",
+      "detail": {
+        "photo": "img/lacos/041-thumb.webp",
+        "materials": "img/lacos/041-materials.webp",
+        "measurements": "img/lacos/041-measurements.webp",
+        "steps": [
+          "img/lacos/041-steps-01.webp",
+          "img/lacos/041-steps-02.webp",
+          "img/lacos/041-steps-03.webp",
+          "img/lacos/041-steps-04.webp",
+          "img/lacos/041-steps-05.webp",
+          "img/lacos/041-steps-06.webp",
+          "img/lacos/041-steps-07.webp",
+          "img/lacos/041-steps-08.webp",
+          "img/lacos/041-steps-09.webp",
+          "img/lacos/041-steps-10.webp",
+          "img/lacos/041-steps-11.webp",
+          "img/lacos/041-steps-12.webp"
+        ]
+      }
+    },
+    {
+      "n": 39,
+      "page": 42,
+      "title": "Prata com centro de borboleta",
+      "image": "img/lacos/042.webp",
+      "thumb": "img/lacos/042-thumb.webp",
+      "segment": "",
+      "detail": {
+        "photo": "img/lacos/042-thumb.webp",
+        "materials": "img/lacos/042-materials.webp",
+        "measurements": "img/lacos/042-measurements.webp",
+        "steps": [
+          "img/lacos/042-steps-01.webp",
+          "img/lacos/042-steps-02.webp",
+          "img/lacos/042-steps-03.webp",
+          "img/lacos/042-steps-04.webp",
+          "img/lacos/042-steps-05.webp",
+          "img/lacos/042-steps-06.webp",
+          "img/lacos/042-steps-07.webp",
+          "img/lacos/042-steps-08.webp",
+          "img/lacos/042-steps-09.webp",
+          "img/lacos/042-steps-10.webp",
+          "img/lacos/042-steps-11.webp",
+          "img/lacos/042-steps-12.webp"
+        ]
+      }
+    },
+    {
+      "n": 40,
+      "page": 43,
+      "title": "Vermelho brilhantes para árvore",
+      "image": "img/lacos/043.webp",
+      "thumb": "img/lacos/043-thumb.webp",
+      "segment": "",
+      "detail": {
+        "photo": "img/lacos/043-thumb.webp",
+        "materials": "img/lacos/043-materials.webp",
+        "measurements": "img/lacos/043-measurements.webp",
+        "steps": [
+          "img/lacos/043-steps-01.webp",
+          "img/lacos/043-steps-02.webp",
+          "img/lacos/043-steps-03.webp",
+          "img/lacos/043-steps-04.webp",
+          "img/lacos/043-steps-05.webp",
+          "img/lacos/043-steps-06.webp",
+          "img/lacos/043-steps-07.webp",
+          "img/lacos/043-steps-08.webp",
+          "img/lacos/043-steps-09.webp",
+          "img/lacos/043-steps-10.webp",
+          "img/lacos/043-steps-11.webp",
+          "img/lacos/043-steps-12.webp"
+        ]
+      }
+    },
+    {
+      "n": 41,
+      "page": 44,
+      "title": "Verde-esmeralda brilhante",
+      "image": "img/lacos/044.webp",
+      "thumb": "img/lacos/044-thumb.webp",
+      "segment": "",
+      "detail": {
+        "photo": "img/lacos/044-thumb.webp",
+        "materials": "img/lacos/044-materials.webp",
+        "measurements": "img/lacos/044-measurements.webp",
+        "steps": [
+          "img/lacos/044-steps-01.webp",
+          "img/lacos/044-steps-02.webp",
+          "img/lacos/044-steps-03.webp",
+          "img/lacos/044-steps-04.webp",
+          "img/lacos/044-steps-05.webp",
+          "img/lacos/044-steps-06.webp",
+          "img/lacos/044-steps-07.webp",
+          "img/lacos/044-steps-08.webp",
+          "img/lacos/044-steps-09.webp",
+          "img/lacos/044-steps-10.webp",
+          "img/lacos/044-steps-11.webp",
+          "img/lacos/044-steps-12.webp"
+        ]
+      }
+    },
+    {
+      "n": 42,
+      "page": 45,
+      "title": "Organza branca com cascata",
+      "image": "img/lacos/045.webp",
+      "thumb": "img/lacos/045-thumb.webp",
+      "segment": "",
+      "detail": {
+        "photo": "img/lacos/045-thumb.webp",
+        "materials": "img/lacos/045-materials.webp",
+        "measurements": "img/lacos/045-measurements.webp",
+        "steps": [
+          "img/lacos/045-steps-01.webp",
+          "img/lacos/045-steps-02.webp",
+          "img/lacos/045-steps-03.webp",
+          "img/lacos/045-steps-04.webp",
+          "img/lacos/045-steps-05.webp",
+          "img/lacos/045-steps-06.webp",
+          "img/lacos/045-steps-07.webp",
+          "img/lacos/045-steps-08.webp",
+          "img/lacos/045-steps-09.webp",
+          "img/lacos/045-steps-10.webp",
+          "img/lacos/045-steps-11.webp",
+          "img/lacos/045-steps-12.webp"
+        ]
+      }
+    },
+    {
+      "n": 43,
+      "page": 46,
+      "title": "Vermelho clássico para cortina",
+      "image": "img/lacos/046.webp",
+      "thumb": "img/lacos/046-thumb.webp",
+      "segment": "",
+      "detail": {
+        "photo": "img/lacos/046-thumb.webp",
+        "materials": "img/lacos/046-materials.webp",
+        "measurements": "img/lacos/046-measurements.webp",
+        "steps": [
+          "img/lacos/046-steps-01.webp",
+          "img/lacos/046-steps-02.webp",
+          "img/lacos/046-steps-03.webp",
+          "img/lacos/046-steps-04.webp",
+          "img/lacos/046-steps-05.webp",
+          "img/lacos/046-steps-06.webp",
+          "img/lacos/046-steps-07.webp",
+          "img/lacos/046-steps-08.webp",
+          "img/lacos/046-steps-09.webp",
+          "img/lacos/046-steps-10.webp",
+          "img/lacos/046-steps-11.webp",
+          "img/lacos/046-steps-12.webp"
+        ]
+      }
+    },
+    {
+      "n": 44,
+      "page": 47,
+      "title": "Castanho e champanhe com flor",
+      "image": "img/lacos/047.webp",
+      "thumb": "img/lacos/047-thumb.webp",
+      "segment": "",
+      "detail": {
+        "photo": "img/lacos/047-thumb.webp",
+        "materials": "img/lacos/047-materials.webp",
+        "measurements": "img/lacos/047-measurements.webp",
+        "steps": [
+          "img/lacos/047-steps-01.webp",
+          "img/lacos/047-steps-02.webp",
+          "img/lacos/047-steps-03.webp",
+          "img/lacos/047-steps-04.webp",
+          "img/lacos/047-steps-05.webp",
+          "img/lacos/047-steps-06.webp",
+          "img/lacos/047-steps-07.webp",
+          "img/lacos/047-steps-08.webp",
+          "img/lacos/047-steps-09.webp",
+          "img/lacos/047-steps-10.webp",
+          "img/lacos/047-steps-11.webp",
+          "img/lacos/047-steps-12.webp"
+        ]
+      }
+    },
+    {
+      "n": 45,
+      "page": 48,
+      "title": "Rena de Natal vermelha",
+      "image": "img/lacos/048.webp",
+      "thumb": "img/lacos/048-thumb.webp",
+      "segment": "",
+      "detail": {
+        "photo": "img/lacos/048-thumb.webp",
+        "materials": "img/lacos/048-materials.webp",
+        "measurements": "img/lacos/048-measurements.webp",
+        "steps": [
+          "img/lacos/048-steps-01.webp",
+          "img/lacos/048-steps-02.webp",
+          "img/lacos/048-steps-03.webp",
+          "img/lacos/048-steps-04.webp",
+          "img/lacos/048-steps-05.webp",
+          "img/lacos/048-steps-06.webp",
+          "img/lacos/048-steps-07.webp",
+          "img/lacos/048-steps-08.webp",
+          "img/lacos/048-steps-09.webp",
+          "img/lacos/048-steps-10.webp",
+          "img/lacos/048-steps-11.webp",
+          "img/lacos/048-steps-12.webp"
+        ]
+      }
+    },
+    {
+      "n": 46,
+      "page": 49,
+      "title": "Verde-escuro com pinha pendente",
+      "image": "img/lacos/049.webp",
+      "thumb": "img/lacos/049-thumb.webp",
+      "segment": "",
+      "detail": {
+        "photo": "img/lacos/049-thumb.webp",
+        "materials": "img/lacos/049-materials.webp",
+        "measurements": "img/lacos/049-measurements.webp",
+        "steps": [
+          "img/lacos/049-steps-01.webp",
+          "img/lacos/049-steps-02.webp",
+          "img/lacos/049-steps-03.webp",
+          "img/lacos/049-steps-04.webp",
+          "img/lacos/049-steps-05.webp",
+          "img/lacos/049-steps-06.webp",
+          "img/lacos/049-steps-07.webp",
+          "img/lacos/049-steps-08.webp",
+          "img/lacos/049-steps-09.webp",
+          "img/lacos/049-steps-10.webp",
+          "img/lacos/049-steps-11.webp",
+          "img/lacos/049-steps-12.webp"
+        ]
+      }
+    },
+    {
+      "n": 47,
+      "page": 50,
+      "title": "Vermelho com arranjo floral",
+      "image": "img/lacos/050.webp",
+      "thumb": "img/lacos/050-thumb.webp",
+      "segment": "",
+      "detail": {
+        "photo": "img/lacos/050-thumb.webp",
+        "materials": "img/lacos/050-materials.webp",
+        "measurements": "img/lacos/050-measurements.webp",
+        "steps": [
+          "img/lacos/050-steps-01.webp",
+          "img/lacos/050-steps-02.webp",
+          "img/lacos/050-steps-03.webp",
+          "img/lacos/050-steps-04.webp",
+          "img/lacos/050-steps-05.webp",
+          "img/lacos/050-steps-06.webp",
+          "img/lacos/050-steps-07.webp",
+          "img/lacos/050-steps-08.webp",
+          "img/lacos/050-steps-09.webp",
+          "img/lacos/050-steps-10.webp",
+          "img/lacos/050-steps-11.webp",
+          "img/lacos/050-steps-12.webp"
+        ]
+      }
+    },
+    {
+      "n": 48,
+      "page": 51,
+      "title": "Vermelho com punhos brancos",
+      "image": "img/lacos/051.webp",
+      "thumb": "img/lacos/051-thumb.webp",
+      "segment": "",
+      "detail": {
+        "photo": "img/lacos/051-thumb.webp",
+        "materials": "img/lacos/051-materials.webp",
+        "measurements": "img/lacos/051-measurements.webp",
+        "steps": [
+          "img/lacos/051-steps-01.webp",
+          "img/lacos/051-steps-02.webp",
+          "img/lacos/051-steps-03.webp",
+          "img/lacos/051-steps-04.webp",
+          "img/lacos/051-steps-05.webp",
+          "img/lacos/051-steps-06.webp",
+          "img/lacos/051-steps-07.webp",
+          "img/lacos/051-steps-08.webp",
+          "img/lacos/051-steps-09.webp",
+          "img/lacos/051-steps-10.webp",
+          "img/lacos/051-steps-11.webp",
+          "img/lacos/051-steps-12.webp"
+        ]
+      }
+    },
+    {
+      "n": 49,
+      "page": 52,
+      "title": "Champanhe com pinha pendente",
+      "image": "img/lacos/052.webp",
+      "thumb": "img/lacos/052-thumb.webp",
+      "segment": "",
+      "detail": {
+        "photo": "img/lacos/052-thumb.webp",
+        "materials": "img/lacos/052-materials.webp",
+        "measurements": "img/lacos/052-measurements.webp",
+        "steps": [
+          "img/lacos/052-steps-01.webp",
+          "img/lacos/052-steps-02.webp",
+          "img/lacos/052-steps-03.webp",
+          "img/lacos/052-steps-04.webp",
+          "img/lacos/052-steps-05.webp",
+          "img/lacos/052-steps-06.webp",
+          "img/lacos/052-steps-07.webp",
+          "img/lacos/052-steps-08.webp",
+          "img/lacos/052-steps-09.webp",
+          "img/lacos/052-steps-10.webp",
+          "img/lacos/052-steps-11.webp",
+          "img/lacos/052-steps-12.webp"
+        ]
+      }
+    },
+    {
+      "n": 50,
+      "page": 53,
+      "title": "Juta com pinha e frutos",
+      "image": "img/lacos/053.webp",
+      "thumb": "img/lacos/053-thumb.webp",
+      "segment": "",
+      "detail": {
+        "photo": "img/lacos/053-thumb.webp",
+        "materials": "img/lacos/053-materials.webp",
+        "measurements": "img/lacos/053-measurements.webp",
+        "steps": [
+          "img/lacos/053-steps-01.webp",
+          "img/lacos/053-steps-02.webp",
+          "img/lacos/053-steps-03.webp",
+          "img/lacos/053-steps-04.webp",
+          "img/lacos/053-steps-05.webp",
+          "img/lacos/053-steps-06.webp",
+          "img/lacos/053-steps-07.webp",
+          "img/lacos/053-steps-08.webp",
+          "img/lacos/053-steps-09.webp",
+          "img/lacos/053-steps-10.webp",
+          "img/lacos/053-steps-11.webp",
+          "img/lacos/053-steps-12.webp"
+        ]
+      }
+    },
+    {
+      "n": 51,
+      "page": 54,
+      "title": "Xadrez com Pai Natal",
+      "image": "img/lacos/054.webp",
+      "thumb": "img/lacos/054-thumb.webp",
+      "segment": "",
+      "detail": {
+        "photo": "img/lacos/054-thumb.webp",
+        "materials": "img/lacos/054-materials.webp",
+        "measurements": "img/lacos/054-measurements.webp",
+        "steps": [
+          "img/lacos/054-steps-01.webp",
+          "img/lacos/054-steps-02.webp",
+          "img/lacos/054-steps-03.webp",
+          "img/lacos/054-steps-04.webp",
+          "img/lacos/054-steps-05.webp",
+          "img/lacos/054-steps-06.webp",
+          "img/lacos/054-steps-07.webp",
+          "img/lacos/054-steps-08.webp",
+          "img/lacos/054-steps-09.webp",
+          "img/lacos/054-steps-10.webp",
+          "img/lacos/054-steps-11.webp",
+          "img/lacos/054-steps-12.webp"
+        ]
+      }
+    },
+    {
+      "n": 52,
+      "page": 55,
+      "title": "Branco e ouro com bolinhas",
+      "image": "img/lacos/055.webp",
+      "thumb": "img/lacos/055-thumb.webp",
+      "segment": "",
+      "detail": {
+        "photo": "img/lacos/055-thumb.webp",
+        "materials": "img/lacos/055-materials.webp",
+        "measurements": "img/lacos/055-measurements.webp",
+        "steps": [
+          "img/lacos/055-steps-01.webp",
+          "img/lacos/055-steps-02.webp",
+          "img/lacos/055-steps-03.webp",
+          "img/lacos/055-steps-04.webp",
+          "img/lacos/055-steps-05.webp",
+          "img/lacos/055-steps-06.webp",
+          "img/lacos/055-steps-07.webp",
+          "img/lacos/055-steps-08.webp",
+          "img/lacos/055-steps-09.webp",
+          "img/lacos/055-steps-10.webp",
+          "img/lacos/055-steps-11.webp",
+          "img/lacos/055-steps-12.webp"
+        ]
+      }
+    },
+    {
+      "n": 53,
+      "page": 56,
+      "title": "Verde e ouro com pontas em leque",
+      "image": "img/lacos/056.webp",
+      "thumb": "img/lacos/056-thumb.webp",
+      "segment": "",
+      "detail": {
+        "photo": "img/lacos/056-thumb.webp",
+        "materials": "img/lacos/056-materials.webp",
+        "measurements": "img/lacos/056-measurements.webp",
+        "steps": [
+          "img/lacos/056-steps-01.webp",
+          "img/lacos/056-steps-02.webp",
+          "img/lacos/056-steps-03.webp",
+          "img/lacos/056-steps-04.webp",
+          "img/lacos/056-steps-05.webp",
+          "img/lacos/056-steps-06.webp",
+          "img/lacos/056-steps-07.webp",
+          "img/lacos/056-steps-08.webp",
+          "img/lacos/056-steps-09.webp",
+          "img/lacos/056-steps-10.webp",
+          "img/lacos/056-steps-11.webp",
+          "img/lacos/056-steps-12.webp"
+        ]
+      }
+    },
+    {
+      "n": 54,
+      "page": 57,
+      "title": "Creme e ouro com flor central",
+      "image": "img/lacos/057.webp",
+      "thumb": "img/lacos/057-thumb.webp",
+      "segment": "",
+      "detail": {
+        "photo": "img/lacos/057-thumb.webp",
+        "materials": "img/lacos/057-materials.webp",
+        "measurements": "img/lacos/057-measurements.webp",
+        "steps": [
+          "img/lacos/057-steps-01.webp",
+          "img/lacos/057-steps-02.webp",
+          "img/lacos/057-steps-03.webp",
+          "img/lacos/057-steps-04.webp",
+          "img/lacos/057-steps-05.webp",
+          "img/lacos/057-steps-06.webp",
+          "img/lacos/057-steps-07.webp",
+          "img/lacos/057-steps-08.webp",
+          "img/lacos/057-steps-09.webp",
+          "img/lacos/057-steps-10.webp",
+          "img/lacos/057-steps-11.webp",
+          "img/lacos/057-steps-12.webp"
+        ]
+      }
+    },
+    {
+      "n": 55,
+      "page": 58,
+      "title": "Rosé com rosa central",
+      "image": "img/lacos/058.webp",
+      "thumb": "img/lacos/058-thumb.webp",
+      "segment": "",
+      "detail": {
+        "photo": "img/lacos/058-thumb.webp",
+        "materials": "img/lacos/058-materials.webp",
+        "measurements": "img/lacos/058-measurements.webp",
+        "steps": [
+          "img/lacos/058-steps-01.webp",
+          "img/lacos/058-steps-02.webp",
+          "img/lacos/058-steps-03.webp",
+          "img/lacos/058-steps-04.webp",
+          "img/lacos/058-steps-05.webp",
+          "img/lacos/058-steps-06.webp",
+          "img/lacos/058-steps-07.webp",
+          "img/lacos/058-steps-08.webp",
+          "img/lacos/058-steps-09.webp",
+          "img/lacos/058-steps-10.webp",
+          "img/lacos/058-steps-11.webp",
+          "img/lacos/058-steps-12.webp"
+        ]
+      }
+    },
+    {
+      "n": 56,
+      "page": 59,
+      "title": "Bordéus e prata em cascata",
+      "image": "img/lacos/059.webp",
+      "thumb": "img/lacos/059-thumb.webp",
+      "segment": "",
+      "detail": {
+        "photo": "img/lacos/059-thumb.webp",
+        "materials": "img/lacos/059-materials.webp",
+        "measurements": "img/lacos/059-measurements.webp",
+        "steps": [
+          "img/lacos/059-steps-01.webp",
+          "img/lacos/059-steps-02.webp",
+          "img/lacos/059-steps-03.webp",
+          "img/lacos/059-steps-04.webp",
+          "img/lacos/059-steps-05.webp",
+          "img/lacos/059-steps-06.webp",
+          "img/lacos/059-steps-07.webp",
+          "img/lacos/059-steps-08.webp",
+          "img/lacos/059-steps-09.webp",
+          "img/lacos/059-steps-10.webp",
+          "img/lacos/059-steps-11.webp",
+          "img/lacos/059-steps-12.webp"
+        ]
+      }
+    },
+    {
+      "n": 57,
+      "page": 60,
+      "title": "Vermelho com organza dourada",
+      "image": "img/lacos/060.webp",
+      "thumb": "img/lacos/060-thumb.webp",
+      "segment": "",
+      "detail": {
+        "photo": "img/lacos/060-thumb.webp",
+        "materials": "img/lacos/060-materials.webp",
+        "measurements": "img/lacos/060-measurements.webp",
+        "steps": [
+          "img/lacos/060-steps-01.webp",
+          "img/lacos/060-steps-02.webp",
+          "img/lacos/060-steps-03.webp",
+          "img/lacos/060-steps-04.webp",
+          "img/lacos/060-steps-05.webp",
+          "img/lacos/060-steps-06.webp",
+          "img/lacos/060-steps-07.webp",
+          "img/lacos/060-steps-08.webp",
+          "img/lacos/060-steps-09.webp",
+          "img/lacos/060-steps-10.webp",
+          "img/lacos/060-steps-11.webp",
+          "img/lacos/060-steps-12.webp"
+        ]
+      }
+    },
+    {
+      "n": 58,
+      "page": 61,
+      "title": "Azul-claro e prata volumoso",
+      "image": "img/lacos/061.webp",
+      "thumb": "img/lacos/061-thumb.webp",
+      "segment": "",
+      "detail": {
+        "photo": "img/lacos/061-thumb.webp",
+        "materials": "img/lacos/061-materials.webp",
+        "measurements": "img/lacos/061-measurements.webp",
+        "steps": [
+          "img/lacos/061-steps-01.webp",
+          "img/lacos/061-steps-02.webp",
+          "img/lacos/061-steps-03.webp",
+          "img/lacos/061-steps-04.webp",
+          "img/lacos/061-steps-05.webp",
+          "img/lacos/061-steps-06.webp",
+          "img/lacos/061-steps-07.webp",
+          "img/lacos/061-steps-08.webp",
+          "img/lacos/061-steps-09.webp",
+          "img/lacos/061-steps-10.webp",
+          "img/lacos/061-steps-11.webp",
+          "img/lacos/061-steps-12.webp"
+        ]
+      }
+    },
+    {
+      "n": 59,
+      "page": 62,
+      "title": "Azul-real com ramos prateados",
+      "image": "img/lacos/062.webp",
+      "thumb": "img/lacos/062-thumb.webp",
+      "segment": "",
+      "detail": {
+        "fallback": true
+      }
+    },
+    {
+      "n": 60,
+      "page": 63,
+      "title": "Árvores verdes com acabamento preto",
+      "image": "img/lacos/063.webp",
+      "thumb": "img/lacos/063-thumb.webp",
+      "segment": "",
+      "detail": {
+        "photo": "img/lacos/063-thumb.webp",
+        "materials": "img/lacos/063-materials.webp",
+        "measurements": "img/lacos/063-measurements.webp",
+        "steps": [
+          "img/lacos/063-steps-01.webp",
+          "img/lacos/063-steps-02.webp",
+          "img/lacos/063-steps-03.webp",
+          "img/lacos/063-steps-04.webp",
+          "img/lacos/063-steps-05.webp",
+          "img/lacos/063-steps-06.webp",
+          "img/lacos/063-steps-07.webp",
+          "img/lacos/063-steps-08.webp",
+          "img/lacos/063-steps-09.webp",
+          "img/lacos/063-steps-10.webp",
+          "img/lacos/063-steps-11.webp",
+          "img/lacos/063-steps-12.webp"
+        ]
+      }
+    },
+    {
+      "n": 61,
+      "page": 64,
+      "title": "Xadrez vermelho e dourado com branco",
+      "image": "img/lacos/064.webp",
+      "thumb": "img/lacos/064-thumb.webp",
+      "segment": "",
+      "detail": {
+        "photo": "img/lacos/064-thumb.webp",
+        "materials": "img/lacos/064-materials.webp",
+        "measurements": "img/lacos/064-measurements.webp",
+        "steps": [
+          "img/lacos/064-steps-01.webp",
+          "img/lacos/064-steps-02.webp",
+          "img/lacos/064-steps-03.webp",
+          "img/lacos/064-steps-04.webp",
+          "img/lacos/064-steps-05.webp",
+          "img/lacos/064-steps-06.webp",
+          "img/lacos/064-steps-07.webp",
+          "img/lacos/064-steps-08.webp",
+          "img/lacos/064-steps-09.webp",
+          "img/lacos/064-steps-10.webp",
+          "img/lacos/064-steps-11.webp",
+          "img/lacos/064-steps-12.webp"
+        ]
+      }
+    },
+    {
+      "n": 62,
+      "page": 65,
+      "title": "Veludo rosé delicado",
+      "image": "img/lacos/065.webp",
+      "thumb": "img/lacos/065-thumb.webp",
+      "segment": "",
+      "detail": {
+        "photo": "img/lacos/065-thumb.webp",
+        "materials": "img/lacos/065-materials.webp",
+        "measurements": "img/lacos/065-measurements.webp",
+        "steps": [
+          "img/lacos/065-steps-01.webp",
+          "img/lacos/065-steps-02.webp",
+          "img/lacos/065-steps-03.webp",
+          "img/lacos/065-steps-04.webp",
+          "img/lacos/065-steps-05.webp",
+          "img/lacos/065-steps-06.webp",
+          "img/lacos/065-steps-07.webp",
+          "img/lacos/065-steps-08.webp",
+          "img/lacos/065-steps-09.webp",
+          "img/lacos/065-steps-10.webp",
+          "img/lacos/065-steps-11.webp",
+          "img/lacos/065-steps-12.webp"
+        ]
+      }
+    },
+    {
+      "n": 63,
+      "page": 66,
+      "title": "Dourado de arabescos",
+      "image": "img/lacos/066.webp",
+      "thumb": "img/lacos/066-thumb.webp",
+      "segment": "",
+      "detail": {
+        "photo": "img/lacos/066-thumb.webp",
+        "materials": "img/lacos/066-materials.webp",
+        "measurements": "img/lacos/066-measurements.webp",
+        "steps": [
+          "img/lacos/066-steps-01.webp",
+          "img/lacos/066-steps-02.webp",
+          "img/lacos/066-steps-03.webp",
+          "img/lacos/066-steps-04.webp",
+          "img/lacos/066-steps-05.webp",
+          "img/lacos/066-steps-06.webp",
+          "img/lacos/066-steps-07.webp",
+          "img/lacos/066-steps-08.webp",
+          "img/lacos/066-steps-09.webp",
+          "img/lacos/066-steps-10.webp",
+          "img/lacos/066-steps-11.webp",
+          "img/lacos/066-steps-12.webp"
+        ]
+      }
+    },
+    {
+      "n": 64,
+      "page": 67,
+      "title": "Organza branca com bolinhas dourados",
+      "image": "img/lacos/067.webp",
+      "thumb": "img/lacos/067-thumb.webp",
+      "segment": "",
+      "detail": {
+        "photo": "img/lacos/067-thumb.webp",
+        "materials": "img/lacos/067-materials.webp",
+        "measurements": "img/lacos/067-measurements.webp",
+        "steps": [
+          "img/lacos/067-steps-01.webp",
+          "img/lacos/067-steps-02.webp",
+          "img/lacos/067-steps-03.webp",
+          "img/lacos/067-steps-04.webp",
+          "img/lacos/067-steps-05.webp",
+          "img/lacos/067-steps-06.webp",
+          "img/lacos/067-steps-07.webp",
+          "img/lacos/067-steps-08.webp",
+          "img/lacos/067-steps-09.webp",
+          "img/lacos/067-steps-10.webp",
+          "img/lacos/067-steps-11.webp",
+          "img/lacos/067-steps-12.webp"
+        ]
+      }
+    },
+    {
+      "n": 65,
+      "page": 68,
+      "title": "Verde brilhantes clássico",
+      "image": "img/lacos/068.webp",
+      "thumb": "img/lacos/068-thumb.webp",
+      "segment": "",
+      "detail": {
+        "photo": "img/lacos/068-thumb.webp",
+        "materials": "img/lacos/068-materials.webp",
+        "measurements": "img/lacos/068-measurements.webp",
+        "steps": [
+          "img/lacos/068-steps-01.webp",
+          "img/lacos/068-steps-02.webp",
+          "img/lacos/068-steps-03.webp",
+          "img/lacos/068-steps-04.webp",
+          "img/lacos/068-steps-05.webp",
+          "img/lacos/068-steps-06.webp",
+          "img/lacos/068-steps-07.webp",
+          "img/lacos/068-steps-08.webp",
+          "img/lacos/068-steps-09.webp",
+          "img/lacos/068-steps-10.webp",
+          "img/lacos/068-steps-11.webp",
+          "img/lacos/068-steps-12.webp"
+        ]
+      }
+    },
+    {
+      "n": 66,
+      "page": 69,
+      "title": "Azul-marinho com flocos e prata",
+      "image": "img/lacos/069.webp",
+      "thumb": "img/lacos/069-thumb.webp",
+      "segment": "",
+      "detail": {
+        "photo": "img/lacos/069-thumb.webp",
+        "materials": "img/lacos/069-materials.webp",
+        "measurements": "img/lacos/069-measurements.webp",
+        "steps": [
+          "img/lacos/069-steps-01.webp",
+          "img/lacos/069-steps-02.webp",
+          "img/lacos/069-steps-03.webp",
+          "img/lacos/069-steps-04.webp",
+          "img/lacos/069-steps-05.webp",
+          "img/lacos/069-steps-06.webp",
+          "img/lacos/069-steps-07.webp",
+          "img/lacos/069-steps-08.webp",
+          "img/lacos/069-steps-09.webp",
+          "img/lacos/069-steps-10.webp",
+          "img/lacos/069-steps-11.webp",
+          "img/lacos/069-steps-12.webp"
+        ]
+      }
+    },
+    {
+      "n": 67,
+      "page": 70,
+      "title": "Prata de centro franzido",
+      "image": "img/lacos/070.webp",
+      "thumb": "img/lacos/070-thumb.webp",
+      "segment": "",
+      "detail": {
+        "photo": "img/lacos/070-thumb.webp",
+        "materials": "img/lacos/070-materials.webp",
+        "measurements": "img/lacos/070-measurements.webp",
+        "steps": [
+          "img/lacos/070-steps-01.webp",
+          "img/lacos/070-steps-02.webp",
+          "img/lacos/070-steps-03.webp",
+          "img/lacos/070-steps-04.webp",
+          "img/lacos/070-steps-05.webp",
+          "img/lacos/070-steps-06.webp",
+          "img/lacos/070-steps-07.webp",
+          "img/lacos/070-steps-08.webp",
+          "img/lacos/070-steps-09.webp",
+          "img/lacos/070-steps-10.webp",
+          "img/lacos/070-steps-11.webp",
+          "img/lacos/070-steps-12.webp"
+        ]
+      }
+    },
+    {
+      "n": 68,
+      "page": 71,
+      "title": "Prata com centro revestido",
+      "image": "img/lacos/071.webp",
+      "thumb": "img/lacos/071-thumb.webp",
+      "segment": "",
+      "detail": {
+        "photo": "img/lacos/071-thumb.webp",
+        "materials": "img/lacos/071-materials.webp",
+        "measurements": "img/lacos/071-measurements.webp",
+        "steps": [
+          "img/lacos/071-steps-01.webp",
+          "img/lacos/071-steps-02.webp",
+          "img/lacos/071-steps-03.webp",
+          "img/lacos/071-steps-04.webp",
+          "img/lacos/071-steps-05.webp",
+          "img/lacos/071-steps-06.webp",
+          "img/lacos/071-steps-07.webp",
+          "img/lacos/071-steps-08.webp",
+          "img/lacos/071-steps-09.webp",
+          "img/lacos/071-steps-10.webp",
+          "img/lacos/071-steps-11.webp",
+          "img/lacos/071-steps-12.webp"
+        ]
+      }
+    },
+    {
+      "n": 69,
+      "page": 72,
+      "title": "Prata metalizada volumosa",
+      "image": "img/lacos/072.webp",
+      "thumb": "img/lacos/072-thumb.webp",
+      "segment": "",
+      "detail": {
+        "photo": "img/lacos/072-thumb.webp",
+        "materials": "img/lacos/072-materials.webp",
+        "measurements": "img/lacos/072-measurements.webp",
+        "steps": [
+          "img/lacos/072-steps-01.webp",
+          "img/lacos/072-steps-02.webp",
+          "img/lacos/072-steps-03.webp",
+          "img/lacos/072-steps-04.webp",
+          "img/lacos/072-steps-05.webp",
+          "img/lacos/072-steps-06.webp",
+          "img/lacos/072-steps-07.webp",
+          "img/lacos/072-steps-08.webp",
+          "img/lacos/072-steps-09.webp",
+          "img/lacos/072-steps-10.webp",
+          "img/lacos/072-steps-11.webp",
+          "img/lacos/072-steps-12.webp"
+        ]
+      }
+    },
+    {
+      "n": 70,
+      "page": 73,
+      "title": "Prata com centro arredondado",
+      "image": "img/lacos/073.webp",
+      "thumb": "img/lacos/073-thumb.webp",
+      "segment": "",
+      "detail": {
+        "photo": "img/lacos/073-thumb.webp",
+        "materials": "img/lacos/073-materials.webp",
+        "measurements": "img/lacos/073-measurements.webp",
+        "steps": [
+          "img/lacos/073-steps-01.webp",
+          "img/lacos/073-steps-02.webp",
+          "img/lacos/073-steps-03.webp",
+          "img/lacos/073-steps-04.webp",
+          "img/lacos/073-steps-05.webp",
+          "img/lacos/073-steps-06.webp",
+          "img/lacos/073-steps-07.webp",
+          "img/lacos/073-steps-08.webp",
+          "img/lacos/073-steps-09.webp",
+          "img/lacos/073-steps-10.webp",
+          "img/lacos/073-steps-11.webp",
+          "img/lacos/073-steps-12.webp"
+        ]
+      }
+    },
+    {
+      "n": 71,
+      "page": 74,
+      "title": "Ouro envelhecido com brilho",
+      "image": "img/lacos/074.webp",
+      "thumb": "img/lacos/074-thumb.webp",
+      "segment": "",
+      "detail": {
+        "photo": "img/lacos/074-thumb.webp",
+        "materials": "img/lacos/074-materials.webp",
+        "measurements": "img/lacos/074-measurements.webp",
+        "steps": [
+          "img/lacos/074-steps-01.webp",
+          "img/lacos/074-steps-02.webp",
+          "img/lacos/074-steps-03.webp",
+          "img/lacos/074-steps-04.webp",
+          "img/lacos/074-steps-05.webp",
+          "img/lacos/074-steps-06.webp",
+          "img/lacos/074-steps-07.webp",
+          "img/lacos/074-steps-08.webp",
+          "img/lacos/074-steps-09.webp",
+          "img/lacos/074-steps-10.webp",
+          "img/lacos/074-steps-11.webp",
+          "img/lacos/074-steps-12.webp"
+        ]
+      }
+    },
+    {
+      "n": 72,
+      "page": 75,
+      "title": "Rosé em três camadas",
+      "image": "img/lacos/075.webp",
+      "thumb": "img/lacos/075-thumb.webp",
+      "segment": "",
+      "detail": {
+        "photo": "img/lacos/075-thumb.webp",
+        "materials": "img/lacos/075-materials.webp",
+        "measurements": "img/lacos/075-measurements.webp",
+        "steps": [
+          "img/lacos/075-steps-01.webp",
+          "img/lacos/075-steps-02.webp",
+          "img/lacos/075-steps-03.webp",
+          "img/lacos/075-steps-04.webp",
+          "img/lacos/075-steps-05.webp",
+          "img/lacos/075-steps-06.webp",
+          "img/lacos/075-steps-07.webp",
+          "img/lacos/075-steps-08.webp",
+          "img/lacos/075-steps-09.webp",
+          "img/lacos/075-steps-10.webp",
+          "img/lacos/075-steps-11.webp",
+          "img/lacos/075-steps-12.webp"
+        ]
+      }
+    },
+    {
+      "n": 73,
+      "page": 76,
+      "title": "Rosa de camadas e pontas curvas",
+      "image": "img/lacos/076.webp",
+      "thumb": "img/lacos/076-thumb.webp",
+      "segment": "",
+      "detail": {
+        "photo": "img/lacos/076-thumb.webp",
+        "materials": "img/lacos/076-materials.webp",
+        "measurements": "img/lacos/076-measurements.webp",
+        "steps": [
+          "img/lacos/076-steps-01.webp",
+          "img/lacos/076-steps-02.webp",
+          "img/lacos/076-steps-03.webp",
+          "img/lacos/076-steps-04.webp",
+          "img/lacos/076-steps-05.webp",
+          "img/lacos/076-steps-06.webp",
+          "img/lacos/076-steps-07.webp",
+          "img/lacos/076-steps-08.webp",
+          "img/lacos/076-steps-09.webp",
+          "img/lacos/076-steps-10.webp",
+          "img/lacos/076-steps-11.webp",
+          "img/lacos/076-steps-12.webp"
+        ]
+      }
+    },
+    {
+      "n": 74,
+      "page": 77,
+      "title": "Rosa fosco de centro largo",
+      "image": "img/lacos/077.webp",
+      "thumb": "img/lacos/077-thumb.webp",
+      "segment": "",
+      "detail": {
+        "photo": "img/lacos/077-thumb.webp",
+        "materials": "img/lacos/077-materials.webp",
+        "measurements": "img/lacos/077-measurements.webp",
+        "steps": [
+          "img/lacos/077-steps-01.webp",
+          "img/lacos/077-steps-02.webp",
+          "img/lacos/077-steps-03.webp",
+          "img/lacos/077-steps-04.webp",
+          "img/lacos/077-steps-05.webp",
+          "img/lacos/077-steps-06.webp",
+          "img/lacos/077-steps-07.webp",
+          "img/lacos/077-steps-08.webp",
+          "img/lacos/077-steps-09.webp",
+          "img/lacos/077-steps-10.webp",
+          "img/lacos/077-steps-11.webp",
+          "img/lacos/077-steps-12.webp"
+        ]
+      }
+    },
+    {
+      "n": 75,
+      "page": 78,
+      "title": "Rosa com flocos e bordas nevadas",
+      "image": "img/lacos/078.webp",
+      "thumb": "img/lacos/078-thumb.webp",
+      "segment": "",
+      "detail": {
+        "photo": "img/lacos/078-thumb.webp",
+        "materials": "img/lacos/078-materials.webp",
+        "measurements": "img/lacos/078-measurements.webp",
+        "steps": [
+          "img/lacos/078-steps-01.webp",
+          "img/lacos/078-steps-02.webp",
+          "img/lacos/078-steps-03.webp",
+          "img/lacos/078-steps-04.webp",
+          "img/lacos/078-steps-05.webp",
+          "img/lacos/078-steps-06.webp",
+          "img/lacos/078-steps-07.webp",
+          "img/lacos/078-steps-08.webp",
+          "img/lacos/078-steps-09.webp",
+          "img/lacos/078-steps-10.webp",
+          "img/lacos/078-steps-11.webp",
+          "img/lacos/078-steps-12.webp"
+        ]
+      }
+    },
+    {
+      "n": 76,
+      "page": 79,
+      "title": "Veludo rosa com borda dourada",
+      "image": "img/lacos/079.webp",
+      "thumb": "img/lacos/079-thumb.webp",
+      "segment": "",
+      "detail": {
+        "photo": "img/lacos/079-thumb.webp",
+        "materials": "img/lacos/079-materials.webp",
+        "measurements": "img/lacos/079-measurements.webp",
+        "steps": [
+          "img/lacos/079-steps-01.webp",
+          "img/lacos/079-steps-02.webp",
+          "img/lacos/079-steps-03.webp",
+          "img/lacos/079-steps-04.webp",
+          "img/lacos/079-steps-05.webp",
+          "img/lacos/079-steps-06.webp",
+          "img/lacos/079-steps-07.webp",
+          "img/lacos/079-steps-08.webp",
+          "img/lacos/079-steps-09.webp",
+          "img/lacos/079-steps-10.webp",
+          "img/lacos/079-steps-11.webp",
+          "img/lacos/079-steps-12.webp"
+        ]
+      }
+    },
+    {
+      "n": 77,
+      "page": 80,
+      "title": "Dourado e creme com ramos",
+      "image": "img/lacos/080.webp",
+      "thumb": "img/lacos/080-thumb.webp",
+      "segment": "",
+      "detail": {
+        "photo": "img/lacos/080-thumb.webp",
+        "materials": "img/lacos/080-materials.webp",
+        "measurements": "img/lacos/080-measurements.webp",
+        "steps": [
+          "img/lacos/080-steps-01.webp",
+          "img/lacos/080-steps-02.webp",
+          "img/lacos/080-steps-03.webp",
+          "img/lacos/080-steps-04.webp",
+          "img/lacos/080-steps-05.webp",
+          "img/lacos/080-steps-06.webp",
+          "img/lacos/080-steps-07.webp",
+          "img/lacos/080-steps-08.webp",
+          "img/lacos/080-steps-09.webp",
+          "img/lacos/080-steps-10.webp",
+          "img/lacos/080-steps-11.webp",
+          "img/lacos/080-steps-12.webp"
+        ]
+      }
+    },
+    {
+      "n": 78,
+      "page": 81,
+      "title": "Juta dourada com brilho",
+      "image": "img/lacos/081.webp",
+      "thumb": "img/lacos/081-thumb.webp",
+      "segment": "",
+      "detail": {
+        "photo": "img/lacos/081-thumb.webp",
+        "materials": "img/lacos/081-materials.webp",
+        "measurements": "img/lacos/081-measurements.webp",
+        "steps": [
+          "img/lacos/081-steps-01.webp",
+          "img/lacos/081-steps-02.webp",
+          "img/lacos/081-steps-03.webp",
+          "img/lacos/081-steps-04.webp",
+          "img/lacos/081-steps-05.webp",
+          "img/lacos/081-steps-06.webp",
+          "img/lacos/081-steps-07.webp",
+          "img/lacos/081-steps-08.webp",
+          "img/lacos/081-steps-09.webp",
+          "img/lacos/081-steps-10.webp",
+          "img/lacos/081-steps-11.webp",
+          "img/lacos/081-steps-12.webp"
+        ]
+      }
+    },
+    {
+      "n": 79,
+      "page": 82,
+      "title": "Branco de textura felpuda",
+      "image": "img/lacos/082.webp",
+      "thumb": "img/lacos/082-thumb.webp",
+      "segment": "",
+      "detail": {
+        "photo": "img/lacos/082-thumb.webp",
+        "materials": "img/lacos/082-materials.webp",
+        "measurements": "img/lacos/082-measurements.webp",
+        "steps": [
+          "img/lacos/082-steps-01.webp",
+          "img/lacos/082-steps-02.webp",
+          "img/lacos/082-steps-03.webp",
+          "img/lacos/082-steps-04.webp",
+          "img/lacos/082-steps-05.webp",
+          "img/lacos/082-steps-06.webp",
+          "img/lacos/082-steps-07.webp",
+          "img/lacos/082-steps-08.webp",
+          "img/lacos/082-steps-09.webp",
+          "img/lacos/082-steps-10.webp",
+          "img/lacos/082-steps-11.webp",
+          "img/lacos/082-steps-12.webp"
+        ]
+      }
+    },
+    {
+      "n": 80,
+      "page": 83,
+      "title": "Linho e prata com renda",
+      "image": "img/lacos/083.webp",
+      "thumb": "img/lacos/083-thumb.webp",
+      "segment": "",
+      "detail": {
+        "photo": "img/lacos/083-thumb.webp",
+        "materials": "img/lacos/083-materials.webp",
+        "measurements": "img/lacos/083-measurements.webp",
+        "steps": [
+          "img/lacos/083-steps-01.webp",
+          "img/lacos/083-steps-02.webp",
+          "img/lacos/083-steps-03.webp",
+          "img/lacos/083-steps-04.webp",
+          "img/lacos/083-steps-05.webp",
+          "img/lacos/083-steps-06.webp",
+          "img/lacos/083-steps-07.webp",
+          "img/lacos/083-steps-08.webp",
+          "img/lacos/083-steps-09.webp",
+          "img/lacos/083-steps-10.webp",
+          "img/lacos/083-steps-11.webp",
+          "img/lacos/083-steps-12.webp"
+        ]
+      }
+    },
+    {
+      "n": 81,
+      "page": 84,
+      "title": "Branco com broche e cascata",
+      "image": "img/lacos/084.webp",
+      "thumb": "img/lacos/084-thumb.webp",
+      "segment": "",
+      "detail": {
+        "photo": "img/lacos/084-thumb.webp",
+        "materials": "img/lacos/084-materials.webp",
+        "measurements": "img/lacos/084-measurements.webp",
+        "steps": [
+          "img/lacos/084-steps-01.webp",
+          "img/lacos/084-steps-02.webp",
+          "img/lacos/084-steps-03.webp",
+          "img/lacos/084-steps-04.webp",
+          "img/lacos/084-steps-05.webp",
+          "img/lacos/084-steps-06.webp",
+          "img/lacos/084-steps-07.webp",
+          "img/lacos/084-steps-08.webp",
+          "img/lacos/084-steps-09.webp",
+          "img/lacos/084-steps-10.webp",
+          "img/lacos/084-steps-11.webp",
+          "img/lacos/084-steps-12.webp"
+        ]
+      }
+    },
+    {
+      "n": 82,
+      "page": 85,
+      "title": "Dourado estreito de quatro voltas",
+      "image": "img/lacos/085.webp",
+      "thumb": "img/lacos/085-thumb.webp",
+      "segment": "",
+      "detail": {
+        "photo": "img/lacos/085-thumb.webp",
+        "materials": "img/lacos/085-materials.webp",
+        "measurements": "img/lacos/085-measurements.webp",
+        "steps": [
+          "img/lacos/085-steps-01.webp",
+          "img/lacos/085-steps-02.webp",
+          "img/lacos/085-steps-03.webp",
+          "img/lacos/085-steps-04.webp",
+          "img/lacos/085-steps-05.webp",
+          "img/lacos/085-steps-06.webp",
+          "img/lacos/085-steps-07.webp",
+          "img/lacos/085-steps-08.webp",
+          "img/lacos/085-steps-09.webp",
+          "img/lacos/085-steps-10.webp",
+          "img/lacos/085-steps-11.webp",
+          "img/lacos/085-steps-12.webp"
+        ]
+      }
+    },
+    {
+      "n": 83,
+      "page": 86,
+      "title": "Verde-escuro com riscas douradas",
+      "image": "img/lacos/086.webp",
+      "thumb": "img/lacos/086-thumb.webp",
+      "segment": "",
+      "detail": {
+        "photo": "img/lacos/086-thumb.webp",
+        "materials": "img/lacos/086-materials.webp",
+        "measurements": "img/lacos/086-measurements.webp",
+        "steps": [
+          "img/lacos/086-steps-01.webp",
+          "img/lacos/086-steps-02.webp",
+          "img/lacos/086-steps-03.webp",
+          "img/lacos/086-steps-04.webp",
+          "img/lacos/086-steps-05.webp",
+          "img/lacos/086-steps-06.webp",
+          "img/lacos/086-steps-07.webp",
+          "img/lacos/086-steps-08.webp",
+          "img/lacos/086-steps-09.webp",
+          "img/lacos/086-steps-10.webp",
+          "img/lacos/086-steps-11.webp",
+          "img/lacos/086-steps-12.webp"
+        ]
+      }
+    },
+    {
+      "n": 84,
+      "page": 87,
+      "title": "Verde com riscas finas",
+      "image": "img/lacos/087.webp",
+      "thumb": "img/lacos/087-thumb.webp",
+      "segment": "",
+      "detail": {
+        "photo": "img/lacos/087-thumb.webp",
+        "materials": "img/lacos/087-materials.webp",
+        "measurements": "img/lacos/087-measurements.webp",
+        "steps": [
+          "img/lacos/087-steps-01.webp",
+          "img/lacos/087-steps-02.webp",
+          "img/lacos/087-steps-03.webp",
+          "img/lacos/087-steps-04.webp",
+          "img/lacos/087-steps-05.webp",
+          "img/lacos/087-steps-06.webp",
+          "img/lacos/087-steps-07.webp",
+          "img/lacos/087-steps-08.webp",
+          "img/lacos/087-steps-09.webp",
+          "img/lacos/087-steps-10.webp",
+          "img/lacos/087-steps-11.webp",
+          "img/lacos/087-steps-12.webp"
+        ]
+      }
+    },
+    {
+      "n": 85,
+      "page": 88,
+      "title": "Verde e dourado em três níveis",
+      "image": "img/lacos/088.webp",
+      "thumb": "img/lacos/088-thumb.webp",
+      "segment": "",
+      "detail": {
+        "fallback": true
+      }
+    },
+    {
+      "n": 86,
+      "page": 89,
+      "title": "Verde e juta de bordas verdes",
+      "image": "img/lacos/089.webp",
+      "thumb": "img/lacos/089-thumb.webp",
+      "segment": "",
+      "detail": {
+        "photo": "img/lacos/089-thumb.webp",
+        "materials": "img/lacos/089-materials.webp",
+        "measurements": "img/lacos/089-measurements.webp",
+        "steps": [
+          "img/lacos/089-steps-01.webp",
+          "img/lacos/089-steps-02.webp",
+          "img/lacos/089-steps-03.webp",
+          "img/lacos/089-steps-04.webp",
+          "img/lacos/089-steps-05.webp",
+          "img/lacos/089-steps-06.webp",
+          "img/lacos/089-steps-07.webp",
+          "img/lacos/089-steps-08.webp",
+          "img/lacos/089-steps-09.webp",
+          "img/lacos/089-steps-10.webp",
+          "img/lacos/089-steps-11.webp",
+          "img/lacos/089-steps-12.webp"
+        ]
+      }
+    },
+    {
+      "n": 87,
+      "page": 90,
+      "title": "Xadrez para guirlanda com frutos",
+      "image": "img/lacos/090.webp",
+      "thumb": "img/lacos/090-thumb.webp",
+      "segment": "",
+      "detail": {
+        "photo": "img/lacos/090-thumb.webp",
+        "materials": "img/lacos/090-materials.webp",
+        "measurements": "img/lacos/090-measurements.webp",
+        "steps": [
+          "img/lacos/090-steps-01.webp",
+          "img/lacos/090-steps-02.webp",
+          "img/lacos/090-steps-03.webp",
+          "img/lacos/090-steps-04.webp",
+          "img/lacos/090-steps-05.webp",
+          "img/lacos/090-steps-06.webp",
+          "img/lacos/090-steps-07.webp",
+          "img/lacos/090-steps-08.webp",
+          "img/lacos/090-steps-09.webp",
+          "img/lacos/090-steps-10.webp",
+          "img/lacos/090-steps-11.webp",
+          "img/lacos/090-steps-12.webp"
+        ]
+      }
+    },
+    {
+      "n": 88,
+      "page": 91,
+      "title": "Juta e xadrez em três níveis com seis caudas — Variação",
+      "image": "img/lacos/091.webp",
+      "thumb": "img/lacos/091-thumb.webp",
+      "segment": "",
+      "detail": {
+        "photo": "img/lacos/091-thumb.webp",
+        "materials": "img/lacos/091-materials.webp",
+        "measurements": "img/lacos/091-measurements.webp",
+        "steps": [
+          "img/lacos/091-steps-01.webp",
+          "img/lacos/091-steps-02.webp",
+          "img/lacos/091-steps-03.webp",
+          "img/lacos/091-steps-04.webp",
+          "img/lacos/091-steps-05.webp",
+          "img/lacos/091-steps-06.webp",
+          "img/lacos/091-steps-07.webp",
+          "img/lacos/091-steps-08.webp",
+          "img/lacos/091-steps-09.webp",
+          "img/lacos/091-steps-10.webp",
+          "img/lacos/091-steps-11.webp",
+          "img/lacos/091-steps-12.webp"
+        ]
+      }
+    },
+    {
+      "n": 89,
+      "page": 92,
+      "title": "Pendente rendado com pinha e laço duplo — Variação",
+      "image": "img/lacos/092.webp",
+      "thumb": "img/lacos/092-thumb.webp",
+      "segment": "",
+      "detail": {
+        "photo": "img/lacos/092-thumb.webp",
+        "materials": "img/lacos/092-materials.webp",
+        "measurements": "img/lacos/092-measurements.webp",
+        "steps": [
+          "img/lacos/092-steps-01.webp",
+          "img/lacos/092-steps-02.webp",
+          "img/lacos/092-steps-03.webp",
+          "img/lacos/092-steps-04.webp",
+          "img/lacos/092-steps-05.webp",
+          "img/lacos/092-steps-06.webp",
+          "img/lacos/092-steps-07.webp",
+          "img/lacos/092-steps-08.webp",
+          "img/lacos/092-steps-09.webp",
+          "img/lacos/092-steps-10.webp",
+          "img/lacos/092-steps-11.webp",
+          "img/lacos/092-steps-12.webp"
+        ]
+      }
+    },
+    {
+      "n": 90,
+      "page": 93,
+      "title": "Pai Natal de quatro voltas com cinto — Variação",
+      "image": "img/lacos/093.webp",
+      "thumb": "img/lacos/093-thumb.webp",
+      "segment": "",
+      "detail": {
+        "photo": "img/lacos/093-thumb.webp",
+        "materials": "img/lacos/093-materials.webp",
+        "measurements": "img/lacos/093-measurements.webp",
+        "steps": [
+          "img/lacos/093-steps-01.webp",
+          "img/lacos/093-steps-02.webp",
+          "img/lacos/093-steps-03.webp",
+          "img/lacos/093-steps-04.webp",
+          "img/lacos/093-steps-05.webp",
+          "img/lacos/093-steps-06.webp",
+          "img/lacos/093-steps-07.webp",
+          "img/lacos/093-steps-08.webp",
+          "img/lacos/093-steps-09.webp",
+          "img/lacos/093-steps-10.webp",
+          "img/lacos/093-steps-11.webp",
+          "img/lacos/093-steps-12.webp"
+        ]
+      }
+    },
+    {
+      "n": 91,
+      "page": 94,
+      "title": "Pendente duplo de pinhas com laço de juta — Variação",
+      "image": "img/lacos/094.webp",
+      "thumb": "img/lacos/094-thumb.webp",
+      "segment": "",
+      "detail": {
+        "photo": "img/lacos/094-thumb.webp",
+        "materials": "img/lacos/094-materials.webp",
+        "measurements": "img/lacos/094-measurements.webp",
+        "steps": [
+          "img/lacos/094-steps-01.webp",
+          "img/lacos/094-steps-02.webp",
+          "img/lacos/094-steps-03.webp",
+          "img/lacos/094-steps-04.webp",
+          "img/lacos/094-steps-05.webp",
+          "img/lacos/094-steps-06.webp",
+          "img/lacos/094-steps-07.webp",
+          "img/lacos/094-steps-08.webp",
+          "img/lacos/094-steps-09.webp",
+          "img/lacos/094-steps-10.webp",
+          "img/lacos/094-steps-11.webp",
+          "img/lacos/094-steps-12.webp"
+        ]
+      }
+    },
+    {
+      "n": 92,
+      "page": 95,
+      "title": "Azul-real com leque de três pontas prateadas — Variação",
+      "image": "img/lacos/095.webp",
+      "thumb": "img/lacos/095-thumb.webp",
+      "segment": "",
+      "detail": {
+        "photo": "img/lacos/095-thumb.webp",
+        "materials": "img/lacos/095-materials.webp",
+        "measurements": "img/lacos/095-measurements.webp",
+        "steps": [
+          "img/lacos/095-steps-01.webp",
+          "img/lacos/095-steps-02.webp",
+          "img/lacos/095-steps-03.webp",
+          "img/lacos/095-steps-04.webp",
+          "img/lacos/095-steps-05.webp",
+          "img/lacos/095-steps-06.webp",
+          "img/lacos/095-steps-07.webp",
+          "img/lacos/095-steps-08.webp",
+          "img/lacos/095-steps-09.webp",
+          "img/lacos/095-steps-10.webp",
+          "img/lacos/095-steps-11.webp",
+          "img/lacos/095-steps-12.webp"
+        ]
+      }
+    },
+    {
+      "n": 93,
+      "page": 96,
+      "title": "Rosa nacarado de quatro voltas em camadas — Variação",
+      "image": "img/lacos/096.webp",
+      "thumb": "img/lacos/096-thumb.webp",
+      "segment": "",
+      "detail": {
+        "photo": "img/lacos/096-thumb.webp",
+        "materials": "img/lacos/096-materials.webp",
+        "measurements": "img/lacos/096-measurements.webp",
+        "steps": [
+          "img/lacos/096-steps-01.webp",
+          "img/lacos/096-steps-02.webp",
+          "img/lacos/096-steps-03.webp",
+          "img/lacos/096-steps-04.webp",
+          "img/lacos/096-steps-05.webp",
+          "img/lacos/096-steps-06.webp",
+          "img/lacos/096-steps-07.webp",
+          "img/lacos/096-steps-08.webp",
+          "img/lacos/096-steps-09.webp",
+          "img/lacos/096-steps-10.webp",
+          "img/lacos/096-steps-11.webp",
+          "img/lacos/096-steps-12.webp"
+        ]
+      }
+    },
+    {
+      "n": 94,
+      "page": 97,
+      "title": "Vermelho com ramos de frutos",
+      "image": "img/lacos/097.webp",
+      "thumb": "img/lacos/097-thumb.webp",
+      "segment": "",
+      "detail": {
+        "photo": "img/lacos/097-thumb.webp",
+        "materials": "img/lacos/097-materials.webp",
+        "measurements": "img/lacos/097-measurements.webp",
+        "steps": [
+          "img/lacos/097-steps-01.webp",
+          "img/lacos/097-steps-02.webp",
+          "img/lacos/097-steps-03.webp",
+          "img/lacos/097-steps-04.webp",
+          "img/lacos/097-steps-05.webp",
+          "img/lacos/097-steps-06.webp",
+          "img/lacos/097-steps-07.webp",
+          "img/lacos/097-steps-08.webp",
+          "img/lacos/097-steps-09.webp",
+          "img/lacos/097-steps-10.webp",
+          "img/lacos/097-steps-11.webp",
+          "img/lacos/097-steps-12.webp"
+        ]
+      }
+    },
+    {
+      "n": 95,
+      "page": 98,
+      "title": "Topo de Natal vermelho e creme",
+      "image": "img/lacos/098.webp",
+      "thumb": "img/lacos/098-thumb.webp",
+      "segment": "",
+      "detail": {
+        "photo": "img/lacos/098-thumb.webp",
+        "materials": "img/lacos/098-materials.webp",
+        "measurements": "img/lacos/098-measurements.webp",
+        "steps": [
+          "img/lacos/098-steps-01.webp",
+          "img/lacos/098-steps-02.webp",
+          "img/lacos/098-steps-03.webp",
+          "img/lacos/098-steps-04.webp",
+          "img/lacos/098-steps-05.webp",
+          "img/lacos/098-steps-06.webp",
+          "img/lacos/098-steps-07.webp",
+          "img/lacos/098-steps-08.webp",
+          "img/lacos/098-steps-09.webp",
+          "img/lacos/098-steps-10.webp",
+          "img/lacos/098-steps-11.webp",
+          "img/lacos/098-steps-12.webp"
+        ]
+      }
+    },
+    {
+      "n": 96,
+      "page": 99,
+      "title": "Laço azul-gelo com borboleta",
+      "image": "img/lacos/099.webp",
+      "thumb": "img/lacos/099-thumb.webp",
+      "segment": "",
+      "detail": {
+        "photo": "img/lacos/099-thumb.webp",
+        "materials": "img/lacos/099-materials.webp",
+        "measurements": "img/lacos/099-measurements.webp",
+        "steps": [
+          "img/lacos/099-steps-01.webp",
+          "img/lacos/099-steps-02.webp",
+          "img/lacos/099-steps-03.webp",
+          "img/lacos/099-steps-04.webp",
+          "img/lacos/099-steps-05.webp",
+          "img/lacos/099-steps-06.webp",
+          "img/lacos/099-steps-07.webp",
+          "img/lacos/099-steps-08.webp",
+          "img/lacos/099-steps-09.webp",
+          "img/lacos/099-steps-10.webp",
+          "img/lacos/099-steps-11.webp",
+          "img/lacos/099-steps-12.webp"
+        ]
+      }
+    },
+    {
+      "n": 97,
+      "page": 100,
+      "title": "Rosé com esferas decorativas",
+      "image": "img/lacos/100.webp",
+      "thumb": "img/lacos/100-thumb.webp",
+      "segment": "",
+      "detail": {
+        "photo": "img/lacos/100-thumb.webp",
+        "materials": "img/lacos/100-materials.webp",
+        "measurements": "img/lacos/100-measurements.webp",
+        "steps": [
+          "img/lacos/100-steps-01.webp",
+          "img/lacos/100-steps-02.webp",
+          "img/lacos/100-steps-03.webp",
+          "img/lacos/100-steps-04.webp",
+          "img/lacos/100-steps-05.webp",
+          "img/lacos/100-steps-06.webp",
+          "img/lacos/100-steps-07.webp",
+          "img/lacos/100-steps-08.webp",
+          "img/lacos/100-steps-09.webp",
+          "img/lacos/100-steps-10.webp",
+          "img/lacos/100-steps-11.webp",
+          "img/lacos/100-steps-12.webp"
+        ]
+      }
+    },
+    {
+      "n": 98,
+      "page": 101,
+      "title": "Vermelho com flor de Natal",
+      "image": "img/lacos/101.webp",
+      "thumb": "img/lacos/101-thumb.webp",
+      "segment": "",
+      "detail": {
+        "photo": "img/lacos/101-thumb.webp",
+        "materials": "img/lacos/101-materials.webp",
+        "measurements": "img/lacos/101-measurements.webp",
+        "steps": [
+          "img/lacos/101-steps-01.webp",
+          "img/lacos/101-steps-02.webp",
+          "img/lacos/101-steps-03.webp",
+          "img/lacos/101-steps-04.webp",
+          "img/lacos/101-steps-05.webp",
+          "img/lacos/101-steps-06.webp",
+          "img/lacos/101-steps-07.webp",
+          "img/lacos/101-steps-08.webp",
+          "img/lacos/101-steps-09.webp",
+          "img/lacos/101-steps-10.webp",
+          "img/lacos/101-steps-11.webp",
+          "img/lacos/101-steps-12.webp"
+        ]
+      }
+    },
+    {
+      "n": 99,
+      "page": 102,
+      "title": "Juta para cadeira de Natal",
+      "image": "img/lacos/102.webp",
+      "thumb": "img/lacos/102-thumb.webp",
+      "segment": "",
+      "detail": {
+        "photo": "img/lacos/102-thumb.webp",
+        "materials": "img/lacos/102-materials.webp",
+        "measurements": "img/lacos/102-measurements.webp",
+        "steps": [
+          "img/lacos/102-steps-01.webp",
+          "img/lacos/102-steps-02.webp",
+          "img/lacos/102-steps-03.webp",
+          "img/lacos/102-steps-04.webp",
+          "img/lacos/102-steps-05.webp",
+          "img/lacos/102-steps-06.webp",
+          "img/lacos/102-steps-07.webp",
+          "img/lacos/102-steps-08.webp",
+          "img/lacos/102-steps-09.webp",
+          "img/lacos/102-steps-10.webp",
+          "img/lacos/102-steps-11.webp",
+          "img/lacos/102-steps-12.webp"
+        ]
+      }
+    },
+    {
+      "n": 100,
+      "page": 103,
+      "title": "Marfim com cascata longa",
+      "image": "img/lacos/103.webp",
+      "thumb": "img/lacos/103-thumb.webp",
+      "segment": "",
+      "detail": {
+        "photo": "img/lacos/103-thumb.webp",
+        "materials": "img/lacos/103-materials.webp",
+        "measurements": "img/lacos/103-measurements.webp",
+        "steps": [
+          "img/lacos/103-steps-01.webp",
+          "img/lacos/103-steps-02.webp",
+          "img/lacos/103-steps-03.webp",
+          "img/lacos/103-steps-04.webp",
+          "img/lacos/103-steps-05.webp",
+          "img/lacos/103-steps-06.webp",
+          "img/lacos/103-steps-07.webp",
+          "img/lacos/103-steps-08.webp",
+          "img/lacos/103-steps-09.webp",
+          "img/lacos/103-steps-10.webp",
+          "img/lacos/103-steps-11.webp",
+          "img/lacos/103-steps-12.webp"
+        ]
+      }
+    },
+    {
+      "n": 101,
+      "page": 104,
+      "title": "Prata clássico de nó central",
+      "image": "img/lacos/104.webp",
+      "thumb": "img/lacos/104-thumb.webp",
+      "segment": "",
+      "detail": {
+        "photo": "img/lacos/104-thumb.webp",
+        "materials": "img/lacos/104-materials.webp",
+        "measurements": "img/lacos/104-measurements.webp",
+        "steps": [
+          "img/lacos/104-steps-01.webp",
+          "img/lacos/104-steps-02.webp",
+          "img/lacos/104-steps-03.webp",
+          "img/lacos/104-steps-04.webp",
+          "img/lacos/104-steps-05.webp",
+          "img/lacos/104-steps-06.webp",
+          "img/lacos/104-steps-07.webp",
+          "img/lacos/104-steps-08.webp",
+          "img/lacos/104-steps-09.webp",
+          "img/lacos/104-steps-10.webp",
+          "img/lacos/104-steps-11.webp",
+          "img/lacos/104-steps-12.webp"
+        ]
+      }
+    },
+    {
+      "n": 102,
+      "page": 105,
+      "title": "Rosa com pérolas",
+      "image": "img/lacos/105.webp",
+      "thumb": "img/lacos/105-thumb.webp",
+      "segment": "",
+      "detail": {
+        "photo": "img/lacos/105-thumb.webp",
+        "materials": "img/lacos/105-materials.webp",
+        "measurements": "img/lacos/105-measurements.webp",
+        "steps": [
+          "img/lacos/105-steps-01.webp",
+          "img/lacos/105-steps-02.webp",
+          "img/lacos/105-steps-03.webp",
+          "img/lacos/105-steps-04.webp",
+          "img/lacos/105-steps-05.webp",
+          "img/lacos/105-steps-06.webp",
+          "img/lacos/105-steps-07.webp",
+          "img/lacos/105-steps-08.webp",
+          "img/lacos/105-steps-09.webp",
+          "img/lacos/105-steps-10.webp",
+          "img/lacos/105-steps-11.webp",
+          "img/lacos/105-steps-12.webp"
+        ]
+      }
+    },
+    {
+      "n": 103,
+      "page": 106,
+      "title": "Dourado acetinado de pontas longas",
+      "image": "img/lacos/106.webp",
+      "thumb": "img/lacos/106-thumb.webp",
+      "segment": "",
+      "detail": {
+        "fallback": true
+      }
+    },
+    {
+      "n": 104,
+      "page": 107,
+      "title": "Esmeralda com cascata espiral — Variação",
+      "image": "img/lacos/107.webp",
+      "thumb": "img/lacos/107-thumb.webp",
+      "segment": "",
+      "detail": {
+        "photo": "img/lacos/107-thumb.webp",
+        "materials": "img/lacos/107-materials.webp",
+        "measurements": "img/lacos/107-measurements.webp",
+        "steps": [
+          "img/lacos/107-steps-01.webp",
+          "img/lacos/107-steps-02.webp",
+          "img/lacos/107-steps-03.webp",
+          "img/lacos/107-steps-04.webp",
+          "img/lacos/107-steps-05.webp",
+          "img/lacos/107-steps-06.webp",
+          "img/lacos/107-steps-07.webp",
+          "img/lacos/107-steps-08.webp",
+          "img/lacos/107-steps-09.webp",
+          "img/lacos/107-steps-10.webp",
+          "img/lacos/107-steps-11.webp",
+          "img/lacos/107-steps-12.webp"
+        ]
+      }
+    }
+  ],
+  "pages": [
+    {
+      "n": 1,
+      "image": "img/lacos/001.webp",
+      "title": "Página 1"
+    },
+    {
+      "n": 2,
+      "image": "img/lacos/002.webp",
+      "title": "Página 2"
+    },
+    {
+      "n": 3,
+      "image": "img/lacos/003.webp",
+      "title": "Página 3"
+    },
+    {
+      "n": 4,
+      "image": "img/lacos/004.webp",
+      "title": "Vermelho com trama dourada"
+    },
+    {
+      "n": 5,
+      "image": "img/lacos/005.webp",
+      "title": "Xadrez tartã tradicional"
+    },
+    {
+      "n": 6,
+      "image": "img/lacos/006.webp",
+      "title": "Vermelho liso de pontas longas"
+    },
+    {
+      "n": 7,
+      "image": "img/lacos/007.webp",
+      "title": "Prata com centro largo"
+    },
+    {
+      "n": 8,
+      "image": "img/lacos/008.webp",
+      "title": "Dourado de trama rústica"
+    },
+    {
+      "n": 9,
+      "image": "img/lacos/009.webp",
+      "title": "Dourado luminoso em camadas"
+    },
+    {
+      "n": 10,
+      "image": "img/lacos/010.webp",
+      "title": "Veludo vermelho com estrela"
+    },
+    {
+      "n": 11,
+      "image": "img/lacos/011.webp",
+      "title": "Vermelho com borboleta brilhante"
+    },
+    {
+      "n": 12,
+      "image": "img/lacos/012.webp",
+      "title": "Marfim com organza rosé"
+    },
+    {
+      "n": 13,
+      "image": "img/lacos/013.webp",
+      "title": "Tartã com base vermelha"
+    },
+    {
+      "n": 14,
+      "image": "img/lacos/014.webp",
+      "title": "Xadrez em três camadas"
+    },
+    {
+      "n": 15,
+      "image": "img/lacos/015.webp",
+      "title": "Vermelho acetinado com fundo ouro"
+    },
+    {
+      "n": 16,
+      "image": "img/lacos/016.webp",
+      "title": "Xadrez com organza dourada"
+    },
+    {
+      "n": 17,
+      "image": "img/lacos/017.webp",
+      "title": "Veludo bordéus e arabescos dourados"
+    },
+    {
+      "n": 18,
+      "image": "img/lacos/018.webp",
+      "title": "Tartã com borboleta dourada"
+    },
+    {
+      "n": 19,
+      "image": "img/lacos/019.webp",
+      "title": "Linho com geométrico vermelho"
+    },
+    {
+      "n": 20,
+      "image": "img/lacos/020.webp",
+      "title": "Xadrez preto e branco com frutos"
+    },
+    {
+      "n": 21,
+      "image": "img/lacos/021.webp",
+      "title": "Verde rústico de centro largo"
+    },
+    {
+      "n": 22,
+      "image": "img/lacos/022.webp",
+      "title": "Azul-marinho com xadrez creme"
+    },
+    {
+      "n": 23,
+      "image": "img/lacos/023.webp",
+      "title": "Vermelho e Vichy com cascata"
+    },
+    {
+      "n": 24,
+      "image": "img/lacos/024.webp",
+      "title": "Juta natural com folhagem"
+    },
+    {
+      "n": 25,
+      "image": "img/lacos/025.webp",
+      "title": "Juta e organza castanho"
+    },
+    {
+      "n": 26,
+      "image": "img/lacos/026.webp",
+      "title": "Linho natural com pontas curvas"
+    },
+    {
+      "n": 27,
+      "image": "img/lacos/027.webp",
+      "title": "Juta com xadrez vermelho e preto"
+    },
+    {
+      "n": 28,
+      "image": "img/lacos/028.webp",
+      "title": "Linho estampado de flocos vermelhos"
+    },
+    {
+      "n": 29,
+      "image": "img/lacos/029.webp",
+      "title": "Laço de Natal de linho com flocos vermelhos"
+    },
+    {
+      "n": 30,
+      "image": "img/lacos/030.webp",
+      "title": "Dourado com flores bordéus"
+    },
+    {
+      "n": 31,
+      "image": "img/lacos/031.webp",
+      "title": "Creme com estrelas douradas"
+    },
+    {
+      "n": 32,
+      "image": "img/lacos/032.webp",
+      "title": "Vermelho com flocos brancos"
+    },
+    {
+      "n": 33,
+      "image": "img/lacos/033.webp",
+      "title": "Verde-oliva de bordas claras"
+    },
+    {
+      "n": 34,
+      "image": "img/lacos/034.webp",
+      "title": "Xadrez, riscas e linho"
+    },
+    {
+      "n": 35,
+      "image": "img/lacos/035.webp",
+      "title": "Xadrez vermelho e verde-claro"
+    },
+    {
+      "n": 36,
+      "image": "img/lacos/036.webp",
+      "title": "Xadrez com motivos de carrinha"
+    },
+    {
+      "n": 37,
+      "image": "img/lacos/037.webp",
+      "title": "Linho minimalista"
+    },
+    {
+      "n": 38,
+      "image": "img/lacos/038.webp",
+      "title": "Linho com fios metálicos"
+    },
+    {
+      "n": 39,
+      "image": "img/lacos/039.webp",
+      "title": "Juta com renda branca"
+    },
+    {
+      "n": 40,
+      "image": "img/lacos/040.webp",
+      "title": "Marfim e dourado com folhagem"
+    },
+    {
+      "n": 41,
+      "image": "img/lacos/041.webp",
+      "title": "Castanho metálico"
+    },
+    {
+      "n": 42,
+      "image": "img/lacos/042.webp",
+      "title": "Prata com centro de borboleta"
+    },
+    {
+      "n": 43,
+      "image": "img/lacos/043.webp",
+      "title": "Vermelho brilhantes para árvore"
+    },
+    {
+      "n": 44,
+      "image": "img/lacos/044.webp",
+      "title": "Verde-esmeralda brilhante"
+    },
+    {
+      "n": 45,
+      "image": "img/lacos/045.webp",
+      "title": "Organza branca com cascata"
+    },
+    {
+      "n": 46,
+      "image": "img/lacos/046.webp",
+      "title": "Vermelho clássico para cortina"
+    },
+    {
+      "n": 47,
+      "image": "img/lacos/047.webp",
+      "title": "Castanho e champanhe com flor"
+    },
+    {
+      "n": 48,
+      "image": "img/lacos/048.webp",
+      "title": "Rena de Natal vermelha"
+    },
+    {
+      "n": 49,
+      "image": "img/lacos/049.webp",
+      "title": "Verde-escuro com pinha pendente"
+    },
+    {
+      "n": 50,
+      "image": "img/lacos/050.webp",
+      "title": "Vermelho com arranjo floral"
+    },
+    {
+      "n": 51,
+      "image": "img/lacos/051.webp",
+      "title": "Vermelho com punhos brancos"
+    },
+    {
+      "n": 52,
+      "image": "img/lacos/052.webp",
+      "title": "Champanhe com pinha pendente"
+    },
+    {
+      "n": 53,
+      "image": "img/lacos/053.webp",
+      "title": "Juta com pinha e frutos"
+    },
+    {
+      "n": 54,
+      "image": "img/lacos/054.webp",
+      "title": "Xadrez com Pai Natal"
+    },
+    {
+      "n": 55,
+      "image": "img/lacos/055.webp",
+      "title": "Branco e ouro com bolinhas"
+    },
+    {
+      "n": 56,
+      "image": "img/lacos/056.webp",
+      "title": "Verde e ouro com pontas em leque"
+    },
+    {
+      "n": 57,
+      "image": "img/lacos/057.webp",
+      "title": "Creme e ouro com flor central"
+    },
+    {
+      "n": 58,
+      "image": "img/lacos/058.webp",
+      "title": "Rosé com rosa central"
+    },
+    {
+      "n": 59,
+      "image": "img/lacos/059.webp",
+      "title": "Bordéus e prata em cascata"
+    },
+    {
+      "n": 60,
+      "image": "img/lacos/060.webp",
+      "title": "Vermelho com organza dourada"
+    },
+    {
+      "n": 61,
+      "image": "img/lacos/061.webp",
+      "title": "Azul-claro e prata volumoso"
+    },
+    {
+      "n": 62,
+      "image": "img/lacos/062.webp",
+      "title": "Azul-real com ramos prateados"
+    },
+    {
+      "n": 63,
+      "image": "img/lacos/063.webp",
+      "title": "Árvores verdes com acabamento preto"
+    },
+    {
+      "n": 64,
+      "image": "img/lacos/064.webp",
+      "title": "Xadrez vermelho e dourado com branco"
+    },
+    {
+      "n": 65,
+      "image": "img/lacos/065.webp",
+      "title": "Veludo rosé delicado"
+    },
+    {
+      "n": 66,
+      "image": "img/lacos/066.webp",
+      "title": "Dourado de arabescos"
+    },
+    {
+      "n": 67,
+      "image": "img/lacos/067.webp",
+      "title": "Organza branca com bolinhas dourados"
+    },
+    {
+      "n": 68,
+      "image": "img/lacos/068.webp",
+      "title": "Verde brilhantes clássico"
+    },
+    {
+      "n": 69,
+      "image": "img/lacos/069.webp",
+      "title": "Azul-marinho com flocos e prata"
+    },
+    {
+      "n": 70,
+      "image": "img/lacos/070.webp",
+      "title": "Prata de centro franzido"
+    },
+    {
+      "n": 71,
+      "image": "img/lacos/071.webp",
+      "title": "Prata com centro revestido"
+    },
+    {
+      "n": 72,
+      "image": "img/lacos/072.webp",
+      "title": "Prata metalizada volumosa"
+    },
+    {
+      "n": 73,
+      "image": "img/lacos/073.webp",
+      "title": "Prata com centro arredondado"
+    },
+    {
+      "n": 74,
+      "image": "img/lacos/074.webp",
+      "title": "Ouro envelhecido com brilho"
+    },
+    {
+      "n": 75,
+      "image": "img/lacos/075.webp",
+      "title": "Rosé em três camadas"
+    },
+    {
+      "n": 76,
+      "image": "img/lacos/076.webp",
+      "title": "Rosa de camadas e pontas curvas"
+    },
+    {
+      "n": 77,
+      "image": "img/lacos/077.webp",
+      "title": "Rosa fosco de centro largo"
+    },
+    {
+      "n": 78,
+      "image": "img/lacos/078.webp",
+      "title": "Rosa com flocos e bordas nevadas"
+    },
+    {
+      "n": 79,
+      "image": "img/lacos/079.webp",
+      "title": "Veludo rosa com borda dourada"
+    },
+    {
+      "n": 80,
+      "image": "img/lacos/080.webp",
+      "title": "Dourado e creme com ramos"
+    },
+    {
+      "n": 81,
+      "image": "img/lacos/081.webp",
+      "title": "Juta dourada com brilho"
+    },
+    {
+      "n": 82,
+      "image": "img/lacos/082.webp",
+      "title": "Branco de textura felpuda"
+    },
+    {
+      "n": 83,
+      "image": "img/lacos/083.webp",
+      "title": "Linho e prata com renda"
+    },
+    {
+      "n": 84,
+      "image": "img/lacos/084.webp",
+      "title": "Branco com broche e cascata"
+    },
+    {
+      "n": 85,
+      "image": "img/lacos/085.webp",
+      "title": "Dourado estreito de quatro voltas"
+    },
+    {
+      "n": 86,
+      "image": "img/lacos/086.webp",
+      "title": "Verde-escuro com riscas douradas"
+    },
+    {
+      "n": 87,
+      "image": "img/lacos/087.webp",
+      "title": "Verde com riscas finas"
+    },
+    {
+      "n": 88,
+      "image": "img/lacos/088.webp",
+      "title": "Verde e dourado em três níveis"
+    },
+    {
+      "n": 89,
+      "image": "img/lacos/089.webp",
+      "title": "Verde e juta de bordas verdes"
+    },
+    {
+      "n": 90,
+      "image": "img/lacos/090.webp",
+      "title": "Xadrez para guirlanda com frutos"
+    },
+    {
+      "n": 91,
+      "image": "img/lacos/091.webp",
+      "title": "Juta e xadrez em três níveis com seis caudas — Variação"
+    },
+    {
+      "n": 92,
+      "image": "img/lacos/092.webp",
+      "title": "Pendente rendado com pinha e laço duplo — Variação"
+    },
+    {
+      "n": 93,
+      "image": "img/lacos/093.webp",
+      "title": "Pai Natal de quatro voltas com cinto — Variação"
+    },
+    {
+      "n": 94,
+      "image": "img/lacos/094.webp",
+      "title": "Pendente duplo de pinhas com laço de juta — Variação"
+    },
+    {
+      "n": 95,
+      "image": "img/lacos/095.webp",
+      "title": "Azul-real com leque de três pontas prateadas — Variação"
+    },
+    {
+      "n": 96,
+      "image": "img/lacos/096.webp",
+      "title": "Rosa nacarado de quatro voltas em camadas — Variação"
+    },
+    {
+      "n": 97,
+      "image": "img/lacos/097.webp",
+      "title": "Vermelho com ramos de frutos"
+    },
+    {
+      "n": 98,
+      "image": "img/lacos/098.webp",
+      "title": "Topo de Natal vermelho e creme"
+    },
+    {
+      "n": 99,
+      "image": "img/lacos/099.webp",
+      "title": "Laço azul-gelo com borboleta"
+    },
+    {
+      "n": 100,
+      "image": "img/lacos/100.webp",
+      "title": "Rosé com esferas decorativas"
+    },
+    {
+      "n": 101,
+      "image": "img/lacos/101.webp",
+      "title": "Vermelho com flor de Natal"
+    },
+    {
+      "n": 102,
+      "image": "img/lacos/102.webp",
+      "title": "Juta para cadeira de Natal"
+    },
+    {
+      "n": 103,
+      "image": "img/lacos/103.webp",
+      "title": "Marfim com cascata longa"
+    },
+    {
+      "n": 104,
+      "image": "img/lacos/104.webp",
+      "title": "Prata clássico de nó central"
+    },
+    {
+      "n": 105,
+      "image": "img/lacos/105.webp",
+      "title": "Rosa com pérolas"
+    },
+    {
+      "n": 106,
+      "image": "img/lacos/106.webp",
+      "title": "Dourado acetinado de pontas longas"
+    },
+    {
+      "n": 107,
+      "image": "img/lacos/107.webp",
+      "title": "Esmeralda com cascata espiral — Variação"
+    }
+  ],
+  "cover": "img/lacos/001.webp",
+  "segments": []
+}

@@ -5,12 +5,13 @@ window.Estado = (() => {
   const q = new URLSearchParams(location.search);
   if (CONFIG.MODO_PROVISORIO) {
     if (['basico','premium'].includes(q.get('plano'))) state.provisoria=q.get('plano');
+    else if (!['basico','premium'].includes(state.provisoria) && !state.direitos.some(x=>['basico','premium'].includes(x))) state.provisoria='premium';
     save();
   }
   if(q.get('extras')==='none'){state.extras=[];state.direitos=state.direitos.filter(x=>!['guirlandas','lacos'].includes(x));save();}
   const normalizarEmail=email=>String(email||'').replace(/\s/g,'').toLowerCase();
   const emailValido=email=>/^[^\s@]+@[^\s@]+\.[^\s@]+$/.test(normalizarEmail(email));
-  function direitos(){return [...new Set([...state.direitos,...(CONFIG.MODO_PROVISORIO?[state.provisoria]:[]),...(CONFIG.EXTRAS_EMAIL_LIVRE?state.extras:[])])];}
+  function direitos(){const plano=CONFIG.MODO_PROVISORIO&&['basico','premium'].includes(state.provisoria)?state.provisoria:null;return [...new Set([...state.direitos.filter(x=>!plano||!['basico','premium'].includes(x)),...(plano?[plano]:[]),...(CONFIG.EXTRAS_EMAIL_LIVRE?state.extras:[])])];}
   return { get:()=>state, normalizarEmail, emailValido, direitos, tem:x=>direitos().includes(x), premium:()=>direitos().includes('premium'),
     acesso:()=>direitos().some(x=>['basico','premium','guirlandas','lacos'].includes(x)),
     async login(email){
@@ -18,7 +19,7 @@ window.Estado = (() => {
       if(!emailValido(email))throw new Error('Confira o e-mail digitado.');
       if(CONFIG.EXTRAS_EMAIL_LIVRE){
         state.email=email;state.extras=['guirlandas','lacos'];
-        if(!direitos().some(x=>['basico','premium'].includes(x)))state.direitos.push('basico');
+        if(!direitos().some(x=>['basico','premium'].includes(x)))state.direitos.push('premium');
         save();return direitos();
       }
       const response=await fetch(CONFIG.ACESSO_URL+'?email='+encodeURIComponent(email),{cache:'no-store'});
